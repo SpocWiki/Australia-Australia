@@ -126,8 +126,10 @@ Continent :: [[Oceania]]
 Capital :: [[Kingston_(Norfolkinsel)]]  
 [Alcohol-l::] 
 [Language-Id::] 
-[geo-lon::167.967] 
-[geo-lat::-29.0667] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::167.967] 
+[has_place_latitude::-29.0667] 
 
 
 

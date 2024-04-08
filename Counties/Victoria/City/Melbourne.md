@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::144.97] 
-[geo-lat::-37.83] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::144.97] 
+[has_place_latitude::-37.83] 
 [name::Melbourne] 
 State ::  
 Country :: [[Australia]]  

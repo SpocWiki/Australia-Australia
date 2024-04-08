@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::96.83334] 
-[geo-lat::-12.18333] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::96.83334] 
+[has_place_latitude::-12.18333] 
 [name::West Island] 
 State ::  
 Country ::[[../../../Australasia/Australia/Cocos_Island]]]  

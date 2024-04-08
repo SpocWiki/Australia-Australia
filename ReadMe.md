@@ -125,8 +125,10 @@ Capital :: [[Canberra]]
 
 [Alcohol-l::10] 
 [Language-Id::499] 
-[geo-lon::149.027] 
-[geo-lat::-35.4776] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::149.027] 
+[has_place_latitude::-35.4776] 
 
 
 

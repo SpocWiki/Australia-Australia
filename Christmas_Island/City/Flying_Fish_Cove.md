@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::105.6833] 
-[geo-lat::-10.41667] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::105.6833] 
+[has_place_latitude::-10.41667] 
 [name::Flying Fish Cove] 
 State ::  
 Country ::[[../../../Australasia/Australia/Christmas_Island]]]  

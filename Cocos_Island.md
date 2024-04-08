@@ -29,8 +29,10 @@ Continent :: [[Oceania]]
 Capital :: [[West_Island]]  
 [Alcohol-l::] 
 [Language-Id::] 
-[geo-lon::96.8333] 
-[geo-lat::-12.1833] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::96.8333] 
+[has_place_latitude::-12.1833] 
 
 
 

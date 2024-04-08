@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::152.5] 
-[geo-lat::-27.5] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::152.5] 
+[has_place_latitude::-27.5] 
 [name::Brisbane] 
 State ::  
 Country :: [[Australia]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::151.22] 
-[geo-lat::-33.87] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::151.22] 
+[has_place_latitude::-33.87] 
 [name::Sydney] 
 State ::  
 Country :: [[Australia]]  

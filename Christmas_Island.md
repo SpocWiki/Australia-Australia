@@ -125,8 +125,10 @@ Continent :: [[Oceania]]
 Capital :: [[Flying_Fish_Cove]]  
 [Alcohol-l::] 
 [Language-Id::] 
-[geo-lon::105.683] 
-[geo-lat::-10.4167] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::105.683] 
+[has_place_latitude::-10.4167] 
 
 
 

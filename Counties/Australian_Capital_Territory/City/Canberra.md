@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::149.1245] 
-[geo-lat::-35.30806] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::149.1245] 
+[has_place_latitude::-35.30806] 
 [name::Canberra] 
 State ::  
 Country :: [[Australia]]  

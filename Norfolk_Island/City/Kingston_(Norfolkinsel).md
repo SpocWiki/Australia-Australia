@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::167.9667] 
-[geo-lat::-29.06667] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::167.9667] 
+[has_place_latitude::-29.06667] 
 [name::Kingston (Norfolkinsel)] 
 State ::  
 Country ::[[../../../Australasia/Australia/Norfolk_Island]]]  
