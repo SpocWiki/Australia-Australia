@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\Australia\AustraliaLicense.public.md) 
+### [License](/_Standards/Earth/Continent/Australasia/Australia/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\Australia\AustraliaLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/Australasia/Australia/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\Australia\AustraliaLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/Australasia/Australia/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\Australia\AustraliaLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/Australasia/Australia/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\Australia\AustraliaLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/Australasia/Australia/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\Australia\AustraliaLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/Australasia/Australia/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/Australasia/Australia/License.secret.md)
 

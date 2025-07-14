@@ -132,15 +132,17 @@ Capital :: [[Kingston_(Norfolkinsel)]]
 
 ## Confidential Links & Embeds: 
 
-### [Norfolk_Island.public](/_public/\Earth\Continent\Australia\AustraliaNorfolk_Island.public.md) 
+### [Norfolk_Island](/_Standards/Earth/Continent/Australasia/Australia/Norfolk_Island.md) 
 
-### [Norfolk_Island.internal](/_internal/\Earth\Continent\Australia\AustraliaNorfolk_Island.internal.md) 
+### [Norfolk_Island.public](/_public/Earth/Continent/Australasia/Australia/Norfolk_Island.public.md) 
 
-### [Norfolk_Island.protect](/_protect/\Earth\Continent\Australia\AustraliaNorfolk_Island.protect.md) 
+### [Norfolk_Island.internal](/_internal/Earth/Continent/Australasia/Australia/Norfolk_Island.internal.md) 
 
-### [Norfolk_Island.private](/_private/\Earth\Continent\Australia\AustraliaNorfolk_Island.private.md) 
+### [Norfolk_Island.protect](/_protect/Earth/Continent/Australasia/Australia/Norfolk_Island.protect.md) 
 
-### [Norfolk_Island.personal](/_personal/\Earth\Continent\Australia\AustraliaNorfolk_Island.personal.md) 
+### [Norfolk_Island.private](/_private/Earth/Continent/Australasia/Australia/Norfolk_Island.private.md) 
 
-### [Norfolk_Island.secret](/_secret/\Earth\Continent\Australia\AustraliaNorfolk_Island.secret.md)
+### [Norfolk_Island.personal](/_personal/Earth/Continent/Australasia/Australia/Norfolk_Island.personal.md) 
+
+### [Norfolk_Island.secret](/_secret/Earth/Continent/Australasia/Australia/Norfolk_Island.secret.md)
 

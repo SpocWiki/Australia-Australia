@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Canberra.public](/_public/\Earth\Continent\Australia\Australia\Counties\Australian_Capital_Territory\CityCanberra.public.md) 
+### [Canberra](/_Standards/Earth/Continent/Australasia/Australia/Counties/Australian_Capital_Territory/City/Canberra.md) 
 
-### [Canberra.internal](/_internal/\Earth\Continent\Australia\Australia\Counties\Australian_Capital_Territory\CityCanberra.internal.md) 
+### [Canberra.public](/_public/Earth/Continent/Australasia/Australia/Counties/Australian_Capital_Territory/City/Canberra.public.md) 
 
-### [Canberra.protect](/_protect/\Earth\Continent\Australia\Australia\Counties\Australian_Capital_Territory\CityCanberra.protect.md) 
+### [Canberra.internal](/_internal/Earth/Continent/Australasia/Australia/Counties/Australian_Capital_Territory/City/Canberra.internal.md) 
 
-### [Canberra.private](/_private/\Earth\Continent\Australia\Australia\Counties\Australian_Capital_Territory\CityCanberra.private.md) 
+### [Canberra.protect](/_protect/Earth/Continent/Australasia/Australia/Counties/Australian_Capital_Territory/City/Canberra.protect.md) 
 
-### [Canberra.personal](/_personal/\Earth\Continent\Australia\Australia\Counties\Australian_Capital_Territory\CityCanberra.personal.md) 
+### [Canberra.private](/_private/Earth/Continent/Australasia/Australia/Counties/Australian_Capital_Territory/City/Canberra.private.md) 
 
-### [Canberra.secret](/_secret/\Earth\Continent\Australia\Australia\Counties\Australian_Capital_Territory\CityCanberra.secret.md)
+### [Canberra.personal](/_personal/Earth/Continent/Australasia/Australia/Counties/Australian_Capital_Territory/City/Canberra.personal.md) 
+
+### [Canberra.secret](/_secret/Earth/Continent/Australasia/Australia/Counties/Australian_Capital_Territory/City/Canberra.secret.md)
 

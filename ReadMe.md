@@ -131,15 +131,17 @@ Capital :: [[Canberra]]
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe.public](/_public/\Earth\Continent\Australia\AustraliaReadMe.public.md) 
+### [ReadMe](/_Standards/Earth/Continent/Australasia/Australia/ReadMe.md) 
 
-### [ReadMe.internal](/_internal/\Earth\Continent\Australia\AustraliaReadMe.internal.md) 
+### [ReadMe.public](/_public/Earth/Continent/Australasia/Australia/ReadMe.public.md) 
 
-### [ReadMe.protect](/_protect/\Earth\Continent\Australia\AustraliaReadMe.protect.md) 
+### [ReadMe.internal](/_internal/Earth/Continent/Australasia/Australia/ReadMe.internal.md) 
 
-### [ReadMe.private](/_private/\Earth\Continent\Australia\AustraliaReadMe.private.md) 
+### [ReadMe.protect](/_protect/Earth/Continent/Australasia/Australia/ReadMe.protect.md) 
 
-### [ReadMe.personal](/_personal/\Earth\Continent\Australia\AustraliaReadMe.personal.md) 
+### [ReadMe.private](/_private/Earth/Continent/Australasia/Australia/ReadMe.private.md) 
 
-### [ReadMe.secret](/_secret/\Earth\Continent\Australia\AustraliaReadMe.secret.md)
+### [ReadMe.personal](/_personal/Earth/Continent/Australasia/Australia/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/Australasia/Australia/ReadMe.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Australian_Capital_Territory/
 
 ## Confidential Links & Embeds: 
 
-### [Australian_Capital_Territory.public](/_public/\Earth\Continent\Australia\Australia\CountiesAustralian_Capital_Territory.public.md) 
+### [Australian_Capital_Territory](/_Standards/Earth/Continent/Australasia/Australia/Counties/Australian_Capital_Territory.md) 
 
-### [Australian_Capital_Territory.internal](/_internal/\Earth\Continent\Australia\Australia\CountiesAustralian_Capital_Territory.internal.md) 
+### [Australian_Capital_Territory.public](/_public/Earth/Continent/Australasia/Australia/Counties/Australian_Capital_Territory.public.md) 
 
-### [Australian_Capital_Territory.protect](/_protect/\Earth\Continent\Australia\Australia\CountiesAustralian_Capital_Territory.protect.md) 
+### [Australian_Capital_Territory.internal](/_internal/Earth/Continent/Australasia/Australia/Counties/Australian_Capital_Territory.internal.md) 
 
-### [Australian_Capital_Territory.private](/_private/\Earth\Continent\Australia\Australia\CountiesAustralian_Capital_Territory.private.md) 
+### [Australian_Capital_Territory.protect](/_protect/Earth/Continent/Australasia/Australia/Counties/Australian_Capital_Territory.protect.md) 
 
-### [Australian_Capital_Territory.personal](/_personal/\Earth\Continent\Australia\Australia\CountiesAustralian_Capital_Territory.personal.md) 
+### [Australian_Capital_Territory.private](/_private/Earth/Continent/Australasia/Australia/Counties/Australian_Capital_Territory.private.md) 
 
-### [Australian_Capital_Territory.secret](/_secret/\Earth\Continent\Australia\Australia\CountiesAustralian_Capital_Territory.secret.md)
+### [Australian_Capital_Territory.personal](/_personal/Earth/Continent/Australasia/Australia/Counties/Australian_Capital_Territory.personal.md) 
+
+### [Australian_Capital_Territory.secret](/_secret/Earth/Continent/Australasia/Australia/Counties/Australian_Capital_Territory.secret.md)
 

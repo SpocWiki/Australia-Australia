@@ -159,15 +159,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sydney.public](/_public/\Earth\Continent\Australia\Australia\Counties\New_South_Wales\CitySydney.public.md) 
+### [Sydney](/_Standards/Earth/Continent/Australasia/Australia/Counties/New_South_Wales/City/Sydney.md) 
 
-### [Sydney.internal](/_internal/\Earth\Continent\Australia\Australia\Counties\New_South_Wales\CitySydney.internal.md) 
+### [Sydney.public](/_public/Earth/Continent/Australasia/Australia/Counties/New_South_Wales/City/Sydney.public.md) 
 
-### [Sydney.protect](/_protect/\Earth\Continent\Australia\Australia\Counties\New_South_Wales\CitySydney.protect.md) 
+### [Sydney.internal](/_internal/Earth/Continent/Australasia/Australia/Counties/New_South_Wales/City/Sydney.internal.md) 
 
-### [Sydney.private](/_private/\Earth\Continent\Australia\Australia\Counties\New_South_Wales\CitySydney.private.md) 
+### [Sydney.protect](/_protect/Earth/Continent/Australasia/Australia/Counties/New_South_Wales/City/Sydney.protect.md) 
 
-### [Sydney.personal](/_personal/\Earth\Continent\Australia\Australia\Counties\New_South_Wales\CitySydney.personal.md) 
+### [Sydney.private](/_private/Earth/Continent/Australasia/Australia/Counties/New_South_Wales/City/Sydney.private.md) 
 
-### [Sydney.secret](/_secret/\Earth\Continent\Australia\Australia\Counties\New_South_Wales\CitySydney.secret.md)
+### [Sydney.personal](/_personal/Earth/Continent/Australasia/Australia/Counties/New_South_Wales/City/Sydney.personal.md) 
+
+### [Sydney.secret](/_secret/Earth/Continent/Australasia/Australia/Counties/New_South_Wales/City/Sydney.secret.md)
 

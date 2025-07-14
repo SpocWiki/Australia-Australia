@@ -131,15 +131,17 @@ Capital :: [[Flying_Fish_Cove]]
 
 ## Confidential Links & Embeds: 
 
-### [Christmas_Island.public](/_public/\Earth\Continent\Australia\AustraliaChristmas_Island.public.md) 
+### [Christmas_Island](/_Standards/Earth/Continent/Australasia/Australia/Christmas_Island.md) 
 
-### [Christmas_Island.internal](/_internal/\Earth\Continent\Australia\AustraliaChristmas_Island.internal.md) 
+### [Christmas_Island.public](/_public/Earth/Continent/Australasia/Australia/Christmas_Island.public.md) 
 
-### [Christmas_Island.protect](/_protect/\Earth\Continent\Australia\AustraliaChristmas_Island.protect.md) 
+### [Christmas_Island.internal](/_internal/Earth/Continent/Australasia/Australia/Christmas_Island.internal.md) 
 
-### [Christmas_Island.private](/_private/\Earth\Continent\Australia\AustraliaChristmas_Island.private.md) 
+### [Christmas_Island.protect](/_protect/Earth/Continent/Australasia/Australia/Christmas_Island.protect.md) 
 
-### [Christmas_Island.personal](/_personal/\Earth\Continent\Australia\AustraliaChristmas_Island.personal.md) 
+### [Christmas_Island.private](/_private/Earth/Continent/Australasia/Australia/Christmas_Island.private.md) 
 
-### [Christmas_Island.secret](/_secret/\Earth\Continent\Australia\AustraliaChristmas_Island.secret.md)
+### [Christmas_Island.personal](/_personal/Earth/Continent/Australasia/Australia/Christmas_Island.personal.md) 
+
+### [Christmas_Island.secret](/_secret/Earth/Continent/Australasia/Australia/Christmas_Island.secret.md)
 

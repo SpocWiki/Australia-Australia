@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Flying_Fish_Cove.public](/_public/\Earth\Continent\Australia\Australia\Christmas_Island\CityFlying_Fish_Cove.public.md) 
+### [Flying_Fish_Cove](/_Standards/Earth/Continent/Australasia/Australia/Christmas_Island/City/Flying_Fish_Cove.md) 
 
-### [Flying_Fish_Cove.internal](/_internal/\Earth\Continent\Australia\Australia\Christmas_Island\CityFlying_Fish_Cove.internal.md) 
+### [Flying_Fish_Cove.public](/_public/Earth/Continent/Australasia/Australia/Christmas_Island/City/Flying_Fish_Cove.public.md) 
 
-### [Flying_Fish_Cove.protect](/_protect/\Earth\Continent\Australia\Australia\Christmas_Island\CityFlying_Fish_Cove.protect.md) 
+### [Flying_Fish_Cove.internal](/_internal/Earth/Continent/Australasia/Australia/Christmas_Island/City/Flying_Fish_Cove.internal.md) 
 
-### [Flying_Fish_Cove.private](/_private/\Earth\Continent\Australia\Australia\Christmas_Island\CityFlying_Fish_Cove.private.md) 
+### [Flying_Fish_Cove.protect](/_protect/Earth/Continent/Australasia/Australia/Christmas_Island/City/Flying_Fish_Cove.protect.md) 
 
-### [Flying_Fish_Cove.personal](/_personal/\Earth\Continent\Australia\Australia\Christmas_Island\CityFlying_Fish_Cove.personal.md) 
+### [Flying_Fish_Cove.private](/_private/Earth/Continent/Australasia/Australia/Christmas_Island/City/Flying_Fish_Cove.private.md) 
 
-### [Flying_Fish_Cove.secret](/_secret/\Earth\Continent\Australia\Australia\Christmas_Island\CityFlying_Fish_Cove.secret.md)
+### [Flying_Fish_Cove.personal](/_personal/Earth/Continent/Australasia/Australia/Christmas_Island/City/Flying_Fish_Cove.personal.md) 
+
+### [Flying_Fish_Cove.secret](/_secret/Earth/Continent/Australasia/Australia/Christmas_Island/City/Flying_Fish_Cove.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Melbourne.public](/_public/\Earth\Continent\Australia\Australia\Counties\Victoria\CityMelbourne.public.md) 
+### [Melbourne](/_Standards/Earth/Continent/Australasia/Australia/Counties/Victoria/City/Melbourne.md) 
 
-### [Melbourne.internal](/_internal/\Earth\Continent\Australia\Australia\Counties\Victoria\CityMelbourne.internal.md) 
+### [Melbourne.public](/_public/Earth/Continent/Australasia/Australia/Counties/Victoria/City/Melbourne.public.md) 
 
-### [Melbourne.protect](/_protect/\Earth\Continent\Australia\Australia\Counties\Victoria\CityMelbourne.protect.md) 
+### [Melbourne.internal](/_internal/Earth/Continent/Australasia/Australia/Counties/Victoria/City/Melbourne.internal.md) 
 
-### [Melbourne.private](/_private/\Earth\Continent\Australia\Australia\Counties\Victoria\CityMelbourne.private.md) 
+### [Melbourne.protect](/_protect/Earth/Continent/Australasia/Australia/Counties/Victoria/City/Melbourne.protect.md) 
 
-### [Melbourne.personal](/_personal/\Earth\Continent\Australia\Australia\Counties\Victoria\CityMelbourne.personal.md) 
+### [Melbourne.private](/_private/Earth/Continent/Australasia/Australia/Counties/Victoria/City/Melbourne.private.md) 
 
-### [Melbourne.secret](/_secret/\Earth\Continent\Australia\Australia\Counties\Victoria\CityMelbourne.secret.md)
+### [Melbourne.personal](/_personal/Earth/Continent/Australasia/Australia/Counties/Victoria/City/Melbourne.personal.md) 
+
+### [Melbourne.secret](/_secret/Earth/Continent/Australasia/Australia/Counties/Victoria/City/Melbourne.secret.md)
 

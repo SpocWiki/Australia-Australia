@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kingston_(Norfolkinsel).public](/_public/\Earth\Continent\Australia\Australia\Norfolk_Island\CityKingston_(Norfolkinsel).public.md) 
+### [Kingston_(Norfolkinsel)](/_Standards/Earth/Continent/Australasia/Australia/Norfolk_Island/City/Kingston_(Norfolkinsel).md) 
 
-### [Kingston_(Norfolkinsel).internal](/_internal/\Earth\Continent\Australia\Australia\Norfolk_Island\CityKingston_(Norfolkinsel).internal.md) 
+### [Kingston_(Norfolkinsel).public](/_public/Earth/Continent/Australasia/Australia/Norfolk_Island/City/Kingston_(Norfolkinsel).public.md) 
 
-### [Kingston_(Norfolkinsel).protect](/_protect/\Earth\Continent\Australia\Australia\Norfolk_Island\CityKingston_(Norfolkinsel).protect.md) 
+### [Kingston_(Norfolkinsel).internal](/_internal/Earth/Continent/Australasia/Australia/Norfolk_Island/City/Kingston_(Norfolkinsel).internal.md) 
 
-### [Kingston_(Norfolkinsel).private](/_private/\Earth\Continent\Australia\Australia\Norfolk_Island\CityKingston_(Norfolkinsel).private.md) 
+### [Kingston_(Norfolkinsel).protect](/_protect/Earth/Continent/Australasia/Australia/Norfolk_Island/City/Kingston_(Norfolkinsel).protect.md) 
 
-### [Kingston_(Norfolkinsel).personal](/_personal/\Earth\Continent\Australia\Australia\Norfolk_Island\CityKingston_(Norfolkinsel).personal.md) 
+### [Kingston_(Norfolkinsel).private](/_private/Earth/Continent/Australasia/Australia/Norfolk_Island/City/Kingston_(Norfolkinsel).private.md) 
 
-### [Kingston_(Norfolkinsel).secret](/_secret/\Earth\Continent\Australia\Australia\Norfolk_Island\CityKingston_(Norfolkinsel).secret.md)
+### [Kingston_(Norfolkinsel).personal](/_personal/Earth/Continent/Australasia/Australia/Norfolk_Island/City/Kingston_(Norfolkinsel).personal.md) 
+
+### [Kingston_(Norfolkinsel).secret](/_secret/Earth/Continent/Australasia/Australia/Norfolk_Island/City/Kingston_(Norfolkinsel).secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./New_South_Wales/
 
 ## Confidential Links & Embeds: 
 
-### [New_South_Wales.public](/_public/\Earth\Continent\Australia\Australia\CountiesNew_South_Wales.public.md) 
+### [New_South_Wales](/_Standards/Earth/Continent/Australasia/Australia/Counties/New_South_Wales.md) 
 
-### [New_South_Wales.internal](/_internal/\Earth\Continent\Australia\Australia\CountiesNew_South_Wales.internal.md) 
+### [New_South_Wales.public](/_public/Earth/Continent/Australasia/Australia/Counties/New_South_Wales.public.md) 
 
-### [New_South_Wales.protect](/_protect/\Earth\Continent\Australia\Australia\CountiesNew_South_Wales.protect.md) 
+### [New_South_Wales.internal](/_internal/Earth/Continent/Australasia/Australia/Counties/New_South_Wales.internal.md) 
 
-### [New_South_Wales.private](/_private/\Earth\Continent\Australia\Australia\CountiesNew_South_Wales.private.md) 
+### [New_South_Wales.protect](/_protect/Earth/Continent/Australasia/Australia/Counties/New_South_Wales.protect.md) 
 
-### [New_South_Wales.personal](/_personal/\Earth\Continent\Australia\Australia\CountiesNew_South_Wales.personal.md) 
+### [New_South_Wales.private](/_private/Earth/Continent/Australasia/Australia/Counties/New_South_Wales.private.md) 
 
-### [New_South_Wales.secret](/_secret/\Earth\Continent\Australia\Australia\CountiesNew_South_Wales.secret.md)
+### [New_South_Wales.personal](/_personal/Earth/Continent/Australasia/Australia/Counties/New_South_Wales.personal.md) 
+
+### [New_South_Wales.secret](/_secret/Earth/Continent/Australasia/Australia/Counties/New_South_Wales.secret.md)
 

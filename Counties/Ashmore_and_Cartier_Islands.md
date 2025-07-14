@@ -41,15 +41,17 @@ markerFolder: ./Ashmore_and_Cartier_Islands/
 
 ## Confidential Links & Embeds: 
 
-### [Ashmore_and_Cartier_Islands.public](/_public/\Earth\Continent\Australia\Australia\CountiesAshmore_and_Cartier_Islands.public.md) 
+### [Ashmore_and_Cartier_Islands](/_Standards/Earth/Continent/Australasia/Australia/Counties/Ashmore_and_Cartier_Islands.md) 
 
-### [Ashmore_and_Cartier_Islands.internal](/_internal/\Earth\Continent\Australia\Australia\CountiesAshmore_and_Cartier_Islands.internal.md) 
+### [Ashmore_and_Cartier_Islands.public](/_public/Earth/Continent/Australasia/Australia/Counties/Ashmore_and_Cartier_Islands.public.md) 
 
-### [Ashmore_and_Cartier_Islands.protect](/_protect/\Earth\Continent\Australia\Australia\CountiesAshmore_and_Cartier_Islands.protect.md) 
+### [Ashmore_and_Cartier_Islands.internal](/_internal/Earth/Continent/Australasia/Australia/Counties/Ashmore_and_Cartier_Islands.internal.md) 
 
-### [Ashmore_and_Cartier_Islands.private](/_private/\Earth\Continent\Australia\Australia\CountiesAshmore_and_Cartier_Islands.private.md) 
+### [Ashmore_and_Cartier_Islands.protect](/_protect/Earth/Continent/Australasia/Australia/Counties/Ashmore_and_Cartier_Islands.protect.md) 
 
-### [Ashmore_and_Cartier_Islands.personal](/_personal/\Earth\Continent\Australia\Australia\CountiesAshmore_and_Cartier_Islands.personal.md) 
+### [Ashmore_and_Cartier_Islands.private](/_private/Earth/Continent/Australasia/Australia/Counties/Ashmore_and_Cartier_Islands.private.md) 
 
-### [Ashmore_and_Cartier_Islands.secret](/_secret/\Earth\Continent\Australia\Australia\CountiesAshmore_and_Cartier_Islands.secret.md)
+### [Ashmore_and_Cartier_Islands.personal](/_personal/Earth/Continent/Australasia/Australia/Counties/Ashmore_and_Cartier_Islands.personal.md) 
+
+### [Ashmore_and_Cartier_Islands.secret](/_secret/Earth/Continent/Australasia/Australia/Counties/Ashmore_and_Cartier_Islands.secret.md)
 

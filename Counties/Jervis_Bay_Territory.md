@@ -41,15 +41,17 @@ markerFolder: ./Jervis_Bay_Territory/
 
 ## Confidential Links & Embeds: 
 
-### [Jervis_Bay_Territory.public](/_public/\Earth\Continent\Australia\Australia\CountiesJervis_Bay_Territory.public.md) 
+### [Jervis_Bay_Territory](/_Standards/Earth/Continent/Australasia/Australia/Counties/Jervis_Bay_Territory.md) 
 
-### [Jervis_Bay_Territory.internal](/_internal/\Earth\Continent\Australia\Australia\CountiesJervis_Bay_Territory.internal.md) 
+### [Jervis_Bay_Territory.public](/_public/Earth/Continent/Australasia/Australia/Counties/Jervis_Bay_Territory.public.md) 
 
-### [Jervis_Bay_Territory.protect](/_protect/\Earth\Continent\Australia\Australia\CountiesJervis_Bay_Territory.protect.md) 
+### [Jervis_Bay_Territory.internal](/_internal/Earth/Continent/Australasia/Australia/Counties/Jervis_Bay_Territory.internal.md) 
 
-### [Jervis_Bay_Territory.private](/_private/\Earth\Continent\Australia\Australia\CountiesJervis_Bay_Territory.private.md) 
+### [Jervis_Bay_Territory.protect](/_protect/Earth/Continent/Australasia/Australia/Counties/Jervis_Bay_Territory.protect.md) 
 
-### [Jervis_Bay_Territory.personal](/_personal/\Earth\Continent\Australia\Australia\CountiesJervis_Bay_Territory.personal.md) 
+### [Jervis_Bay_Territory.private](/_private/Earth/Continent/Australasia/Australia/Counties/Jervis_Bay_Territory.private.md) 
 
-### [Jervis_Bay_Territory.secret](/_secret/\Earth\Continent\Australia\Australia\CountiesJervis_Bay_Territory.secret.md)
+### [Jervis_Bay_Territory.personal](/_personal/Earth/Continent/Australasia/Australia/Counties/Jervis_Bay_Territory.personal.md) 
+
+### [Jervis_Bay_Territory.secret](/_secret/Earth/Continent/Australasia/Australia/Counties/Jervis_Bay_Territory.secret.md)
 

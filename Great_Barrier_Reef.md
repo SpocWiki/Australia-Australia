@@ -22,20 +22,19 @@ has_id_wikidata: Q7343
 > [Wikipedia](https://en.wikipedia.org/wiki/Great%20Barrier%20Reef) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Great_Barrier_Reef.public](/_public/\Earth\Continent\Australia\AustraliaGreat_Barrier_Reef.public.md) 
+### [Great_Barrier_Reef](/_Standards/Earth/Continent/Australasia/Australia/Great_Barrier_Reef.md) 
 
-### [Great_Barrier_Reef.internal](/_internal/\Earth\Continent\Australia\AustraliaGreat_Barrier_Reef.internal.md) 
+### [Great_Barrier_Reef.public](/_public/Earth/Continent/Australasia/Australia/Great_Barrier_Reef.public.md) 
 
-### [Great_Barrier_Reef.protect](/_protect/\Earth\Continent\Australia\AustraliaGreat_Barrier_Reef.protect.md) 
+### [Great_Barrier_Reef.internal](/_internal/Earth/Continent/Australasia/Australia/Great_Barrier_Reef.internal.md) 
 
-### [Great_Barrier_Reef.private](/_private/\Earth\Continent\Australia\AustraliaGreat_Barrier_Reef.private.md) 
+### [Great_Barrier_Reef.protect](/_protect/Earth/Continent/Australasia/Australia/Great_Barrier_Reef.protect.md) 
 
-### [Great_Barrier_Reef.personal](/_personal/\Earth\Continent\Australia\AustraliaGreat_Barrier_Reef.personal.md) 
+### [Great_Barrier_Reef.private](/_private/Earth/Continent/Australasia/Australia/Great_Barrier_Reef.private.md) 
 
-### [Great_Barrier_Reef.secret](/_secret/\Earth\Continent\Australia\AustraliaGreat_Barrier_Reef.secret.md)
+### [Great_Barrier_Reef.personal](/_personal/Earth/Continent/Australasia/Australia/Great_Barrier_Reef.personal.md) 
+
+### [Great_Barrier_Reef.secret](/_secret/Earth/Continent/Australasia/Australia/Great_Barrier_Reef.secret.md)
 

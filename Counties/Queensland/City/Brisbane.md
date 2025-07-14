@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Brisbane.public](/_public/\Earth\Continent\Australia\Australia\Counties\Queensland\CityBrisbane.public.md) 
+### [Brisbane](/_Standards/Earth/Continent/Australasia/Australia/Counties/Queensland/City/Brisbane.md) 
 
-### [Brisbane.internal](/_internal/\Earth\Continent\Australia\Australia\Counties\Queensland\CityBrisbane.internal.md) 
+### [Brisbane.public](/_public/Earth/Continent/Australasia/Australia/Counties/Queensland/City/Brisbane.public.md) 
 
-### [Brisbane.protect](/_protect/\Earth\Continent\Australia\Australia\Counties\Queensland\CityBrisbane.protect.md) 
+### [Brisbane.internal](/_internal/Earth/Continent/Australasia/Australia/Counties/Queensland/City/Brisbane.internal.md) 
 
-### [Brisbane.private](/_private/\Earth\Continent\Australia\Australia\Counties\Queensland\CityBrisbane.private.md) 
+### [Brisbane.protect](/_protect/Earth/Continent/Australasia/Australia/Counties/Queensland/City/Brisbane.protect.md) 
 
-### [Brisbane.personal](/_personal/\Earth\Continent\Australia\Australia\Counties\Queensland\CityBrisbane.personal.md) 
+### [Brisbane.private](/_private/Earth/Continent/Australasia/Australia/Counties/Queensland/City/Brisbane.private.md) 
 
-### [Brisbane.secret](/_secret/\Earth\Continent\Australia\Australia\Counties\Queensland\CityBrisbane.secret.md)
+### [Brisbane.personal](/_personal/Earth/Continent/Australasia/Australia/Counties/Queensland/City/Brisbane.personal.md) 
+
+### [Brisbane.secret](/_secret/Earth/Continent/Australasia/Australia/Counties/Queensland/City/Brisbane.secret.md)
 

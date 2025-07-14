@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hobart.public](/_public/\Earth\Continent\Australia\Australia\Counties\Tasmania\CityHobart.public.md) 
+### [Hobart](/_Standards/Earth/Continent/Australasia/Australia/Counties/Tasmania/City/Hobart.md) 
 
-### [Hobart.internal](/_internal/\Earth\Continent\Australia\Australia\Counties\Tasmania\CityHobart.internal.md) 
+### [Hobart.public](/_public/Earth/Continent/Australasia/Australia/Counties/Tasmania/City/Hobart.public.md) 
 
-### [Hobart.protect](/_protect/\Earth\Continent\Australia\Australia\Counties\Tasmania\CityHobart.protect.md) 
+### [Hobart.internal](/_internal/Earth/Continent/Australasia/Australia/Counties/Tasmania/City/Hobart.internal.md) 
 
-### [Hobart.private](/_private/\Earth\Continent\Australia\Australia\Counties\Tasmania\CityHobart.private.md) 
+### [Hobart.protect](/_protect/Earth/Continent/Australasia/Australia/Counties/Tasmania/City/Hobart.protect.md) 
 
-### [Hobart.personal](/_personal/\Earth\Continent\Australia\Australia\Counties\Tasmania\CityHobart.personal.md) 
+### [Hobart.private](/_private/Earth/Continent/Australasia/Australia/Counties/Tasmania/City/Hobart.private.md) 
 
-### [Hobart.secret](/_secret/\Earth\Continent\Australia\Australia\Counties\Tasmania\CityHobart.secret.md)
+### [Hobart.personal](/_personal/Earth/Continent/Australasia/Australia/Counties/Tasmania/City/Hobart.personal.md) 
+
+### [Hobart.secret](/_secret/Earth/Continent/Australasia/Australia/Counties/Tasmania/City/Hobart.secret.md)
 
