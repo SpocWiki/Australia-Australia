@@ -130,12 +130,17 @@ Capital :: [[Kingston_(Norfolkinsel)]]
 [has_place_latitude::-29.0667] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/geo/Continent/Oceania/Norfolk_Island|Norfolk_Island]] 
-- [[../../../../_public/geo/Continent/Oceania/Norfolk_Island.public|Norfolk_Island.public]] 
-- [[../../../../_internal/geo/Continent/Oceania/Norfolk_Island.internal|Norfolk_Island.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Norfolk_Island.protect|Norfolk_Island.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Norfolk_Island.private|Norfolk_Island.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Norfolk_Island.personal|Norfolk_Island.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Norfolk_Island.secret|Norfolk_Island.secret]] 
+
+### [Norfolk_Island.public](/_public/\Earth\Continent\Australia\AustraliaNorfolk_Island.public.md) 
+
+### [Norfolk_Island.internal](/_internal/\Earth\Continent\Australia\AustraliaNorfolk_Island.internal.md) 
+
+### [Norfolk_Island.protect](/_protect/\Earth\Continent\Australia\AustraliaNorfolk_Island.protect.md) 
+
+### [Norfolk_Island.private](/_private/\Earth\Continent\Australia\AustraliaNorfolk_Island.private.md) 
+
+### [Norfolk_Island.personal](/_personal/\Earth\Continent\Australia\AustraliaNorfolk_Island.personal.md) 
+
+### [Norfolk_Island.secret](/_secret/\Earth\Continent\Australia\AustraliaNorfolk_Island.secret.md)
+

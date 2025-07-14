@@ -40,11 +40,16 @@ markerFolder: ./New_South_Wales/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Australia/Australia/Counties/New_South_Wales|New_South_Wales]] 
-- [[../../../../../../_public/geo/Continent/Australia/Australia/Counties/New_South_Wales.public|New_South_Wales.public]] 
-- [[../../../../../../_internal/geo/Continent/Australia/Australia/Counties/New_South_Wales.internal|New_South_Wales.internal]] 
-- [[../../../../../../_protect/geo/Continent/Australia/Australia/Counties/New_South_Wales.protect|New_South_Wales.protect]] 
-- [[../../../../../../_private/geo/Continent/Australia/Australia/Counties/New_South_Wales.private|New_South_Wales.private]] 
-- [[../../../../../../_personal/geo/Continent/Australia/Australia/Counties/New_South_Wales.personal|New_South_Wales.personal]] 
-- [[../../../../../../_secret/geo/Continent/Australia/Australia/Counties/New_South_Wales.secret|New_South_Wales.secret]] 
+
+### [New_South_Wales.public](/_public/\Earth\Continent\Australia\Australia\CountiesNew_South_Wales.public.md) 
+
+### [New_South_Wales.internal](/_internal/\Earth\Continent\Australia\Australia\CountiesNew_South_Wales.internal.md) 
+
+### [New_South_Wales.protect](/_protect/\Earth\Continent\Australia\Australia\CountiesNew_South_Wales.protect.md) 
+
+### [New_South_Wales.private](/_private/\Earth\Continent\Australia\Australia\CountiesNew_South_Wales.private.md) 
+
+### [New_South_Wales.personal](/_personal/\Earth\Continent\Australia\Australia\CountiesNew_South_Wales.personal.md) 
+
+### [New_South_Wales.secret](/_secret/\Earth\Continent\Australia\Australia\CountiesNew_South_Wales.secret.md)
 

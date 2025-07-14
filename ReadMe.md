@@ -129,12 +129,17 @@ Capital :: [[Canberra]]
 [has_place_latitude::-35.4776] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/geo/Continent/Australia/Australia|Australia]] 
-- [[../../../../_public/geo/Continent/Australia/Australia.public|Australia.public]] 
-- [[../../../../_internal/geo/Continent/Australia/Australia.internal|Australia.internal]] 
-- [[../../../../_protect/geo/Continent/Australia/Australia.protect|Australia.protect]] 
-- [[../../../../_private/geo/Continent/Australia/Australia.private|Australia.private]] 
-- [[../../../../_personal/geo/Continent/Australia/Australia.personal|Australia.personal]] 
-- [[../../../../_secret/geo/Continent/Australia/Australia.secret|Australia.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\Australia\AustraliaReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\Australia\AustraliaReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\Australia\AustraliaReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\Australia\AustraliaReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\Australia\AustraliaReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\Australia\AustraliaReadMe.secret.md)
+

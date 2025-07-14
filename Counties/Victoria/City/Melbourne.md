@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-37.83,144.97] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Australia/Australia/City/Melbourne|Melbourne]] 
-- [[../../../../../../_public/geo/Continent/Australia/Australia/City/Melbourne.public|Melbourne.public]] 
-- [[../../../../../../_internal/geo/Continent/Australia/Australia/City/Melbourne.internal|Melbourne.internal]] 
-- [[../../../../../../_protect/geo/Continent/Australia/Australia/City/Melbourne.protect|Melbourne.protect]] 
-- [[../../../../../../_private/geo/Continent/Australia/Australia/City/Melbourne.private|Melbourne.private]] 
-- [[../../../../../../_personal/geo/Continent/Australia/Australia/City/Melbourne.personal|Melbourne.personal]] 
-- [[../../../../../../_secret/geo/Continent/Australia/Australia/City/Melbourne.secret|Melbourne.secret]] 
+
+### [Melbourne.public](/_public/\Earth\Continent\Australia\Australia\Counties\Victoria\CityMelbourne.public.md) 
+
+### [Melbourne.internal](/_internal/\Earth\Continent\Australia\Australia\Counties\Victoria\CityMelbourne.internal.md) 
+
+### [Melbourne.protect](/_protect/\Earth\Continent\Australia\Australia\Counties\Victoria\CityMelbourne.protect.md) 
+
+### [Melbourne.private](/_private/\Earth\Continent\Australia\Australia\Counties\Victoria\CityMelbourne.private.md) 
+
+### [Melbourne.personal](/_personal/\Earth\Continent\Australia\Australia\Counties\Victoria\CityMelbourne.personal.md) 
+
+### [Melbourne.secret](/_secret/\Earth\Continent\Australia\Australia\Counties\Victoria\CityMelbourne.secret.md)
+

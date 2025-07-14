@@ -40,11 +40,16 @@ markerFolder: ./Macquarie_Island/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Australia/Australia/Counties/Macquarie_Island|Macquarie_Island]] 
-- [[../../../../../../_public/geo/Continent/Australia/Australia/Counties/Macquarie_Island.public|Macquarie_Island.public]] 
-- [[../../../../../../_internal/geo/Continent/Australia/Australia/Counties/Macquarie_Island.internal|Macquarie_Island.internal]] 
-- [[../../../../../../_protect/geo/Continent/Australia/Australia/Counties/Macquarie_Island.protect|Macquarie_Island.protect]] 
-- [[../../../../../../_private/geo/Continent/Australia/Australia/Counties/Macquarie_Island.private|Macquarie_Island.private]] 
-- [[../../../../../../_personal/geo/Continent/Australia/Australia/Counties/Macquarie_Island.personal|Macquarie_Island.personal]] 
-- [[../../../../../../_secret/geo/Continent/Australia/Australia/Counties/Macquarie_Island.secret|Macquarie_Island.secret]] 
+
+### [Macquarie_Island.public](/_public/\Earth\Continent\Australia\Australia\CountiesMacquarie_Island.public.md) 
+
+### [Macquarie_Island.internal](/_internal/\Earth\Continent\Australia\Australia\CountiesMacquarie_Island.internal.md) 
+
+### [Macquarie_Island.protect](/_protect/\Earth\Continent\Australia\Australia\CountiesMacquarie_Island.protect.md) 
+
+### [Macquarie_Island.private](/_private/\Earth\Continent\Australia\Australia\CountiesMacquarie_Island.private.md) 
+
+### [Macquarie_Island.personal](/_personal/\Earth\Continent\Australia\Australia\CountiesMacquarie_Island.personal.md) 
+
+### [Macquarie_Island.secret](/_secret/\Earth\Continent\Australia\Australia\CountiesMacquarie_Island.secret.md)
 

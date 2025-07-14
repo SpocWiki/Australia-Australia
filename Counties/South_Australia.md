@@ -40,11 +40,16 @@ markerFolder: ./South_Australia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Australia/Australia/Counties/South_Australia|South_Australia]] 
-- [[../../../../../../_public/geo/Continent/Australia/Australia/Counties/South_Australia.public|South_Australia.public]] 
-- [[../../../../../../_internal/geo/Continent/Australia/Australia/Counties/South_Australia.internal|South_Australia.internal]] 
-- [[../../../../../../_protect/geo/Continent/Australia/Australia/Counties/South_Australia.protect|South_Australia.protect]] 
-- [[../../../../../../_private/geo/Continent/Australia/Australia/Counties/South_Australia.private|South_Australia.private]] 
-- [[../../../../../../_personal/geo/Continent/Australia/Australia/Counties/South_Australia.personal|South_Australia.personal]] 
-- [[../../../../../../_secret/geo/Continent/Australia/Australia/Counties/South_Australia.secret|South_Australia.secret]] 
+
+### [South_Australia.public](/_public/\Earth\Continent\Australia\Australia\CountiesSouth_Australia.public.md) 
+
+### [South_Australia.internal](/_internal/\Earth\Continent\Australia\Australia\CountiesSouth_Australia.internal.md) 
+
+### [South_Australia.protect](/_protect/\Earth\Continent\Australia\Australia\CountiesSouth_Australia.protect.md) 
+
+### [South_Australia.private](/_private/\Earth\Continent\Australia\Australia\CountiesSouth_Australia.private.md) 
+
+### [South_Australia.personal](/_personal/\Earth\Continent\Australia\Australia\CountiesSouth_Australia.personal.md) 
+
+### [South_Australia.secret](/_secret/\Earth\Continent\Australia\Australia\CountiesSouth_Australia.secret.md)
 

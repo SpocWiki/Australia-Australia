@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-42.88,147.32] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Australia/Australia/City/Hobart|Hobart]] 
-- [[../../../../../../_public/geo/Continent/Australia/Australia/City/Hobart.public|Hobart.public]] 
-- [[../../../../../../_internal/geo/Continent/Australia/Australia/City/Hobart.internal|Hobart.internal]] 
-- [[../../../../../../_protect/geo/Continent/Australia/Australia/City/Hobart.protect|Hobart.protect]] 
-- [[../../../../../../_private/geo/Continent/Australia/Australia/City/Hobart.private|Hobart.private]] 
-- [[../../../../../../_personal/geo/Continent/Australia/Australia/City/Hobart.personal|Hobart.personal]] 
-- [[../../../../../../_secret/geo/Continent/Australia/Australia/City/Hobart.secret|Hobart.secret]] 
+
+### [Hobart.public](/_public/\Earth\Continent\Australia\Australia\Counties\Tasmania\CityHobart.public.md) 
+
+### [Hobart.internal](/_internal/\Earth\Continent\Australia\Australia\Counties\Tasmania\CityHobart.internal.md) 
+
+### [Hobart.protect](/_protect/\Earth\Continent\Australia\Australia\Counties\Tasmania\CityHobart.protect.md) 
+
+### [Hobart.private](/_private/\Earth\Continent\Australia\Australia\Counties\Tasmania\CityHobart.private.md) 
+
+### [Hobart.personal](/_personal/\Earth\Continent\Australia\Australia\Counties\Tasmania\CityHobart.personal.md) 
+
+### [Hobart.secret](/_secret/\Earth\Continent\Australia\Australia\Counties\Tasmania\CityHobart.secret.md)
+

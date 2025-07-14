@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - -10.4167
 - 105.683
@@ -129,12 +129,17 @@ Capital :: [[Flying_Fish_Cove]]
 [has_place_latitude::-10.4167] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/geo/Continent/Oceania/Christmas_Island|Christmas_Island]] 
-- [[../../../../_public/geo/Continent/Oceania/Christmas_Island.public|Christmas_Island.public]] 
-- [[../../../../_internal/geo/Continent/Oceania/Christmas_Island.internal|Christmas_Island.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Christmas_Island.protect|Christmas_Island.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Christmas_Island.private|Christmas_Island.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Christmas_Island.personal|Christmas_Island.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Christmas_Island.secret|Christmas_Island.secret]] 
+
+### [Christmas_Island.public](/_public/\Earth\Continent\Australia\AustraliaChristmas_Island.public.md) 
+
+### [Christmas_Island.internal](/_internal/\Earth\Continent\Australia\AustraliaChristmas_Island.internal.md) 
+
+### [Christmas_Island.protect](/_protect/\Earth\Continent\Australia\AustraliaChristmas_Island.protect.md) 
+
+### [Christmas_Island.private](/_private/\Earth\Continent\Australia\AustraliaChristmas_Island.private.md) 
+
+### [Christmas_Island.personal](/_personal/\Earth\Continent\Australia\AustraliaChristmas_Island.personal.md) 
+
+### [Christmas_Island.secret](/_secret/\Earth\Continent\Australia\AustraliaChristmas_Island.secret.md)
+

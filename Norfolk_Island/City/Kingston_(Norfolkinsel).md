@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-29.06667,167.9667] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Oceania/Norfolk_Island/City/Kingston_(Norfolkinsel)|Kingston_(Norfolkinsel)]] 
-- [[../../../../../../_public/geo/Continent/Oceania/Norfolk_Island/City/Kingston_(Norfolkinsel).public|Kingston_(Norfolkinsel).public]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Norfolk_Island/City/Kingston_(Norfolkinsel).internal|Kingston_(Norfolkinsel).internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Norfolk_Island/City/Kingston_(Norfolkinsel).protect|Kingston_(Norfolkinsel).protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Norfolk_Island/City/Kingston_(Norfolkinsel).private|Kingston_(Norfolkinsel).private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Norfolk_Island/City/Kingston_(Norfolkinsel).personal|Kingston_(Norfolkinsel).personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Norfolk_Island/City/Kingston_(Norfolkinsel).secret|Kingston_(Norfolkinsel).secret]] 
+
+### [Kingston_(Norfolkinsel).public](/_public/\Earth\Continent\Australia\Australia\Norfolk_Island\CityKingston_(Norfolkinsel).public.md) 
+
+### [Kingston_(Norfolkinsel).internal](/_internal/\Earth\Continent\Australia\Australia\Norfolk_Island\CityKingston_(Norfolkinsel).internal.md) 
+
+### [Kingston_(Norfolkinsel).protect](/_protect/\Earth\Continent\Australia\Australia\Norfolk_Island\CityKingston_(Norfolkinsel).protect.md) 
+
+### [Kingston_(Norfolkinsel).private](/_private/\Earth\Continent\Australia\Australia\Norfolk_Island\CityKingston_(Norfolkinsel).private.md) 
+
+### [Kingston_(Norfolkinsel).personal](/_personal/\Earth\Continent\Australia\Australia\Norfolk_Island\CityKingston_(Norfolkinsel).personal.md) 
+
+### [Kingston_(Norfolkinsel).secret](/_secret/\Earth\Continent\Australia\Australia\Norfolk_Island\CityKingston_(Norfolkinsel).secret.md)
+

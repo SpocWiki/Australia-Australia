@@ -40,11 +40,16 @@ markerFolder: ./Western_Australia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Australia/Australia/Counties/Western_Australia|Western_Australia]] 
-- [[../../../../../../_public/geo/Continent/Australia/Australia/Counties/Western_Australia.public|Western_Australia.public]] 
-- [[../../../../../../_internal/geo/Continent/Australia/Australia/Counties/Western_Australia.internal|Western_Australia.internal]] 
-- [[../../../../../../_protect/geo/Continent/Australia/Australia/Counties/Western_Australia.protect|Western_Australia.protect]] 
-- [[../../../../../../_private/geo/Continent/Australia/Australia/Counties/Western_Australia.private|Western_Australia.private]] 
-- [[../../../../../../_personal/geo/Continent/Australia/Australia/Counties/Western_Australia.personal|Western_Australia.personal]] 
-- [[../../../../../../_secret/geo/Continent/Australia/Australia/Counties/Western_Australia.secret|Western_Australia.secret]] 
+
+### [Western_Australia.public](/_public/\Earth\Continent\Australia\Australia\CountiesWestern_Australia.public.md) 
+
+### [Western_Australia.internal](/_internal/\Earth\Continent\Australia\Australia\CountiesWestern_Australia.internal.md) 
+
+### [Western_Australia.protect](/_protect/\Earth\Continent\Australia\Australia\CountiesWestern_Australia.protect.md) 
+
+### [Western_Australia.private](/_private/\Earth\Continent\Australia\Australia\CountiesWestern_Australia.private.md) 
+
+### [Western_Australia.personal](/_personal/\Earth\Continent\Australia\Australia\CountiesWestern_Australia.personal.md) 
+
+### [Western_Australia.secret](/_secret/\Earth\Continent\Australia\Australia\CountiesWestern_Australia.secret.md)
 

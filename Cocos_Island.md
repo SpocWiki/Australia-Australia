@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-12.1833,96.8333] 
 type: Country
 tags:
@@ -35,12 +35,17 @@ Capital :: [[West_Island]]
 [has_place_latitude::-12.1833] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/geo/Continent/Oceania/Cocos_Island|Cocos_Island]] 
-- [[../../../../_public/geo/Continent/Oceania/Cocos_Island.public|Cocos_Island.public]] 
-- [[../../../../_internal/geo/Continent/Oceania/Cocos_Island.internal|Cocos_Island.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Cocos_Island.protect|Cocos_Island.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Cocos_Island.private|Cocos_Island.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Cocos_Island.personal|Cocos_Island.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Cocos_Island.secret|Cocos_Island.secret]] 
+
+### [Cocos_Island.public](/_public/\Earth\Continent\Australia\AustraliaCocos_Island.public.md) 
+
+### [Cocos_Island.internal](/_internal/\Earth\Continent\Australia\AustraliaCocos_Island.internal.md) 
+
+### [Cocos_Island.protect](/_protect/\Earth\Continent\Australia\AustraliaCocos_Island.protect.md) 
+
+### [Cocos_Island.private](/_private/\Earth\Continent\Australia\AustraliaCocos_Island.private.md) 
+
+### [Cocos_Island.personal](/_personal/\Earth\Continent\Australia\AustraliaCocos_Island.personal.md) 
+
+### [Cocos_Island.secret](/_secret/\Earth\Continent\Australia\AustraliaCocos_Island.secret.md)
+

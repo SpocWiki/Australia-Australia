@@ -40,11 +40,16 @@ markerFolder: ./Coral_Sea_Islands/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Australia/Australia/Counties/Coral_Sea_Islands|Coral_Sea_Islands]] 
-- [[../../../../../../_public/geo/Continent/Australia/Australia/Counties/Coral_Sea_Islands.public|Coral_Sea_Islands.public]] 
-- [[../../../../../../_internal/geo/Continent/Australia/Australia/Counties/Coral_Sea_Islands.internal|Coral_Sea_Islands.internal]] 
-- [[../../../../../../_protect/geo/Continent/Australia/Australia/Counties/Coral_Sea_Islands.protect|Coral_Sea_Islands.protect]] 
-- [[../../../../../../_private/geo/Continent/Australia/Australia/Counties/Coral_Sea_Islands.private|Coral_Sea_Islands.private]] 
-- [[../../../../../../_personal/geo/Continent/Australia/Australia/Counties/Coral_Sea_Islands.personal|Coral_Sea_Islands.personal]] 
-- [[../../../../../../_secret/geo/Continent/Australia/Australia/Counties/Coral_Sea_Islands.secret|Coral_Sea_Islands.secret]] 
+
+### [Coral_Sea_Islands.public](/_public/\Earth\Continent\Australia\Australia\CountiesCoral_Sea_Islands.public.md) 
+
+### [Coral_Sea_Islands.internal](/_internal/\Earth\Continent\Australia\Australia\CountiesCoral_Sea_Islands.internal.md) 
+
+### [Coral_Sea_Islands.protect](/_protect/\Earth\Continent\Australia\Australia\CountiesCoral_Sea_Islands.protect.md) 
+
+### [Coral_Sea_Islands.private](/_private/\Earth\Continent\Australia\Australia\CountiesCoral_Sea_Islands.private.md) 
+
+### [Coral_Sea_Islands.personal](/_personal/\Earth\Continent\Australia\Australia\CountiesCoral_Sea_Islands.personal.md) 
+
+### [Coral_Sea_Islands.secret](/_secret/\Earth\Continent\Australia\Australia\CountiesCoral_Sea_Islands.secret.md)
 

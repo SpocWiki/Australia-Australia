@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-12.18333,96.83334] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Oceania/Cocos_Island/City/West_Island|West_Island]] 
-- [[../../../../../../_public/geo/Continent/Oceania/Cocos_Island/City/West_Island.public|West_Island.public]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Cocos_Island/City/West_Island.internal|West_Island.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Cocos_Island/City/West_Island.protect|West_Island.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Cocos_Island/City/West_Island.private|West_Island.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Cocos_Island/City/West_Island.personal|West_Island.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Cocos_Island/City/West_Island.secret|West_Island.secret]] 
+
+### [West_Island.public](/_public/\Earth\Continent\Australia\Australia\Cocos_Island\CityWest_Island.public.md) 
+
+### [West_Island.internal](/_internal/\Earth\Continent\Australia\Australia\Cocos_Island\CityWest_Island.internal.md) 
+
+### [West_Island.protect](/_protect/\Earth\Continent\Australia\Australia\Cocos_Island\CityWest_Island.protect.md) 
+
+### [West_Island.private](/_private/\Earth\Continent\Australia\Australia\Cocos_Island\CityWest_Island.private.md) 
+
+### [West_Island.personal](/_personal/\Earth\Continent\Australia\Australia\Cocos_Island\CityWest_Island.personal.md) 
+
+### [West_Island.secret](/_secret/\Earth\Continent\Australia\Australia\Cocos_Island\CityWest_Island.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-27.5,152.5] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Australia/Australia/City/Brisbane|Brisbane]] 
-- [[../../../../../../_public/geo/Continent/Australia/Australia/City/Brisbane.public|Brisbane.public]] 
-- [[../../../../../../_internal/geo/Continent/Australia/Australia/City/Brisbane.internal|Brisbane.internal]] 
-- [[../../../../../../_protect/geo/Continent/Australia/Australia/City/Brisbane.protect|Brisbane.protect]] 
-- [[../../../../../../_private/geo/Continent/Australia/Australia/City/Brisbane.private|Brisbane.private]] 
-- [[../../../../../../_personal/geo/Continent/Australia/Australia/City/Brisbane.personal|Brisbane.personal]] 
-- [[../../../../../../_secret/geo/Continent/Australia/Australia/City/Brisbane.secret|Brisbane.secret]] 
+
+### [Brisbane.public](/_public/\Earth\Continent\Australia\Australia\Counties\Queensland\CityBrisbane.public.md) 
+
+### [Brisbane.internal](/_internal/\Earth\Continent\Australia\Australia\Counties\Queensland\CityBrisbane.internal.md) 
+
+### [Brisbane.protect](/_protect/\Earth\Continent\Australia\Australia\Counties\Queensland\CityBrisbane.protect.md) 
+
+### [Brisbane.private](/_private/\Earth\Continent\Australia\Australia\Counties\Queensland\CityBrisbane.private.md) 
+
+### [Brisbane.personal](/_personal/\Earth\Continent\Australia\Australia\Counties\Queensland\CityBrisbane.personal.md) 
+
+### [Brisbane.secret](/_secret/\Earth\Continent\Australia\Australia\Counties\Queensland\CityBrisbane.secret.md)
+

@@ -40,11 +40,16 @@ markerFolder: ./Tasmania/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Australia/Australia/Counties/Tasmania|Tasmania]] 
-- [[../../../../../../_public/geo/Continent/Australia/Australia/Counties/Tasmania.public|Tasmania.public]] 
-- [[../../../../../../_internal/geo/Continent/Australia/Australia/Counties/Tasmania.internal|Tasmania.internal]] 
-- [[../../../../../../_protect/geo/Continent/Australia/Australia/Counties/Tasmania.protect|Tasmania.protect]] 
-- [[../../../../../../_private/geo/Continent/Australia/Australia/Counties/Tasmania.private|Tasmania.private]] 
-- [[../../../../../../_personal/geo/Continent/Australia/Australia/Counties/Tasmania.personal|Tasmania.personal]] 
-- [[../../../../../../_secret/geo/Continent/Australia/Australia/Counties/Tasmania.secret|Tasmania.secret]] 
+
+### [Tasmania.public](/_public/\Earth\Continent\Australia\Australia\CountiesTasmania.public.md) 
+
+### [Tasmania.internal](/_internal/\Earth\Continent\Australia\Australia\CountiesTasmania.internal.md) 
+
+### [Tasmania.protect](/_protect/\Earth\Continent\Australia\Australia\CountiesTasmania.protect.md) 
+
+### [Tasmania.private](/_private/\Earth\Continent\Australia\Australia\CountiesTasmania.private.md) 
+
+### [Tasmania.personal](/_personal/\Earth\Continent\Australia\Australia\CountiesTasmania.personal.md) 
+
+### [Tasmania.secret](/_secret/\Earth\Continent\Australia\Australia\CountiesTasmania.secret.md)
 

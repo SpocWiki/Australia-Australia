@@ -40,11 +40,16 @@ markerFolder: ./Ashmore_and_Cartier_Islands/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Australia/Australia/Counties/Ashmore_and_Cartier_Islands|Ashmore_and_Cartier_Islands]] 
-- [[../../../../../../_public/geo/Continent/Australia/Australia/Counties/Ashmore_and_Cartier_Islands.public|Ashmore_and_Cartier_Islands.public]] 
-- [[../../../../../../_internal/geo/Continent/Australia/Australia/Counties/Ashmore_and_Cartier_Islands.internal|Ashmore_and_Cartier_Islands.internal]] 
-- [[../../../../../../_protect/geo/Continent/Australia/Australia/Counties/Ashmore_and_Cartier_Islands.protect|Ashmore_and_Cartier_Islands.protect]] 
-- [[../../../../../../_private/geo/Continent/Australia/Australia/Counties/Ashmore_and_Cartier_Islands.private|Ashmore_and_Cartier_Islands.private]] 
-- [[../../../../../../_personal/geo/Continent/Australia/Australia/Counties/Ashmore_and_Cartier_Islands.personal|Ashmore_and_Cartier_Islands.personal]] 
-- [[../../../../../../_secret/geo/Continent/Australia/Australia/Counties/Ashmore_and_Cartier_Islands.secret|Ashmore_and_Cartier_Islands.secret]] 
+
+### [Ashmore_and_Cartier_Islands.public](/_public/\Earth\Continent\Australia\Australia\CountiesAshmore_and_Cartier_Islands.public.md) 
+
+### [Ashmore_and_Cartier_Islands.internal](/_internal/\Earth\Continent\Australia\Australia\CountiesAshmore_and_Cartier_Islands.internal.md) 
+
+### [Ashmore_and_Cartier_Islands.protect](/_protect/\Earth\Continent\Australia\Australia\CountiesAshmore_and_Cartier_Islands.protect.md) 
+
+### [Ashmore_and_Cartier_Islands.private](/_private/\Earth\Continent\Australia\Australia\CountiesAshmore_and_Cartier_Islands.private.md) 
+
+### [Ashmore_and_Cartier_Islands.personal](/_personal/\Earth\Continent\Australia\Australia\CountiesAshmore_and_Cartier_Islands.personal.md) 
+
+### [Ashmore_and_Cartier_Islands.secret](/_secret/\Earth\Continent\Australia\Australia\CountiesAshmore_and_Cartier_Islands.secret.md)
 

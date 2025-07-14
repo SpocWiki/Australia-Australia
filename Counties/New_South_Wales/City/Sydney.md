@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - -33.87
 - 151.22
@@ -158,10 +158,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Australia/Australia/City/Sydney|Sydney]] 
-- [[../../../../../../_public/geo/Continent/Australia/Australia/City/Sydney.public|Sydney.public]] 
-- [[../../../../../../_internal/geo/Continent/Australia/Australia/City/Sydney.internal|Sydney.internal]] 
-- [[../../../../../../_protect/geo/Continent/Australia/Australia/City/Sydney.protect|Sydney.protect]] 
-- [[../../../../../../_private/geo/Continent/Australia/Australia/City/Sydney.private|Sydney.private]] 
-- [[../../../../../../_personal/geo/Continent/Australia/Australia/City/Sydney.personal|Sydney.personal]] 
-- [[../../../../../../_secret/geo/Continent/Australia/Australia/City/Sydney.secret|Sydney.secret]] 
+
+### [Sydney.public](/_public/\Earth\Continent\Australia\Australia\Counties\New_South_Wales\CitySydney.public.md) 
+
+### [Sydney.internal](/_internal/\Earth\Continent\Australia\Australia\Counties\New_South_Wales\CitySydney.internal.md) 
+
+### [Sydney.protect](/_protect/\Earth\Continent\Australia\Australia\Counties\New_South_Wales\CitySydney.protect.md) 
+
+### [Sydney.private](/_private/\Earth\Continent\Australia\Australia\Counties\New_South_Wales\CitySydney.private.md) 
+
+### [Sydney.personal](/_personal/\Earth\Continent\Australia\Australia\Counties\New_South_Wales\CitySydney.personal.md) 
+
+### [Sydney.secret](/_secret/\Earth\Continent\Australia\Australia\Counties\New_South_Wales\CitySydney.secret.md)
+
