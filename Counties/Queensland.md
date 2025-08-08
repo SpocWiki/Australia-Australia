@@ -27,15 +27,17 @@ publishDate:
 expiryDate: 
 ---
 
-# Queensland
+# [[Queensland]]
+
+## #has_/map 
 
 ```leaflet
 id: Queensland
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Queensland/
-markerFolder: ./Queensland/
+geojsonFolder: ./Queensland//
+markerFolder: ./Queensland//
 ```
 
 
