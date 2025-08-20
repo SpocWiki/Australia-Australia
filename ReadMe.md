@@ -1,33 +1,34 @@
 ---
 location:
-- -35.4776
-- 149.027
+  - -35.4776
+  - 149.027
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26838
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Australia
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Australia
-- Australie
-- أستراليا
-- 澳大利亚
-- Австралия
+  - Australia
+  - Australie
+  - أستراليا
+  - 澳大利亚
+  - Австралия
 Languages:
-- en-AU
+  - en-AU
 ---
 
 

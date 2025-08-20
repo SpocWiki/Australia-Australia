@@ -1,37 +1,38 @@
 ---
 location:
-- -10.4167
-- 105.683
+  - -10.4167
+  - 105.683
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26875
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Christmas Island
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Christmas Island
-- Isla de Navidad
-- Île Christmas
-- جزيرة كريسماس
-- 圣诞岛
-- остров Рождества
-- 
+  - Christmas Island
+  - Isla de Navidad
+  - Île Christmas
+  - جزيرة كريسماس
+  - 圣诞岛
+  - остров Рождества
+  - 
 Languages:
-- en
-- zh
-- ms-CC
+  - en
+  - zh
+  - ms-CC
 ---
 
 
