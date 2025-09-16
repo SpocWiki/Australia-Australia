@@ -1,4 +1,6 @@
 ---
+aliases:
+  - South_Australia
 location:
   - -32
   - 137
@@ -12,8 +14,6 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - South_Australia
 Languages:
   - de
 cssclasses:
@@ -26,7 +26,11 @@ publishDate:
 expiryDate:
 ---
 
-# South_Australia
+# [[South_Australia]] 
+
+#is_/same_as :: [[_Standards/WikiData/WD~South_Australia,35715]] 
+
+## #has_/map  
 
 ```leaflet
 id: South_Australia
