@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: New_South_Wales
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./New_South_Wales/
 markerFolder: ./New_South_Wales/

@@ -105,7 +105,7 @@ Sub-region_Name ::  [[Australia and New Zealand]]
 ```leaflet
 id: Norfolk Island
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Norfolk_Island/
 markerFolder: ./Norfolk_Island/

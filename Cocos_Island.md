@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Cocos Island
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Cocos_Island/
 markerFolder: ./Cocos_Island/

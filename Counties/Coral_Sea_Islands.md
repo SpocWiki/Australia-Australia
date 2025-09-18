@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Coral_Sea_Islands
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Coral_Sea_Islands/
 markerFolder: ./Coral_Sea_Islands/

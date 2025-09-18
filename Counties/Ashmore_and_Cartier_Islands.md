@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Ashmore_and_Cartier_Islands
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Ashmore_and_Cartier_Islands/
 markerFolder: ./Ashmore_and_Cartier_Islands/

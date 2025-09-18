@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Macquarie_Island
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Macquarie_Island/
 markerFolder: ./Macquarie_Island/

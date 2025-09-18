@@ -35,7 +35,7 @@ expiryDate:
 ```leaflet
 id: South_Australia
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./South_Australia/
 markerFolder: ./South_Australia/

@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Norfolk_Island
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Norfolk_Island/
 markerFolder: ./Norfolk_Island/

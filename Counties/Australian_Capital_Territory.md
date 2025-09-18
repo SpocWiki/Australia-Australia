@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Australian_Capital_Territory
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Australian_Capital_Territory/
 markerFolder: ./Australian_Capital_Territory/

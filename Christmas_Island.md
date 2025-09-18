@@ -106,7 +106,7 @@ Sub-region_Name ::  [[Australia and New Zealand]]
 ```leaflet
 id: Christmas Island
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Christmas_Island/
 markerFolder: ./Christmas_Island/

@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Western_Australia
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Western_Australia/
 markerFolder: ./Western_Australia/
