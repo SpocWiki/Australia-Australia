@@ -14,6 +14,7 @@ tags:
   - geo/Country/Region
 aliases:
   - New_South_Wales
+  - New South Wales
 Languages:
   - de
 cssclasses:
@@ -26,7 +27,9 @@ publishDate:
 expiryDate:
 ---
 
-# New_South_Wales
+# [[New_South_Wales]]
+
+## #has_/map 
 
 ```leaflet
 id: New_South_Wales
@@ -35,6 +38,8 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./New_South_Wales/
 markerFolder: ./New_South_Wales/
+coordinates: [[New_South_Wales]] 
+markerFile: [[New_South_Wales]] 
 ```
 
 
