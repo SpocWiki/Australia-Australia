@@ -203,7 +203,7 @@ State ::
 Country :: [[Australia]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Melbourne,3141|WD~Melbourne,3141]] 
 

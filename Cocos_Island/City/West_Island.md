@@ -21,7 +21,7 @@ State ::
 Country ::[[../../../Australasia/Australia/Cocos_Island]]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

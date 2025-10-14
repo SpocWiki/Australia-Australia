@@ -145,7 +145,7 @@ State ::
 Country :: [[Australia]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

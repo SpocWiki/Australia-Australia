@@ -21,7 +21,7 @@ State ::
 Country ::[[../../../Australasia/Australia/Norfolk_Island]]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet
