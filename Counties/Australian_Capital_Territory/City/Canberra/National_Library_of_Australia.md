@@ -32,8 +32,8 @@ Wikidata_property:
   - NLA Trove people ID
 country: "[[_Standards/WikiData/WD~Australia,408]]"
 applies_to_jurisdiction: "[[_Standards/WikiData/WD~Australia,408]]"
-location: "[[_Standards/WikiData/WD~Canberra,3114]]"
-headquarters_location: "[[_Standards/WikiData/WD~Canberra,3114]]"
+locations: "[[_Standards/WikiData/WD~Canberra,3114]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Canberra,3114]]"
 social_media_followers:
   - 6220
   - 47943
