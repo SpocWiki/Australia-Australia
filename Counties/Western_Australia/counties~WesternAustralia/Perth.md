@@ -2,11 +2,13 @@
 aliases:
   - Boorloo
 has_id_wikidata: Q3183
-location: [ -31.955833333, 115.859722222]
+location:
+  - -31.955833333
+  - 115.859722222
 coordinate_location: Point(115.859722222 -31.955833333)
 named_after: "[[_Standards/WikiData/WD~Perth,203000]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"

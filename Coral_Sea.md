@@ -52,7 +52,7 @@ inflows:
   - "[[_Standards/WikiData/WD~Waterpark_Creek,24185388]]"
   - "[[_Standards/WikiData/WD~Noosa_River,31599]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Q35541239,35541239]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
 shares_border_with: "[[_Standards/WikiData/WD~South_Pacific_Ocean,12355425]]"
