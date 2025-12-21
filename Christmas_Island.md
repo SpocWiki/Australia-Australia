@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Christmas Island
+  - Isla de Navidad
+  - Île Christmas
+  - جزيرة كريسماس
+  - 圣诞岛
+  - остров Рождества
+  - ''
+  - Christmas_Island
 location:
   - -10.4167
   - 105.683
@@ -15,20 +24,12 @@ cssclasses:
   - Country
 publish: true
 title: Christmas Island
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Christmas Island
-  - Isla de Navidad
-  - Île Christmas
-  - جزيرة كريسماس
-  - 圣诞岛
-  - остров Рождества
-  - 
+publishDate: ''
+expiryDate: ''
 Languages:
   - en
   - zh

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Ashmore_and_Cartier_Islands
+  - Ashmore and Cartier Islands
 location:
   - -12.43
   - 123.59
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Ashmore_and_Cartier_Islands
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Ashmore_and_Cartier_Islands

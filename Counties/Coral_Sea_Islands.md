@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Coral_Sea_Islands
+  - Coral Sea Islands
 location:
   - -16.1355
   - 150.0037
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Coral_Sea_Islands
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Coral_Sea_Islands

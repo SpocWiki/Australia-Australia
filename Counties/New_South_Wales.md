@@ -1,4 +1,7 @@
 ---
+aliases:
+  - New_South_Wales
+  - New South Wales
 location:
   - -33
   - 146
@@ -12,19 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - New_South_Wales
-  - New South Wales
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[New_South_Wales]]

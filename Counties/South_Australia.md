@@ -1,6 +1,7 @@
 ---
 aliases:
   - South_Australia
+  - South Australia
 location:
   - -32
   - 137
@@ -19,11 +20,11 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[South_Australia]] 

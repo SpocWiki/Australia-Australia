@@ -1,6 +1,7 @@
 ---
 aliases:
   - Great Australian Bight
+  - Great_Australian_Bight
 has_id_wikidata: Q186733
 ---
 

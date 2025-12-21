@@ -1,6 +1,8 @@
 ---
 aliases:
   - Sydney_Opera
+  - Sydney_Opera_House
+  - Sydney Opera House
 has_id_wikidata: Q45178
 Commons_Institution_page: Sydney Opera House
 Commons_gallery: Sydney Opera House
@@ -13,53 +15,53 @@ street_address: 2 Circular Quay East, Sydney NSW
 native_label: Sydney Opera House
 official_name: Sydney Opera House
 field_of_work:
-  - "[[_Standards/WikiData/WD~opera_house,153562]]"
-  - "[[_Standards/WikiData/WD~concert_hall,1060829]]"
+  - '[[_Standards/WikiData/WD~opera_house,153562]]'
+  - '[[_Standards/WikiData/WD~concert_hall,1060829]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~opera_house,153562]]"
-  - "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
-  - "[[_Standards/WikiData/WD~architectural_landmark,2319498]]"
-  - "[[_Standards/WikiData/WD~historical_cultural_heritage_site,38048707]]"
+  - '[[_Standards/WikiData/WD~opera_house,153562]]'
+  - '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
+  - '[[_Standards/WikiData/WD~architectural_landmark,2319498]]'
+  - '[[_Standards/WikiData/WD~historical_cultural_heritage_site,38048707]]'
 architect:
-  - "[[_Standards/WikiData/WD~Jørn_Utzon,180398]]"
-  - "[[_Standards/WikiData/WD~Peter_Hall,64797517]]"
-main_building_contractor: "[[_Standards/WikiData/WD~Lendlease,185651]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Bennelong_Point,249179]]"
-structural_engineer: "[[_Standards/WikiData/WD~Arup,716737]]"
+  - '[[_Standards/WikiData/WD~Jørn_Utzon,180398]]'
+  - '[[_Standards/WikiData/WD~Peter_Hall,64797517]]'
+main_building_contractor: '[[_Standards/WikiData/WD~Lendlease,185651]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Bennelong_Point,249179]]'
+structural_engineer: '[[_Standards/WikiData/WD~Arup,716737]]'
 significant_event:
-  - "[[_Standards/WikiData/WD~construction_time,811972]]"
-  - "[[_Standards/WikiData/WD~opening,15051339]]"
-located_on_street: "[[_Standards/WikiData/WD~Circular_Quay,1092910]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~City_of_Sydney,1094194]]"
+  - '[[_Standards/WikiData/WD~construction_time,811972]]'
+  - '[[_Standards/WikiData/WD~opening,15051339]]'
+located_on_street: '[[_Standards/WikiData/WD~Circular_Quay,1092910]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~City_of_Sydney,1094194]]'
 location:
-  - "[[_Standards/WikiData/WD~City_of_Sydney,1094194]]"
-  - "[[_Standards/WikiData/WD~Sydney,3130]]"
-owned_by: "[[_Standards/WikiData/WD~Government_of_New_South_Wales,3112564]]"
-commissioned_by: "[[_Standards/WikiData/WD~Government_of_New_South_Wales,3112564]]"
-operator: "[[_Standards/WikiData/WD~Sydney_Opera_House_Trust,7660072]]"
+  - '[[_Standards/WikiData/WD~City_of_Sydney,1094194]]'
+  - '[[_Standards/WikiData/WD~Sydney,3130]]'
+owned_by: '[[_Standards/WikiData/WD~Government_of_New_South_Wales,3112564]]'
+commissioned_by: '[[_Standards/WikiData/WD~Government_of_New_South_Wales,3112564]]'
+operator: '[[_Standards/WikiData/WD~Sydney_Opera_House_Trust,7660072]]'
 heritage_designation:
-  - "[[_Standards/WikiData/WD~listed_on_the_Australian_National_Heritage_List,20747146]]"
-  - "[[_Standards/WikiData/WD~Heritage_Act_State_Heritage_Register,28152854]]"
-  - "[[_Standards/WikiData/WD~Local_Environmental_Plan,28152860]]"
-  - "[[_Standards/WikiData/WD~listed_on_the_Register_of_the_National_Estate,30129400]]"
-  - "[[_Standards/WikiData/WD~National_Trust_of_Australia_register,47457178]]"
-  - "[[_Standards/WikiData/WD~Royal_Australian_Institute_of_Architects_register,47457180]]"
-  - "[[_Standards/WikiData/WD~World_Heritage_Site,9259]]"
-World_Heritage_criteria: "[[_Standards/WikiData/WD~(i),23038972]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Architourist_Guide,134412769]]"
+  - '[[_Standards/WikiData/WD~listed_on_the_Australian_National_Heritage_List,20747146]]'
+  - '[[_Standards/WikiData/WD~Heritage_Act_State_Heritage_Register,28152854]]'
+  - '[[_Standards/WikiData/WD~Local_Environmental_Plan,28152860]]'
+  - '[[_Standards/WikiData/WD~listed_on_the_Register_of_the_National_Estate,30129400]]'
+  - '[[_Standards/WikiData/WD~National_Trust_of_Australia_register,47457178]]'
+  - '[[_Standards/WikiData/WD~Royal_Australian_Institute_of_Architects_register,47457180]]'
+  - '[[_Standards/WikiData/WD~World_Heritage_Site,9259]]'
+World_Heritage_criteria: '[[_Standards/WikiData/WD~(i),23038972]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Architourist_Guide,134412769]]'
 area:
   - 3.82965264
   - 5.8
   - 438.1
 coordinate_location: Point(151.214897 -33.857058)
-country: "[[_Standards/WikiData/WD~Australia,408]]"
+country: '[[_Standards/WikiData/WD~Australia,408]]'
 visitors_per_year: 7000000
 elevation_above_sea_level: 15
 height: 67
 social_media_followers:
   - 175000
   - 143722
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Port_Jackson,54504]]"
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Port_Jackson,54504]]'
 maximum_capacity: 5738
 inception: 1973-01-01T00:00:00Z
 date_of_official_opening: 1973-10-20T00:00:00Z
@@ -73,8 +75,8 @@ logo_image:
 panoramic_view: http://commons.wikimedia.org/wiki/Special:FilePath/Waiting%20for%20Jessica%20Watson.jpg
 official_website: https://sydneyoperahouse.com
 ISNI:
-  - "0000000122878349"
-  - "0000000404311332"
+  - 0000000122878349
+  - 0000000404311332
 Google_Doodle: 35th-anniversary-of-the-opening-of-the-sydney-opera-house
 ---
 

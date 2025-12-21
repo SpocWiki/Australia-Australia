@@ -1,13 +1,16 @@
 ---
-location: [-12.1833,96.8333] 
+aliases:
+  - Cocos_Island
+  - Cocos Island
+location:
+  - -12.1833
+  - 96.8333
 type: Country
 tags:
-- geo/Country
-
+  - geo/Country
 SpocWebEntityId: 26861
 isDeleted: false
 confidential: public
-
 ---
 [ISO2::CC] 
 [ISO3::CCK] 

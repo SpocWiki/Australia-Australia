@@ -1,4 +1,11 @@
 ---
+aliases:
+  - Australia
+  - Australie
+  - أستراليا
+  - 澳大利亚
+  - Австралия
+  - ReadMe
 location:
   - -35.4776
   - 149.027
@@ -15,18 +22,12 @@ cssclasses:
   - Country
 publish: true
 title: Australia
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Australia
-  - Australie
-  - أستراليا
-  - 澳大利亚
-  - Австралия
+publishDate: ''
+expiryDate: ''
 Languages:
   - en-AU
 ---

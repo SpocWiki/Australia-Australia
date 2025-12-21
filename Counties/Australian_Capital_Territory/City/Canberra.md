@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Canberra
+has_id_wikidata: Q3114
 location:
   - -35.30806
   - 149.1245
@@ -12,47 +15,46 @@ tags:
 SpocWebEntityId: 35904
 isDeleted: false
 confidential: public
-has_id_wikidata: Q3114
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Monterrey,81033]]"
-  - "[[_Standards/WikiData/WD~Nara,169134]]"
-  - "[[_Standards/WikiData/WD~Wellington_City,47037646]]"
-  - "[[_Standards/WikiData/WD~Beijing,956]]"
-  - "[[_Standards/WikiData/WD~Brasília,2844]]"
-  - "[[_Standards/WikiData/WD~Hangzhou,4970]]"
-  - "[[_Standards/WikiData/WD~Dili,9310]]"
-  - "[[_Standards/WikiData/WD~Yangzhou,57906]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Canberra,119097]]"
+  - '[[_Standards/WikiData/WD~Monterrey,81033]]'
+  - '[[_Standards/WikiData/WD~Nara,169134]]'
+  - '[[_Standards/WikiData/WD~Wellington_City,47037646]]'
+  - '[[_Standards/WikiData/WD~Beijing,956]]'
+  - '[[_Standards/WikiData/WD~Brasília,2844]]'
+  - '[[_Standards/WikiData/WD~Hangzhou,4970]]'
+  - '[[_Standards/WikiData/WD~Dili,9310]]'
+  - '[[_Standards/WikiData/WD~Yangzhou,57906]]'
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Canberra,119097]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~federal_capital,257391]]"
-  - "[[_Standards/WikiData/WD~big_city,1549591]]"
-  - "[[_Standards/WikiData/WD~planned_national_capital,15840617]]"
-  - "[[_Standards/WikiData/WD~political_city,114496982]]"
-  - "[[_Standards/WikiData/WD~city,515]]"
-different_from: "[[_Standards/WikiData/WD~Canberra,364527]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Lake_Burley_Griffin,1642390]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Canberra,5255998]]"
-part_of: "[[_Standards/WikiData/WD~Canberra_Queanbeyan,30317695]]"
-country: "[[_Standards/WikiData/WD~Australia,408]]"
+  - '[[_Standards/WikiData/WD~federal_capital,257391]]'
+  - '[[_Standards/WikiData/WD~big_city,1549591]]'
+  - '[[_Standards/WikiData/WD~planned_national_capital,15840617]]'
+  - '[[_Standards/WikiData/WD~political_city,114496982]]'
+  - '[[_Standards/WikiData/WD~city,515]]'
+different_from: '[[_Standards/WikiData/WD~Canberra,364527]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Lake_Burley_Griffin,1642390]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Canberra,5255998]]'
+part_of: '[[_Standards/WikiData/WD~Canberra_Queanbeyan,30317695]]'
+country: '[[_Standards/WikiData/WD~Australia,408]]'
 capital_of:
-  - "[[_Standards/WikiData/WD~Australia,408]]"
-  - "[[_Standards/WikiData/WD~Australian_Capital_Territory,3258]]"
-  - "[[_Standards/WikiData/WD~Jervis_Bay_Territory,15577]]"
-official_language: "[[_Standards/WikiData/WD~English,1860]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Australian_Capital_Territory,3258]]"
-continent: "[[_Standards/WikiData/WD~Australian_continent,3960]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+10_00,7056]]"
+  - '[[_Standards/WikiData/WD~Australia,408]]'
+  - '[[_Standards/WikiData/WD~Australian_Capital_Territory,3258]]'
+  - '[[_Standards/WikiData/WD~Jervis_Bay_Territory,15577]]'
+official_language: '[[_Standards/WikiData/WD~English,1860]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Australian_Capital_Territory,3258]]'
+continent: '[[_Standards/WikiData/WD~Australian_continent,3960]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC+10_00,7056]]'
 minimum_temperature_record: -10
 maximum_temperature_record: 44
 elevation_above_sea_level: 578
 area: 471.78
 local_dialing_code:
-  - "0251"
-  - "0262"
-  - "0252"
-  - "0261"
-OmegaWiki_Defined_Meaning: "457452"
-U_S_National_Archives_Identifier: "10044342"
+  - 0251
+  - 0262
+  - 0252
+  - 0261
+OmegaWiki_Defined_Meaning: 457452
+U_S_National_Archives_Identifier: 10044342
 population: 381488
 Commons_gallery: Canberra
 Commons_category: Canberra
@@ -67,7 +69,7 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Canberra%20banne
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Canberra%20from%20Mt%20Ainslie%20%285642431515%29.jpg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Canberra%20locator-MJC.png
 postal_code: 2600–2617
-P8189: "987007554958605171"
+P8189: 987007554958605171
 UN_LOCODE: AUCBR
 GitHub_topic: canberra
 subreddit: canberra

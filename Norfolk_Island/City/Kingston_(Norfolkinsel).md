@@ -1,16 +1,20 @@
 ---
-location: [-29.06667,167.9667] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Kingston_(Norfolkinsel)
+  - Kingston (Norfolkinsel)
+location:
+  - -29.06667
+  - 167.9667
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 36742
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

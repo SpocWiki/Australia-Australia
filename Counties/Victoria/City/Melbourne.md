@@ -2,7 +2,8 @@
 aliases:
   - Narrm
   - Naarm
-  - 
+  - ''
+  - Melbourne
 has_id_wikidata: Q3141
 location:
   - -37.83
@@ -18,125 +19,125 @@ SpocWebEntityId: 32390
 isDeleted: false
 confidential: public
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Shire_of_Nillumbik,175701]]"
-  - "[[_Standards/WikiData/WD~Yarra_Ranges_Shire,188422]]"
-  - "[[_Standards/WikiData/WD~City_of_Maroondah,473183]]"
-  - "[[_Standards/WikiData/WD~City_of_Darebin,541032]]"
-  - "[[_Standards/WikiData/WD~City_of_Bayside,546554]]"
-  - "[[_Standards/WikiData/WD~City_of_Banyule,650144]]"
-  - "[[_Standards/WikiData/WD~City_of_Hobsons_Bay,660298]]"
-  - "[[_Standards/WikiData/WD~Shire_of_Mornington_Peninsula,684708]]"
-  - "[[_Standards/WikiData/WD~City_of_Port_Phillip,747477]]"
-  - "[[_Standards/WikiData/WD~City_of_Manningham,765334]]"
-  - "[[_Standards/WikiData/WD~City_of_Boroondara,894060]]"
-  - "[[_Standards/WikiData/WD~City_of_Brimbank,917261]]"
-  - "[[_Standards/WikiData/WD~City_of_Whittlesea,970191]]"
-  - "[[_Standards/WikiData/WD~City_of_Melton,979561]]"
-  - "[[_Standards/WikiData/WD~Shire_of_Cardinia,1035752]]"
-  - "[[_Standards/WikiData/WD~City_of_Stonnington,1409285]]"
-  - "[[_Standards/WikiData/WD~City_of_Frankston,1445363]]"
-  - "[[_Standards/WikiData/WD~City_of_Yarra,1474848]]"
-  - "[[_Standards/WikiData/WD~City_of_Knox,1500804]]"
-  - "[[_Standards/WikiData/WD~City_of_Kingston,1500830]]"
-  - "[[_Standards/WikiData/WD~City_of_Maribyrnong,1502208]]"
-  - "[[_Standards/WikiData/WD~City_of_Whitehorse,1502393]]"
-  - "[[_Standards/WikiData/WD~City_of_Wyndham,1502429]]"
-  - "[[_Standards/WikiData/WD~City_of_Glen_Eira,1530742]]"
-  - "[[_Standards/WikiData/WD~City_of_Greater_Dandenong,1544419]]"
-  - "[[_Standards/WikiData/WD~City_of_Hume,1637032]]"
-  - "[[_Standards/WikiData/WD~City_of_Casey,1756241]]"
-  - "[[_Standards/WikiData/WD~City_of_Monash,1785372]]"
-  - "[[_Standards/WikiData/WD~City_of_Moonee_Valley,1786648]]"
-  - "[[_Standards/WikiData/WD~City_of_Melbourne,1919098]]"
-  - "[[_Standards/WikiData/WD~City_of_Merri_bek,1947531]]"
-Köppen_climate_classification: "[[_Standards/WikiData/WD~oceanic_climate,182090]]"
+  - '[[_Standards/WikiData/WD~Shire_of_Nillumbik,175701]]'
+  - '[[_Standards/WikiData/WD~Yarra_Ranges_Shire,188422]]'
+  - '[[_Standards/WikiData/WD~City_of_Maroondah,473183]]'
+  - '[[_Standards/WikiData/WD~City_of_Darebin,541032]]'
+  - '[[_Standards/WikiData/WD~City_of_Bayside,546554]]'
+  - '[[_Standards/WikiData/WD~City_of_Banyule,650144]]'
+  - '[[_Standards/WikiData/WD~City_of_Hobsons_Bay,660298]]'
+  - '[[_Standards/WikiData/WD~Shire_of_Mornington_Peninsula,684708]]'
+  - '[[_Standards/WikiData/WD~City_of_Port_Phillip,747477]]'
+  - '[[_Standards/WikiData/WD~City_of_Manningham,765334]]'
+  - '[[_Standards/WikiData/WD~City_of_Boroondara,894060]]'
+  - '[[_Standards/WikiData/WD~City_of_Brimbank,917261]]'
+  - '[[_Standards/WikiData/WD~City_of_Whittlesea,970191]]'
+  - '[[_Standards/WikiData/WD~City_of_Melton,979561]]'
+  - '[[_Standards/WikiData/WD~Shire_of_Cardinia,1035752]]'
+  - '[[_Standards/WikiData/WD~City_of_Stonnington,1409285]]'
+  - '[[_Standards/WikiData/WD~City_of_Frankston,1445363]]'
+  - '[[_Standards/WikiData/WD~City_of_Yarra,1474848]]'
+  - '[[_Standards/WikiData/WD~City_of_Knox,1500804]]'
+  - '[[_Standards/WikiData/WD~City_of_Kingston,1500830]]'
+  - '[[_Standards/WikiData/WD~City_of_Maribyrnong,1502208]]'
+  - '[[_Standards/WikiData/WD~City_of_Whitehorse,1502393]]'
+  - '[[_Standards/WikiData/WD~City_of_Wyndham,1502429]]'
+  - '[[_Standards/WikiData/WD~City_of_Glen_Eira,1530742]]'
+  - '[[_Standards/WikiData/WD~City_of_Greater_Dandenong,1544419]]'
+  - '[[_Standards/WikiData/WD~City_of_Hume,1637032]]'
+  - '[[_Standards/WikiData/WD~City_of_Casey,1756241]]'
+  - '[[_Standards/WikiData/WD~City_of_Monash,1785372]]'
+  - '[[_Standards/WikiData/WD~City_of_Moonee_Valley,1786648]]'
+  - '[[_Standards/WikiData/WD~City_of_Melbourne,1919098]]'
+  - '[[_Standards/WikiData/WD~City_of_Merri_bek,1947531]]'
+Köppen_climate_classification: '[[_Standards/WikiData/WD~oceanic_climate,182090]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~metropolis,200250]]"
-  - "[[_Standards/WikiData/WD~financial_center,1066984]]"
-  - "[[_Standards/WikiData/WD~big_city,1549591]]"
-  - "[[_Standards/WikiData/WD~metropolitan_area,1907114]]"
-  - "[[_Standards/WikiData/WD~region_of_Victoria,7309306]]"
-  - "[[_Standards/WikiData/WD~provincial_capital,11271835]]"
-  - "[[_Standards/WikiData/WD~city,515]]"
-named_after: "[[_Standards/WikiData/WD~William_Lamb,_2nd_Viscount_Melbourne,312567]]"
+  - '[[_Standards/WikiData/WD~metropolis,200250]]'
+  - '[[_Standards/WikiData/WD~financial_center,1066984]]'
+  - '[[_Standards/WikiData/WD~big_city,1549591]]'
+  - '[[_Standards/WikiData/WD~metropolitan_area,1907114]]'
+  - '[[_Standards/WikiData/WD~region_of_Victoria,7309306]]'
+  - '[[_Standards/WikiData/WD~provincial_capital,11271835]]'
+  - '[[_Standards/WikiData/WD~city,515]]'
+named_after: '[[_Standards/WikiData/WD~William_Lamb,_2nd_Viscount_Melbourne,312567]]'
 member_of:
-  - "[[_Standards/WikiData/WD~C40_Cities_Climate_Leadership_Group,485087]]"
-  - "[[_Standards/WikiData/WD~Creative_Cities_Network,1139352]]"
-  - "[[_Standards/WikiData/WD~League_of_Historical_Cities,9383972]]"
+  - '[[_Standards/WikiData/WD~C40_Cities_Climate_Leadership_Group,485087]]'
+  - '[[_Standards/WikiData/WD~Creative_Cities_Network,1139352]]'
+  - '[[_Standards/WikiData/WD~League_of_Historical_Cities,9383972]]'
 described_by_source:
-  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 located_in_or_next_to_body_of_water:
-  - "[[_Standards/WikiData/WD~Yarra_River,695081]]"
-  - "[[_Standards/WikiData/WD~Port_Phillip,1324526]]"
+  - '[[_Standards/WikiData/WD~Yarra_River,695081]]'
+  - '[[_Standards/WikiData/WD~Port_Phillip,1324526]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Gippsland,1526531]]"
-  - "[[_Standards/WikiData/WD~Hume,17007284]]"
-  - "[[_Standards/WikiData/WD~Grampians,17984902]]"
-  - "[[_Standards/WikiData/WD~Barwon_South_West,17984901]]"
-  - "[[_Standards/WikiData/WD~Loddon_Mallee,27895111]]"
+  - '[[_Standards/WikiData/WD~Gippsland,1526531]]'
+  - '[[_Standards/WikiData/WD~Hume,17007284]]'
+  - '[[_Standards/WikiData/WD~Grampians,17984902]]'
+  - '[[_Standards/WikiData/WD~Barwon_South_West,17984901]]'
+  - '[[_Standards/WikiData/WD~Loddon_Mallee,27895111]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Melbourne,1635847]]"
-  - "[[_Standards/WikiData/WD~City_of_Melbourne,1919098]]"
-  - "[[_Standards/WikiData/WD~Melbourne_central_business_district,6811747]]"
-  - "[[_Standards/WikiData/WD~Portal_Melbourne,28754033]]"
+  - '[[_Standards/WikiData/WD~Melbourne,1635847]]'
+  - '[[_Standards/WikiData/WD~City_of_Melbourne,1919098]]'
+  - '[[_Standards/WikiData/WD~Melbourne_central_business_district,6811747]]'
+  - '[[_Standards/WikiData/WD~Portal_Melbourne,28754033]]'
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~Australia_Melbourne,4823534]]"
-  - "[[_Standards/WikiData/WD~UTC+10_00,7056]]"
-  - "[[_Standards/WikiData/WD~UTC+11_00,7069]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Melbourne,5138589]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Melbourne,5256041]]"
-flag: "[[_Standards/WikiData/WD~Flag_of_Melbourne,5456860]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Melbourne,5535186]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Melbourne,21830362]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Melbourne,25957785]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Melbourne,28754033]]"
-has_facility: "[[_Standards/WikiData/WD~Cast_Iron_Urinal,66767679]]"
-open_data_portal: "[[_Standards/WikiData/WD~Open_Data_City_of_Melbourne,97016704]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Melbourne,100861845]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Melbourne,123266408]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Genadendal_Music_Archive,128903909]]"
-has_part_s_: "[[_Standards/WikiData/WD~Eastern_suburbs_(Melbourne),130581444]]"
+  - '[[_Standards/WikiData/WD~Australia_Melbourne,4823534]]'
+  - '[[_Standards/WikiData/WD~UTC+10_00,7056]]'
+  - '[[_Standards/WikiData/WD~UTC+11_00,7069]]'
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Melbourne,5138589]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Melbourne,5256041]]'
+flag: '[[_Standards/WikiData/WD~Flag_of_Melbourne,5456860]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Melbourne,5535186]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Melbourne,21830362]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Melbourne,25957785]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Melbourne,28754033]]'
+has_facility: '[[_Standards/WikiData/WD~Cast_Iron_Urinal,66767679]]'
+open_data_portal: '[[_Standards/WikiData/WD~Open_Data_City_of_Melbourne,97016704]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Melbourne,100861845]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Melbourne,123266408]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Genadendal_Music_Archive,128903909]]'
+has_part_s_: '[[_Standards/WikiData/WD~Eastern_suburbs_(Melbourne),130581444]]'
 coordinate_location: Point(144.963055555 -37.814166666)
 inception: 1835-08-30T00:00:00Z
-country: "[[_Standards/WikiData/WD~Australia,408]]"
-present_in_work: "[[_Standards/WikiData/WD~Civilization_V,2385]]"
-continent: "[[_Standards/WikiData/WD~Australian_continent,3960]]"
+country: '[[_Standards/WikiData/WD~Australia,408]]'
+present_in_work: '[[_Standards/WikiData/WD~Civilization_V,2385]]'
+continent: '[[_Standards/WikiData/WD~Australian_continent,3960]]'
 minimum_temperature_record: -2.8
 elevation_above_sea_level: 31
-capital_of: "[[_Standards/WikiData/WD~Victoria,36687]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Victoria,36687]]"
+capital_of: '[[_Standards/WikiData/WD~Victoria,36687]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Victoria,36687]]'
 social_media_followers: 19500
-official_language: "[[_Standards/WikiData/WD~Australian_English,44679]]"
+official_language: '[[_Standards/WikiData/WD~Australian_English,44679]]'
 maximum_temperature_record: 46.4
 area: 9993
 local_dialing_code:
-  - "0393"
-  - "0377"
-  - "0383"
-  - "0391"
-  - "0385"
-  - "0371"
-  - "0370"
-  - "0399"
-  - "0376"
-  - "0372"
-  - "0386"
-  - "0378"
-  - "0392"
-  - "0395"
-  - "0398"
-  - "0374"
-  - "0379"
-  - "0390"
-  - "0396"
-  - "0394"
-WOEID: "1103816"
+  - 0393
+  - 0377
+  - 0383
+  - 0391
+  - 0385
+  - 0371
+  - 0370
+  - 0399
+  - 0376
+  - 0372
+  - 0386
+  - 0378
+  - 0392
+  - 0395
+  - 0398
+  - 0374
+  - 0379
+  - 0390
+  - 0396
+  - 0394
+WOEID: 1103816
 hashtag: Melbourne
 X_Twitter_username: Melbourne
 Commons_gallery: Melbourne
@@ -144,7 +145,7 @@ Commons_category: Melbourne
 official_website: https://www.visitmelbourne.com/
 male_population: 2420718
 female_population: 2497033
-OmegaWiki_Defined_Meaning: "755901"
+OmegaWiki_Defined_Meaning: 755901
 population: 5350705
 aerial_view:
   - http://commons.wikimedia.org/wiki/Special:FilePath/ISS-60%20Melbourne%2C%20Australia%20on%20Port%20Philip%20Bay.jpg
@@ -182,7 +183,7 @@ montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Melbourne%20In
 satellite_view: http://commons.wikimedia.org/wiki/Special:FilePath/Melbourne%2C%20Australia%202.jpg
 streaming_media_URL: https://www.youtube.com/watch?v=EpvIAopAYbw
 IPA_transcription: ˈmɛlbən
-U_S_National_Archives_Identifier: "10044390"
+U_S_National_Archives_Identifier: 10044390
 Dewey_Decimal_Classification: 2--9451
 Libris_URI: 20dgf8jl5789jzm
 postal_code: 3000–3207

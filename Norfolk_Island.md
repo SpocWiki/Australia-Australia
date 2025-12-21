@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Norfolk Island
+  - Islas Norfolk
+  - Île Norfolk
+  - جزيرة نورفلك
+  - 诺福克岛
+  - Остров Норфолк
+  - ''
+  - Norfolk_Island
 location:
   - -29.0667
   - 167.967
@@ -15,20 +24,12 @@ cssclasses:
   - Country
 publish: true
 title: Norfolk Island
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Norfolk Island
-  - Islas Norfolk
-  - Île Norfolk
-  - جزيرة نورفلك
-  - 诺福克岛
-  - Остров Норфолк
-  - 
+publishDate: ''
+expiryDate: ''
 Languages:
   - en-NF
 ---

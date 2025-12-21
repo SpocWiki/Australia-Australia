@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Sydney,City
+has_id_wikidata: Q3130
 location:
   - -33.87
   - 151.22
@@ -12,63 +15,62 @@ tags:
 SpocWebEntityId: 34699
 isDeleted: false
 confidential: public
-has_id_wikidata: Q3130
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Portsmouth,72259]]"
-  - "[[_Standards/WikiData/WD~Hakkâri,206895]]"
-  - "[[_Standards/WikiData/WD~Wellington_City,47037646]]"
-  - "[[_Standards/WikiData/WD~Milan,490]]"
-  - "[[_Standards/WikiData/WD~New_Delhi,987]]"
-  - "[[_Standards/WikiData/WD~Islamabad,1362]]"
-  - "[[_Standards/WikiData/WD~Manila,1461]]"
-  - "[[_Standards/WikiData/WD~Mexico_City,1489]]"
-  - "[[_Standards/WikiData/WD~Florence,2044]]"
-  - "[[_Standards/WikiData/WD~Seoul,8684]]"
-  - "[[_Standards/WikiData/WD~Dili,9310]]"
-  - "[[_Standards/WikiData/WD~Nagoya,11751]]"
-  - "[[_Standards/WikiData/WD~Guangzhou,16572]]"
-  - "[[_Standards/WikiData/WD~San_Francisco,62]]"
+  - '[[_Standards/WikiData/WD~Portsmouth,72259]]'
+  - '[[_Standards/WikiData/WD~Hakkâri,206895]]'
+  - '[[_Standards/WikiData/WD~Wellington_City,47037646]]'
+  - '[[_Standards/WikiData/WD~Milan,490]]'
+  - '[[_Standards/WikiData/WD~New_Delhi,987]]'
+  - '[[_Standards/WikiData/WD~Islamabad,1362]]'
+  - '[[_Standards/WikiData/WD~Manila,1461]]'
+  - '[[_Standards/WikiData/WD~Mexico_City,1489]]'
+  - '[[_Standards/WikiData/WD~Florence,2044]]'
+  - '[[_Standards/WikiData/WD~Seoul,8684]]'
+  - '[[_Standards/WikiData/WD~Dili,9310]]'
+  - '[[_Standards/WikiData/WD~Nagoya,11751]]'
+  - '[[_Standards/WikiData/WD~Guangzhou,16572]]'
+  - '[[_Standards/WikiData/WD~San_Francisco,62]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~metropolis,200250]]"
-  - "[[_Standards/WikiData/WD~global_city,208511]]"
-  - "[[_Standards/WikiData/WD~financial_center,1066984]]"
-  - "[[_Standards/WikiData/WD~big_city,1549591]]"
-  - "[[_Standards/WikiData/WD~state_capital,11271835]]"
-  - "[[_Standards/WikiData/WD~largest_city,51929311]]"
-  - "[[_Standards/WikiData/WD~city,515]]"
+  - '[[_Standards/WikiData/WD~metropolis,200250]]'
+  - '[[_Standards/WikiData/WD~global_city,208511]]'
+  - '[[_Standards/WikiData/WD~financial_center,1066984]]'
+  - '[[_Standards/WikiData/WD~big_city,1549591]]'
+  - '[[_Standards/WikiData/WD~state_capital,11271835]]'
+  - '[[_Standards/WikiData/WD~largest_city,51929311]]'
+  - '[[_Standards/WikiData/WD~city,515]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Sydney,229096]]"
-  - "[[_Standards/WikiData/WD~Sydney,932261]]"
-named_after: "[[_Standards/WikiData/WD~Thomas_Townshend,_1st_Viscount_Sydney,332533]]"
+  - '[[_Standards/WikiData/WD~Sydney,229096]]'
+  - '[[_Standards/WikiData/WD~Sydney,932261]]'
+named_after: '[[_Standards/WikiData/WD~Thomas_Townshend,_1st_Viscount_Sydney,332533]]'
 described_by_source:
-  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyer’s_Universum,_Siebenter_Band,131314460]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Parramatta_River,648392]]"
-Köppen_climate_classification: "[[_Standards/WikiData/WD~humid_subtropical_climate,864320]]"
+  - '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyer’s_Universum,_Siebenter_Band,131314460]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Parramatta_River,648392]]'
+Köppen_climate_classification: '[[_Standards/WikiData/WD~humid_subtropical_climate,864320]]'
 capital_of:
-  - "[[_Standards/WikiData/WD~City_of_Sydney,1094194]]"
-  - "[[_Standards/WikiData/WD~New_South_Wales,3224]]"
-member_of: "[[_Standards/WikiData/WD~Creative_Cities_Network,1139352]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Sydney,5256089]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Sydney,5333786]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Sydney,5535240]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Sydney,28754020]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Genadendal_Music_Archive,128903909]]"
+  - '[[_Standards/WikiData/WD~City_of_Sydney,1094194]]'
+  - '[[_Standards/WikiData/WD~New_South_Wales,3224]]'
+member_of: '[[_Standards/WikiData/WD~Creative_Cities_Network,1139352]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Sydney,5256089]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Sydney,5333786]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Sydney,5535240]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Sydney,28754020]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Genadendal_Music_Archive,128903909]]'
 coordinate_location: Point(151.21 -33.867777777)
 Baidu_Tieba_name: 悉尼
 BHCL_UUID:
   - 18e5a115-d1b5-4b2a-9bb2-0f105a4c342f
   - 9b7a07a8-2482-4077-8c48-33ce9c3b97ed
-country: "[[_Standards/WikiData/WD~Australia,408]]"
-present_in_work: "[[_Standards/WikiData/WD~Civilization_V,2385]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~New_South_Wales,3224]]"
-continent: "[[_Standards/WikiData/WD~Australian_continent,3960]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+10_00,7056]]"
+country: '[[_Standards/WikiData/WD~Australia,408]]'
+present_in_work: '[[_Standards/WikiData/WD~Civilization_V,2385]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~New_South_Wales,3224]]'
+continent: '[[_Standards/WikiData/WD~Australian_continent,3960]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC+10_00,7056]]'
 elevation_above_sea_level: 6
 minimum_temperature_record: 2.1
 social_media_followers: 15300

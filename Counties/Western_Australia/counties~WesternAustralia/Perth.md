@@ -1,108 +1,109 @@
 ---
 aliases:
   - Boorloo
+  - Perth
 has_id_wikidata: Q3183
 location:
   - -31.955833333
   - 115.859722222
 coordinate_location: Point(115.859722222 -31.955833333)
-named_after: "[[_Standards/WikiData/WD~Perth,203000]]"
+named_after: '[[_Standards/WikiData/WD~Perth,203000]]'
 described_by_source:
-  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
 located_in_or_next_to_body_of_water:
-  - "[[_Standards/WikiData/WD~Swan_River,1137387]]"
-  - "[[_Standards/WikiData/WD~Indian_Ocean,1239]]"
+  - '[[_Standards/WikiData/WD~Swan_River,1137387]]'
+  - '[[_Standards/WikiData/WD~Indian_Ocean,1239]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~big_city,1549591]]"
-  - "[[_Standards/WikiData/WD~city,515]]"
+  - '[[_Standards/WikiData/WD~big_city,1549591]]'
+  - '[[_Standards/WikiData/WD~city,515]]'
 different_from:
-  - "[[_Standards/WikiData/WD~City_of_Perth,1855330]]"
-  - "[[_Standards/WikiData/WD~Greater_Perth,5600710]]"
-  - "[[_Standards/WikiData/WD~Perth,14229145]]"
-head_of_government: "[[_Standards/WikiData/WD~Basil_Zempilas,4867286]]"
+  - '[[_Standards/WikiData/WD~City_of_Perth,1855330]]'
+  - '[[_Standards/WikiData/WD~Greater_Perth,5600710]]'
+  - '[[_Standards/WikiData/WD~Perth,14229145]]'
+head_of_government: '[[_Standards/WikiData/WD~Basil_Zempilas,4867286]]'
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Cities,5497514]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Australia,11036831]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Perth,21830600]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Western_Australia,21831096]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Perth,5865918]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Perth,28754014]]"
-country: "[[_Standards/WikiData/WD~Australia,408]]"
-capital_of: "[[_Standards/WikiData/WD~Western_Australia,3206]]"
-part_of: "[[_Standards/WikiData/WD~Western_Australia,3206]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Western_Australia,3206]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+08_00,6985]]"
-twinned_administrative_body: "[[_Standards/WikiData/WD~Chengdu,30002]]"
+  - '[[_Standards/WikiData/WD~WikiProject_Cities,5497514]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Australia,11036831]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Perth,21830600]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Western_Australia,21831096]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Perth,5865918]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Perth,28754014]]'
+country: '[[_Standards/WikiData/WD~Australia,408]]'
+capital_of: '[[_Standards/WikiData/WD~Western_Australia,3206]]'
+part_of: '[[_Standards/WikiData/WD~Western_Australia,3206]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Western_Australia,3206]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC+08_00,6985]]'
+twinned_administrative_body: '[[_Standards/WikiData/WD~Chengdu,30002]]'
 elevation_above_sea_level: 2
 area: 6418
 local_dialing_code:
-  - "08925"
-  - "08654"
-  - "08615"
-  - "08626"
-  - "08637"
-  - "08616"
-  - "08938"
-  - "08934"
-  - "08924"
-  - "08624"
-  - "08636"
-  - "08922"
-  - "0852"
-  - "08633"
-  - "08642"
-  - "08928"
-  - "08655"
-  - "08643"
-  - "08644"
-  - "08650"
-  - "08635"
-  - "08943"
-  - "08611"
-  - "08628"
-  - "08920"
-  - "08625"
-  - "08946"
-  - "0854"
-  - "08627"
-  - "08645"
-  - "08610"
-  - "08640"
-  - "08923"
-  - "08647"
-  - "08942"
-  - "08646"
-  - "08648"
-  - "08931"
-  - "08638"
-  - "08927"
-  - "08612"
-  - "0853"
-  - "08632"
-  - "08623"
-  - "08945"
-  - "08926"
-  - "08936"
-  - "08921"
-  - "08947"
-  - "08622"
-  - "08932"
-  - "08944"
-  - "08614"
-  - "08618"
-  - "08621"
-  - "08631"
-  - "08933"
-  - "08935"
-  - "08937"
-  - "08941"
-  - "08948"
+  - 08925
+  - 08654
+  - 08615
+  - 08626
+  - 08637
+  - 08616
+  - 08938
+  - 08934
+  - 08924
+  - 08624
+  - 08636
+  - 08922
+  - 0852
+  - 08633
+  - 08642
+  - 08928
+  - 08655
+  - 08643
+  - 08644
+  - 08650
+  - 08635
+  - 08943
+  - 08611
+  - 08628
+  - 08920
+  - 08625
+  - 08946
+  - 0854
+  - 08627
+  - 08645
+  - 08610
+  - 08640
+  - 08923
+  - 08647
+  - 08942
+  - 08646
+  - 08648
+  - 08931
+  - 08638
+  - 08927
+  - 08612
+  - 0853
+  - 08632
+  - 08623
+  - 08945
+  - 08926
+  - 08936
+  - 08921
+  - 08947
+  - 08622
+  - 08932
+  - 08944
+  - 08614
+  - 08618
+  - 08621
+  - 08631
+  - 08933
+  - 08935
+  - 08937
+  - 08941
+  - 08948
 postal_code:
-  - "6000"
-  - "6001"
+  - 6000
+  - 6001
 social_media_followers: 115643
 GitHub_topic: Perth
 native_label:
@@ -114,7 +115,7 @@ official_name:
 population: 2141834
 inception: 1829-01-01T00:00:00Z
 subreddit: perth
-U_S_National_Archives_Identifier: "10044235"
+U_S_National_Archives_Identifier: 10044235
 Instagram_username: cityofperth
 Facebook_username: CityofPerth
 X_Twitter_username: CityofPerth

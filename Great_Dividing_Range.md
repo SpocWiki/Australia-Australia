@@ -3,19 +3,20 @@ aliases:
   - East Australian Cordillera
   - Eastern Highlands
   - Great Dividing Range
+  - Great_Dividing_Range
 has_id_wikidata: Q192583
-highest_point: "[[_Standards/WikiData/WD~Mount_Kosciuszko,178167]]"
+highest_point: '[[_Standards/WikiData/WD~Mount_Kosciuszko,178167]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
-country: "[[_Standards/WikiData/WD~Australia,408]]"
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+country: '[[_Standards/WikiData/WD~Australia,408]]'
 located_in_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~New_South_Wales,3224]]"
-  - "[[_Standards/WikiData/WD~Australian_Capital_Territory,3258]]"
-  - "[[_Standards/WikiData/WD~Queensland,36074]]"
-  - "[[_Standards/WikiData/WD~Victoria,36687]]"
+  - '[[_Standards/WikiData/WD~New_South_Wales,3224]]'
+  - '[[_Standards/WikiData/WD~Australian_Capital_Territory,3258]]'
+  - '[[_Standards/WikiData/WD~Queensland,36074]]'
+  - '[[_Standards/WikiData/WD~Victoria,36687]]'
 length: 3500
-instance_of: "[[_Standards/WikiData/WD~mountain_range,46831]]"
+instance_of: '[[_Standards/WikiData/WD~mountain_range,46831]]'
 elevation_above_sea_level: 2228
 coordinate_location: Point(147.0 -25.0)
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Blue%20Mountains%20banner%20Hiking%20near%20Blackheath.JPG

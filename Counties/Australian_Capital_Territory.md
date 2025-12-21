@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Australian_Capital_Territory
+  - Australian Capital Territory
 location:
   - -35.5
   - 149
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Australian_Capital_Territory
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Australian_Capital_Territory

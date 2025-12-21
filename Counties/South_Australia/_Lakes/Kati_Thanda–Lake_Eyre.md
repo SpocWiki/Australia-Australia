@@ -2,34 +2,35 @@
 aliases:
   - Kati Thanda–Lake Eyre
   - Lake Eyre
+  - Kati_Thanda–Lake_Eyre
 has_id_wikidata: Q179970
-named_after: "[[_Standards/WikiData/WD~Edward_John_Eyre,357792]]"
+named_after: '[[_Standards/WikiData/WD~Edward_John_Eyre,357792]]'
 inflows:
-  - "[[_Standards/WikiData/WD~Cooper_Creek,432278]]"
-  - "[[_Standards/WikiData/WD~Warburton_River,956882]]"
-  - "[[_Standards/WikiData/WD~Diamantina_River,1208608]]"
-  - "[[_Standards/WikiData/WD~Georgina_River,1509393]]"
-  - "[[_Standards/WikiData/WD~Frome_River,21911442]]"
-located_in_protected_area: "[[_Standards/WikiData/WD~Kati_Thanda_Lake_Eyre_National_Park,927997]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~mainland_Australia,2872203]]"
-drainage_basin: "[[_Standards/WikiData/WD~Lake_Eyre_basin,2887556]]"
+  - '[[_Standards/WikiData/WD~Cooper_Creek,432278]]'
+  - '[[_Standards/WikiData/WD~Warburton_River,956882]]'
+  - '[[_Standards/WikiData/WD~Diamantina_River,1208608]]'
+  - '[[_Standards/WikiData/WD~Georgina_River,1509393]]'
+  - '[[_Standards/WikiData/WD~Frome_River,21911442]]'
+located_in_protected_area: '[[_Standards/WikiData/WD~Kati_Thanda_Lake_Eyre_National_Park,927997]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~mainland_Australia,2872203]]'
+drainage_basin: '[[_Standards/WikiData/WD~Lake_Eyre_basin,2887556]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~endorheic_lake,9019918]]"
-  - "[[_Standards/WikiData/WD~intermittent_lake,10313934]]"
-  - "[[_Standards/WikiData/WD~lake,23397]]"
+  - '[[_Standards/WikiData/WD~endorheic_lake,9019918]]'
+  - '[[_Standards/WikiData/WD~intermittent_lake,10313934]]'
+  - '[[_Standards/WikiData/WD~lake,23397]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Lake_Eyre_North,21890573]]"
-  - "[[_Standards/WikiData/WD~Lake_Eyre_South,21890578]]"
-basin_country: "[[_Standards/WikiData/WD~Australia,408]]"
-country: "[[_Standards/WikiData/WD~Australia,408]]"
+  - '[[_Standards/WikiData/WD~Lake_Eyre_North,21890573]]'
+  - '[[_Standards/WikiData/WD~Lake_Eyre_South,21890578]]'
+basin_country: '[[_Standards/WikiData/WD~Australia,408]]'
+country: '[[_Standards/WikiData/WD~Australia,408]]'
 elevation_above_sea_level: -15
 vertical_depth: 6
 width: 65
 area: 9300
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~South_Australia,35715]]"
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~South_Australia,35715]]'
 watershed_area: 1140000
 length: 144
 volume_as_quantity: 30.1

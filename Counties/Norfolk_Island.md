@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Norfolk_Island
+  - Norfolk Island
 location:
   - -31.56
   - 159.09
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Norfolk_Island
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Norfolk_Island

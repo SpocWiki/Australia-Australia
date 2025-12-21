@@ -1,24 +1,25 @@
 ---
 aliases:
   - Great Victoria Desert
+  - Great_Victoria_Desert
 has_id_wikidata: Q145165
 described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~bioregion,2904233]]"
-  - "[[_Standards/WikiData/WD~WWF_ecoregion,6617741]]"
-  - "[[_Standards/WikiData/WD~IBRA_bioregion,111907301]]"
-  - "[[_Standards/WikiData/WD~desert,8514]]"
+  - '[[_Standards/WikiData/WD~bioregion,2904233]]'
+  - '[[_Standards/WikiData/WD~WWF_ecoregion,6617741]]'
+  - '[[_Standards/WikiData/WD~IBRA_bioregion,111907301]]'
+  - '[[_Standards/WikiData/WD~desert,8514]]'
 coordinate_location:
   - Point(127.75 -28.5)
   - Point(129.259722222 -29.152222222)
-country: "[[_Standards/WikiData/WD~Australia,408]]"
+country: '[[_Standards/WikiData/WD~Australia,408]]'
 located_in_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Western_Australia,3206]]"
-  - "[[_Standards/WikiData/WD~South_Australia,35715]]"
-named_after: "[[_Standards/WikiData/WD~Victoria,9439]]"
+  - '[[_Standards/WikiData/WD~Western_Australia,3206]]'
+  - '[[_Standards/WikiData/WD~South_Australia,35715]]'
+named_after: '[[_Standards/WikiData/WD~Victoria,9439]]'
 width: 700
 elevation_above_sea_level: 353
 area: 348750

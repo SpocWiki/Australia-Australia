@@ -4,54 +4,56 @@ aliases:
   - Millewa
   - Dhungala
   - Tongala
+  - Murray_River
+  - Murray River
 has_id_wikidata: Q183078
 tributary:
-  - "[[_Standards/WikiData/WD~Darling_River,181482]]"
-  - "[[_Standards/WikiData/WD~Murrumbidgee_River,475597]]"
-  - "[[_Standards/WikiData/WD~River_Angas,530613]]"
-  - "[[_Standards/WikiData/WD~Edward_River,593569]]"
-  - "[[_Standards/WikiData/WD~Goulburn_River,609096]]"
-  - "[[_Standards/WikiData/WD~Campaspe_River,612296]]"
-  - "[[_Standards/WikiData/WD~Avoca_River,791237]]"
-  - "[[_Standards/WikiData/WD~Bremer_River,907809]]"
-  - "[[_Standards/WikiData/WD~Little_Murray_River,1000169]]"
-  - "[[_Standards/WikiData/WD~Mitta_Mitta_River,1163315]]"
-  - "[[_Standards/WikiData/WD~Kiewa_River,1163340]]"
-  - "[[_Standards/WikiData/WD~Marne_River,1164115]]"
-  - "[[_Standards/WikiData/WD~Finniss_River,1418187]]"
-  - "[[_Standards/WikiData/WD~Great_Darling_Anabranch,1544248]]"
-  - "[[_Standards/WikiData/WD~Loddon_River,1860106]]"
-  - "[[_Standards/WikiData/WD~Ovens_River,1861761]]"
-  - "[[_Standards/WikiData/WD~Little_Murray_River,1865727]]"
-  - "[[_Standards/WikiData/WD~Pike_River,2094775]]"
-  - "[[_Standards/WikiData/WD~Tooma_River,2442994]]"
-  - "[[_Standards/WikiData/WD~Wakool_River,2540886]]"
-  - "[[_Standards/WikiData/WD~Broken_Creek,4973344]]"
-  - "[[_Standards/WikiData/WD~Rufus_River,7378092]]"
-  - "[[_Standards/WikiData/WD~Swampy_Plain_River,7653399]]"
-different_from: "[[_Standards/WikiData/WD~Murray,224657]]"
-origin_of_the_watercourse: "[[_Standards/WikiData/WD~Australian_Alps,390226]]"
-drainage_basin: "[[_Standards/WikiData/WD~Murray_Darling_basin,534290]]"
+  - '[[_Standards/WikiData/WD~Darling_River,181482]]'
+  - '[[_Standards/WikiData/WD~Murrumbidgee_River,475597]]'
+  - '[[_Standards/WikiData/WD~River_Angas,530613]]'
+  - '[[_Standards/WikiData/WD~Edward_River,593569]]'
+  - '[[_Standards/WikiData/WD~Goulburn_River,609096]]'
+  - '[[_Standards/WikiData/WD~Campaspe_River,612296]]'
+  - '[[_Standards/WikiData/WD~Avoca_River,791237]]'
+  - '[[_Standards/WikiData/WD~Bremer_River,907809]]'
+  - '[[_Standards/WikiData/WD~Little_Murray_River,1000169]]'
+  - '[[_Standards/WikiData/WD~Mitta_Mitta_River,1163315]]'
+  - '[[_Standards/WikiData/WD~Kiewa_River,1163340]]'
+  - '[[_Standards/WikiData/WD~Marne_River,1164115]]'
+  - '[[_Standards/WikiData/WD~Finniss_River,1418187]]'
+  - '[[_Standards/WikiData/WD~Great_Darling_Anabranch,1544248]]'
+  - '[[_Standards/WikiData/WD~Loddon_River,1860106]]'
+  - '[[_Standards/WikiData/WD~Ovens_River,1861761]]'
+  - '[[_Standards/WikiData/WD~Little_Murray_River,1865727]]'
+  - '[[_Standards/WikiData/WD~Pike_River,2094775]]'
+  - '[[_Standards/WikiData/WD~Tooma_River,2442994]]'
+  - '[[_Standards/WikiData/WD~Wakool_River,2540886]]'
+  - '[[_Standards/WikiData/WD~Broken_Creek,4973344]]'
+  - '[[_Standards/WikiData/WD~Rufus_River,7378092]]'
+  - '[[_Standards/WikiData/WD~Swampy_Plain_River,7653399]]'
+different_from: '[[_Standards/WikiData/WD~Murray,224657]]'
+origin_of_the_watercourse: '[[_Standards/WikiData/WD~Australian_Alps,390226]]'
+drainage_basin: '[[_Standards/WikiData/WD~Murray_Darling_basin,534290]]'
 described_by_source:
-  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
-lake_on_watercourse: "[[_Standards/WikiData/WD~Lake_Alexandrina,1794394]]"
+  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+lake_on_watercourse: '[[_Standards/WikiData/WD~Lake_Alexandrina,1794394]]'
 coordinate_location:
   - Point(148.1944 -36.7961)
   - Point(139.366666666 -35.366666666)
   - Point(138.88 -35.5589)
-basin_country: "[[_Standards/WikiData/WD~Australia,408]]"
-country: "[[_Standards/WikiData/WD~Australia,408]]"
-mouth_of_the_watercourse: "[[_Standards/WikiData/WD~Indian_Ocean,1239]]"
+basin_country: '[[_Standards/WikiData/WD~Australia,408]]'
+country: '[[_Standards/WikiData/WD~Australia,408]]'
+mouth_of_the_watercourse: '[[_Standards/WikiData/WD~Indian_Ocean,1239]]'
 located_in_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~New_South_Wales,3224]]"
-  - "[[_Standards/WikiData/WD~South_Australia,35715]]"
-continent: "[[_Standards/WikiData/WD~Australian_continent,3960]]"
-instance_of: "[[_Standards/WikiData/WD~river,4022]]"
+  - '[[_Standards/WikiData/WD~New_South_Wales,3224]]'
+  - '[[_Standards/WikiData/WD~South_Australia,35715]]'
+continent: '[[_Standards/WikiData/WD~Australian_continent,3960]]'
+instance_of: '[[_Standards/WikiData/WD~river,4022]]'
 length:
   - 2530
   - 2508

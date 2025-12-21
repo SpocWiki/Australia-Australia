@@ -1,6 +1,7 @@
 ---
 aliases:
   - Cape York Peninsula
+  - Cape_York_Peninsula
 has_id_wikidata: Q233770
 ---
 
