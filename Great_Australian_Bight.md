@@ -3,6 +3,26 @@ aliases:
   - Great Australian Bight
   - Great_Australian_Bight
 has_id_wikidata: Q186733
+described_by_source:
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Q35541239,35541239]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+inflows:
+  - "[[_Standards/WikiData/WD~Gellibrand_River,5530465]]"
+  - "[[_Standards/WikiData/WD~Johanna_River,6216420]]"
+  - "[[_Standards/WikiData/WD~Curdies_River,18164176]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~bight,17018380]]"
+  - "[[_Standards/WikiData/WD~bay,39594]]"
+coordinate_location: Point(130.0 -33.0)
+basin_country: "[[_Standards/WikiData/WD~Australia,408]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Australia,408]]"
+country: "[[_Standards/WikiData/WD~Australia,408]]"
+part_of: "[[_Standards/WikiData/WD~Indian_Ocean,1239]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Australia.A2002231.0145.250m%20NASA%20Nullarbor.jpg
+Commons_category: Great Australian Bight
 ---
 
 # [[Great_Australian_Bight]] 

@@ -3,6 +3,17 @@ aliases:
   - Cape York Peninsula
   - Cape_York_Peninsula
 has_id_wikidata: Q233770
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Gulf_of_Carpentaria,180844]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Far_North_Queensland,1396047]]"
+different_from: "[[_Standards/WikiData/WD~Yorke_Peninsula,1422995]]"
+described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+country: "[[_Standards/WikiData/WD~Australia,408]]"
+instance_of: "[[_Standards/WikiData/WD~peninsula,34763]]"
+elevation_above_sea_level: 67
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Cape%20York%20Peninsula%20Looking%20South%20001.jpg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Cape%20York%20Peninsula%20Looking%20South%20001.jpg
+Commons_category: Cape York Peninsula
+coordinate_location: Point(143.0 -15.0)
 ---
 
 # [[Cape_York_Peninsula]] 
