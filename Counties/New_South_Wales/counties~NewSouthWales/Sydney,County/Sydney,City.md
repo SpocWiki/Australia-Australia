@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1788-01-26 
 aliases:
   - Sydney,City
 has_id_wikidata: Q3130

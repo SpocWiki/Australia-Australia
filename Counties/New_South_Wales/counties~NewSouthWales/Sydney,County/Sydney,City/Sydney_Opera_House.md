@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1973-01-01 
 aliases:
   - Sydney_Opera
   - Sydney_Opera_House
