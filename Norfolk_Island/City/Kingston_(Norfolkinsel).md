@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 167.9667
 dv_has_place_latitude: -29.06667
-dv_name: Kingston (Norfolkinsel)
+dv_has_name_: Kingston (Norfolkinsel)
 dv_Country: "[[../../../Australasia/Australia/Norfolk_Island]]]"
 ---
 #is_a_/Place  

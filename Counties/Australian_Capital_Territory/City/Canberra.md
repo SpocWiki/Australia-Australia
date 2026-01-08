@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: 149.1245
 dv_has_place_latitude: -35.30806
-dv_name: Canberra
+dv_has_name_: Canberra
 dv_Unknown: 32
 dv_is_:
   same_as: "[[../../../../../../../WikiData/WD~Canberra,3114|WD~Canberra,3114]]"

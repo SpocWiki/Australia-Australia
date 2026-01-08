@@ -38,15 +38,13 @@ dv_ISO4217-currency_country_name: AUSTRALIA
 dv_Telephone: 61
 dv_Global: true
 dv_Global_Name: World
-dv_name: Australia
-dv_name-en:
-  - Australia
-  - Australia
-dv_name-es: Australia
-dv_name-fr: Australie
-dv_name-cn: 澳大利亚
-dv_name-ar: أستراليا
-dv_name-ru: Австралия
+dv_has_name_: Australia
+dv_has_name_en: Australia
+dv_has_name_es: Australia
+dv_has_name_fr: Australie
+dv_has_name_cn: 澳大利亚
+dv_has_name_ar: أستراليا
+dv_has_name_ru: Австралия
 dv_CLDR_display_name: Australia
 dv_UNTERM_English: Australia
 dv_UNTERM_English_Formal: Australia
@@ -83,7 +81,7 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 36
 dv_ISO2: AU
 dv_ISO3: AUS
-dv_name-de: Australien
+dv_has_name_de: Australien
 dv_Area-Total: 7682300
 dv_Area-Land: 7644440
 dv_Continent: Australia
@@ -110,12 +108,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Australia ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Australia ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -174,8 +172,8 @@ geojsonFolder: .//
 markerFolder: ./
 ```
 
-[name-en::Australia] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Australia] 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent = `=this.dv_Continent`

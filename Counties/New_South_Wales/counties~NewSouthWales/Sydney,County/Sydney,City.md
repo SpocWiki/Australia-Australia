@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 151.22
 dv_has_place_latitude: -33.87
-dv_name: Sydney
+dv_has_name_: Sydney
 
 has_time_started: 1788-01-26 
 aliases:

@@ -40,15 +40,15 @@ dv_ISO4217-currency_country_name: NORFOLK ISLAND
 dv_Telephone: 672
 dv_Global: true
 dv_Global_Name: World
-dv_name: Norfolk Island
-dv_name-en:
+dv_has_name_: Norfolk Island
+dv_has_name_en:
   - Norfolk Island
   - Norfolk Island
-dv_name-es: Islas Norfolk
-dv_name-fr: Île Norfolk
-dv_name-cn: 诺福克岛
-dv_name-ar: جزيرة نورفلك
-dv_name-ru: Остров Норфолк
+dv_has_name_es: Islas Norfolk
+dv_has_name_fr: Île Norfolk
+dv_has_name_cn: 诺福克岛
+dv_has_name_ar: جزيرة نورفلك
+dv_has_name_ru: Остров Норфолк
 dv_CLDR_display_name: Norfolk Island
 dv_Region_Name: "[[../../Oceania]]"
 dv_Intermediate_Region_Name: "[[Norfolk_Island]]"
@@ -73,7 +73,7 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 574
 dv_ISO2: NF
 dv_ISO3: NFK
-dv_name-de: Norfolk Insel
+dv_has_name_de: Norfolk Insel
 dv_Area-Total: 0
 dv_Area-Land: 0
 dv_Continent: "[[../../Oceania]]"
@@ -97,12 +97,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Norfolk Island ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Norfolk Island ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -162,8 +162,8 @@ geojsonFolder: ./Norfolk_Island/
 markerFolder: ./Norfolk_Island/
 ```
 
-[name-en::Norfolk Island] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Norfolk Island] 
+has_name_de = `=this.dv_has_name_de` 
 
 ![[Norfolk_Island/Coat_of_arms_of_Norfolk_Island.svg|350]] 
 

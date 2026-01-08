@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: 147.32
 dv_has_place_latitude: -42.88
-dv_name: Hobart
+dv_has_name_: Hobart
 dv_Country: "[[../../../../Australia]]"
 ---
 #is_a_/Place  

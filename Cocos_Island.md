@@ -13,8 +13,8 @@ isDeleted: false
 confidential: public
 dv_ISO2: CC
 dv_ISO3: CCK
-dv_name-en: Cocos Island
-dv_name-de: Cocosinseln
+dv_has_name_en: Cocos Island
+dv_has_name_de: Cocosinseln
 dv_Area-Total: 0
 dv_Area-Land: 0
 dv_Continent: "[[../../Oceania]]"
@@ -34,8 +34,8 @@ geojsonFolder: ./Cocos_Island/
 markerFolder: ./Cocos_Island/
 ```
 
-name-en = `=this.dv_name-en` 
-name-de = `=this.dv_name-de` 
+has_name_en = `=this.dv_has_name_en` 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent = `=this.dv_Continent`

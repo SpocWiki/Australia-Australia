@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 96.83334
 dv_has_place_latitude: -12.18333
-dv_name: West Island
+dv_has_name_: West Island
 dv_Country: "[[../../../Australasia/Australia/Cocos_Island]]]"
 ---
 #is_a_/Place  

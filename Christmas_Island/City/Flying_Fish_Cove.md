@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 105.6833
 dv_has_place_latitude: -10.41667
-dv_name: Flying Fish Cove
+dv_has_name_: Flying Fish Cove
 dv_Country: "[[../../../Australasia/Australia/Christmas_Island]]]"
 ---
 #is_a_/Place  

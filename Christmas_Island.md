@@ -42,15 +42,15 @@ dv_ISO4217-currency_country_name: CHRISTMAS ISLAND
 dv_Telephone: 61
 dv_Global: true
 dv_Global_Name: World
-dv_name: Christmas Island
-dv_name-en:
+dv_has_name_: Christmas Island
+dv_has_name_en:
   - Christmas Island
   - Christmas Island
-dv_name-es: Isla de Navidad
-dv_name-fr: Île Christmas
-dv_name-cn: 圣诞岛
-dv_name-ar: جزيرة كريسماس
-dv_name-ru: остров Рождества
+dv_has_name_es: Isla de Navidad
+dv_has_name_fr: Île Christmas
+dv_has_name_cn: 圣诞岛
+dv_has_name_ar: جزيرة كريسماس
+dv_has_name_ru: остров Рождества
 dv_CLDR_display_name: Christmas Island
 dv_Region_Name: "[[../../Oceania]]"
 dv_Intermediate_Region_Name: "[[Christmas_Island]]"
@@ -74,7 +74,7 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 162
 dv_ISO2: CX
 dv_ISO3: CXR
-dv_name-de: Weihnachtsinseln
+dv_has_name_de: Weihnachtsinseln
 dv_Area-Total: 0
 dv_Area-Land: 0
 dv_Continent: "[[../../Oceania]]"
@@ -98,12 +98,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Christmas Island ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Christmas Island ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -162,8 +162,8 @@ geojsonFolder: ./Christmas_Island/
 markerFolder: ./Christmas_Island/
 ```
 
-[name-en::Christmas Island] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Christmas Island] 
+has_name_de = `=this.dv_has_name_de` 
 
 ![[Christmas_Island/Flag_of_Christmas_Island.svg|350]] 
 

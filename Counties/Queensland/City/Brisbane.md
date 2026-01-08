@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: 152.5
 dv_has_place_latitude: -27.5
-dv_name: Brisbane
+dv_has_name_: Brisbane
 dv_Country: "[[../../../../Australia]]"
 ---
 #is_a_/Place  
