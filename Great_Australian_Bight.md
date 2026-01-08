@@ -23,11 +23,14 @@ country: "[[_Standards/WikiData/WD~Australia,408]]"
 part_of: "[[_Standards/WikiData/WD~Indian_Ocean,1239]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Australia.A2002231.0145.250m%20NASA%20Nullarbor.jpg
 Commons_category: Great Australian Bight
+dv_is_:
+  same_as: "[[../../../../WikiData/WD~Great_Australian_Bight,186733|WD~Great_Australian_Bight,186733]]"
+dv_is_same_as: "[[../../../../WikiData/WD~Great_Australian_Bight,186733|WD~Great_Australian_Bight,186733]]"
 ---
 
 # [[Great_Australian_Bight]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Great_Australian_Bight,186733|WD~Great_Australian_Bight,186733]] 
+is_same_as = `=this.dv_is_same_as`
 ## #has_/text_of_/abstract 
 
 > The Great Australian Bight is a large oceanic bight, or open bay, 
@@ -55,4 +58,21 @@ Commons_category: Great Australian Bight
 > However, these proposals have faced significant opposition due to the potential environmental impacts.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Great%20Australian%20Bight) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Australia/Great_Australian_Bight|Great_Australian_Bight]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Australia/Great_Australian_Bight.public|Great_Australian_Bight.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Australia/Great_Australian_Bight.internal|Great_Australian_Bight.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Australia/Great_Australian_Bight.protect|Great_Australian_Bight.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Australia/Great_Australian_Bight.private|Great_Australian_Bight.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Australia/Great_Australian_Bight.personal|Great_Australian_Bight.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Australia/Great_Australian_Bight.secret|Great_Australian_Bight.secret]] 
 

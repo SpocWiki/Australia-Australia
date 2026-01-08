@@ -42,17 +42,17 @@ markerFolder: ./Queensland//
 
 ## Confidential Links & Embeds: 
 
-### [Queensland](/_Standards/Earth/Continent/Australasia/Australia/Counties/Queensland.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Australia/Counties/Queensland|Queensland]] 
 
-### [Queensland.public](/_public/Earth/Continent/Australasia/Australia/Counties/Queensland.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Australia/Counties/Queensland.public|Queensland.public]] 
 
-### [Queensland.internal](/_internal/Earth/Continent/Australasia/Australia/Counties/Queensland.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Australia/Counties/Queensland.internal|Queensland.internal]] 
 
-### [Queensland.protect](/_protect/Earth/Continent/Australasia/Australia/Counties/Queensland.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Australia/Counties/Queensland.protect|Queensland.protect]] 
 
-### [Queensland.private](/_private/Earth/Continent/Australasia/Australia/Counties/Queensland.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Australia/Counties/Queensland.private|Queensland.private]] 
 
-### [Queensland.personal](/_personal/Earth/Continent/Australasia/Australia/Counties/Queensland.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Australia/Counties/Queensland.personal|Queensland.personal]] 
 
-### [Queensland.secret](/_secret/Earth/Continent/Australasia/Australia/Counties/Queensland.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Australia/Counties/Queensland.secret|Queensland.secret]] 
 

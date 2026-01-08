@@ -1,4 +1,9 @@
-﻿---
+---
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 151.22
+dv_has_place_latitude: -33.87
+dv_name: Sydney
+
 has_time_started: 1788-01-26 
 aliases:
   - Sydney,City
@@ -140,10 +145,10 @@ Dewey_Decimal_Classification: 2--9441
 
 ﻿
  #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::151.22] 
-[has_place_latitude::-33.87] 
-[name::Sydney] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
 Country :: [[Australia]]  
 [StateId::] 
@@ -162,17 +167,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sydney](/_Standards/Earth/Continent/Australasia/Australia/Counties/New_South_Wales/City/Sydney.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Australia/Counties/New_South_Wales/counties~NewSouthWales/Sydney,County/Sydney,City|Sydney,City]] 
 
-### [Sydney.public](/_public/Earth/Continent/Australasia/Australia/Counties/New_South_Wales/City/Sydney.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Australia/Counties/New_South_Wales/counties~NewSouthWales/Sydney,County/Sydney,City.public|Sydney,City.public]] 
 
-### [Sydney.internal](/_internal/Earth/Continent/Australasia/Australia/Counties/New_South_Wales/City/Sydney.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Australia/Counties/New_South_Wales/counties~NewSouthWales/Sydney,County/Sydney,City.internal|Sydney,City.internal]] 
 
-### [Sydney.protect](/_protect/Earth/Continent/Australasia/Australia/Counties/New_South_Wales/City/Sydney.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Australia/Counties/New_South_Wales/counties~NewSouthWales/Sydney,County/Sydney,City.protect|Sydney,City.protect]] 
 
-### [Sydney.private](/_private/Earth/Continent/Australasia/Australia/Counties/New_South_Wales/City/Sydney.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Australia/Counties/New_South_Wales/counties~NewSouthWales/Sydney,County/Sydney,City.private|Sydney,City.private]] 
 
-### [Sydney.personal](/_personal/Earth/Continent/Australasia/Australia/Counties/New_South_Wales/City/Sydney.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Australia/Counties/New_South_Wales/counties~NewSouthWales/Sydney,County/Sydney,City.personal|Sydney,City.personal]] 
 
-### [Sydney.secret](/_secret/Earth/Continent/Australasia/Australia/Counties/New_South_Wales/City/Sydney.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Australia/Counties/New_South_Wales/counties~NewSouthWales/Sydney,County/Sydney,City.secret|Sydney,City.secret]] 
 

@@ -20,16 +20,19 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~South_Australia,35715]]"
+dv_is_same_as: "[[_Standards/WikiData/WD~South_Australia,35715]]"
 ---
 
 # [[South_Australia]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~South_Australia,35715]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map  
 
@@ -45,17 +48,17 @@ markerFolder: ./South_Australia/
 
 ## Confidential Links & Embeds: 
 
-### [South_Australia](/_Standards/Earth/Continent/Australasia/Australia/Counties/South_Australia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Australia/Counties/South_Australia|South_Australia]] 
 
-### [South_Australia.public](/_public/Earth/Continent/Australasia/Australia/Counties/South_Australia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Australia/Counties/South_Australia.public|South_Australia.public]] 
 
-### [South_Australia.internal](/_internal/Earth/Continent/Australasia/Australia/Counties/South_Australia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Australia/Counties/South_Australia.internal|South_Australia.internal]] 
 
-### [South_Australia.protect](/_protect/Earth/Continent/Australasia/Australia/Counties/South_Australia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Australia/Counties/South_Australia.protect|South_Australia.protect]] 
 
-### [South_Australia.private](/_private/Earth/Continent/Australasia/Australia/Counties/South_Australia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Australia/Counties/South_Australia.private|South_Australia.private]] 
 
-### [South_Australia.personal](/_personal/Earth/Continent/Australasia/Australia/Counties/South_Australia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Australia/Counties/South_Australia.personal|South_Australia.personal]] 
 
-### [South_Australia.secret](/_secret/Earth/Continent/Australasia/Australia/Counties/South_Australia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Australia/Counties/South_Australia.secret|South_Australia.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29358
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../Geography/Place]]"
+dv_has_place_longitude: 152.5
+dv_has_place_latitude: -27.5
+dv_name: Brisbane
+dv_Country: "[[../../../../Australia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::152.5] 
-[has_place_latitude::-27.5] 
-[name::Brisbane] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Australia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Brisbane](/_Standards/Earth/Continent/Australasia/Australia/Counties/Queensland/City/Brisbane.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Australia/Counties/Queensland/City/Brisbane|Brisbane]] 
 
-### [Brisbane.public](/_public/Earth/Continent/Australasia/Australia/Counties/Queensland/City/Brisbane.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Australia/Counties/Queensland/City/Brisbane.public|Brisbane.public]] 
 
-### [Brisbane.internal](/_internal/Earth/Continent/Australasia/Australia/Counties/Queensland/City/Brisbane.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Australia/Counties/Queensland/City/Brisbane.internal|Brisbane.internal]] 
 
-### [Brisbane.protect](/_protect/Earth/Continent/Australasia/Australia/Counties/Queensland/City/Brisbane.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Australia/Counties/Queensland/City/Brisbane.protect|Brisbane.protect]] 
 
-### [Brisbane.private](/_private/Earth/Continent/Australasia/Australia/Counties/Queensland/City/Brisbane.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Australia/Counties/Queensland/City/Brisbane.private|Brisbane.private]] 
 
-### [Brisbane.personal](/_personal/Earth/Continent/Australasia/Australia/Counties/Queensland/City/Brisbane.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Australia/Counties/Queensland/City/Brisbane.personal|Brisbane.personal]] 
 
-### [Brisbane.secret](/_secret/Earth/Continent/Australasia/Australia/Counties/Queensland/City/Brisbane.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Australia/Counties/Queensland/City/Brisbane.secret|Brisbane.secret]] 
 

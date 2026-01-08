@@ -1,4 +1,12 @@
-﻿---
+---
+dv_is_a_: "[[../../../../../../Geography/Place]]"
+dv_has_place_longitude: 144.97
+dv_has_place_latitude: -37.83
+dv_name: Melbourne
+dv_is_:
+  same_as: "[[../../../../../../../WikiData/WD~Melbourne,3141|WD~Melbourne,3141]]"
+dv_is_same_as: "[[../../../../../../../WikiData/WD~Melbourne,3141|WD~Melbourne,3141]]"
+
 has_time_started: 1835-08-30 
 aliases:
   - Narrm
@@ -197,17 +205,17 @@ IMDb_keyword: melbourne-australia
 # [[Melbourne]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::144.97] 
-[has_place_latitude::-37.83] 
-[name::Melbourne] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
 Country :: [[Australia]]  
 [StateId::] 
 [Population::] 
 
 
-#is_/same_as :: [[../../../../../../../WikiData/WD~Melbourne,3141|WD~Melbourne,3141]] 
+is_same_as = `=this.dv_is_same_as`
 
 ```leaflet
 id: Melbourne
@@ -234,17 +242,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Melbourne](/_Standards/Earth/Continent/Australasia/Australia/Counties/Victoria/City/Melbourne.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Australia/Counties/Victoria/City/Melbourne|Melbourne]] 
 
-### [Melbourne.public](/_public/Earth/Continent/Australasia/Australia/Counties/Victoria/City/Melbourne.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Australia/Counties/Victoria/City/Melbourne.public|Melbourne.public]] 
 
-### [Melbourne.internal](/_internal/Earth/Continent/Australasia/Australia/Counties/Victoria/City/Melbourne.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Australia/Counties/Victoria/City/Melbourne.internal|Melbourne.internal]] 
 
-### [Melbourne.protect](/_protect/Earth/Continent/Australasia/Australia/Counties/Victoria/City/Melbourne.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Australia/Counties/Victoria/City/Melbourne.protect|Melbourne.protect]] 
 
-### [Melbourne.private](/_private/Earth/Continent/Australasia/Australia/Counties/Victoria/City/Melbourne.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Australia/Counties/Victoria/City/Melbourne.private|Melbourne.private]] 
 
-### [Melbourne.personal](/_personal/Earth/Continent/Australasia/Australia/Counties/Victoria/City/Melbourne.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Australia/Counties/Victoria/City/Melbourne.personal|Melbourne.personal]] 
 
-### [Melbourne.secret](/_secret/Earth/Continent/Australasia/Australia/Counties/Victoria/City/Melbourne.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Australia/Counties/Victoria/City/Melbourne.secret|Melbourne.secret]] 
 

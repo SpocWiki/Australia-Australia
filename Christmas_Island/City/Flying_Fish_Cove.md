@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 36736
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 105.6833
+dv_has_place_latitude: -10.41667
+dv_name: Flying Fish Cove
+dv_Country: "[[../../../Australasia/Australia/Christmas_Island]]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::105.6833] 
-[has_place_latitude::-10.41667] 
-[name::Flying Fish Cove] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country ::[[../../../Australasia/Australia/Christmas_Island]]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Flying_Fish_Cove](/_Standards/Earth/Continent/Australasia/Australia/Christmas_Island/City/Flying_Fish_Cove.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Australia/Christmas_Island/City/Flying_Fish_Cove|Flying_Fish_Cove]] 
 
-### [Flying_Fish_Cove.public](/_public/Earth/Continent/Australasia/Australia/Christmas_Island/City/Flying_Fish_Cove.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Australia/Christmas_Island/City/Flying_Fish_Cove.public|Flying_Fish_Cove.public]] 
 
-### [Flying_Fish_Cove.internal](/_internal/Earth/Continent/Australasia/Australia/Christmas_Island/City/Flying_Fish_Cove.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Australia/Christmas_Island/City/Flying_Fish_Cove.internal|Flying_Fish_Cove.internal]] 
 
-### [Flying_Fish_Cove.protect](/_protect/Earth/Continent/Australasia/Australia/Christmas_Island/City/Flying_Fish_Cove.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Australia/Christmas_Island/City/Flying_Fish_Cove.protect|Flying_Fish_Cove.protect]] 
 
-### [Flying_Fish_Cove.private](/_private/Earth/Continent/Australasia/Australia/Christmas_Island/City/Flying_Fish_Cove.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Australia/Christmas_Island/City/Flying_Fish_Cove.private|Flying_Fish_Cove.private]] 
 
-### [Flying_Fish_Cove.personal](/_personal/Earth/Continent/Australasia/Australia/Christmas_Island/City/Flying_Fish_Cove.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Australia/Christmas_Island/City/Flying_Fish_Cove.personal|Flying_Fish_Cove.personal]] 
 
-### [Flying_Fish_Cove.secret](/_secret/Earth/Continent/Australasia/Australia/Christmas_Island/City/Flying_Fish_Cove.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Australia/Christmas_Island/City/Flying_Fish_Cove.secret|Flying_Fish_Cove.secret]] 
 

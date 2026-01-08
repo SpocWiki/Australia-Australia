@@ -40,11 +40,14 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Gulf%20of%20Carpentari
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q58635%20%28pan%29-Gaurav%20Jhammat-%E0%A8%95%E0%A8%BE%E0%A8%B0%E0%A8%AA%E0%A9%88%E0%A8%82%E0%A8%9F%E0%A8%B0%E0%A9%80%E0%A8%86%20%E0%A8%A6%E0%A9%80%20%E0%A8%96%E0%A8%BE%E0%A9%9C%E0%A9%80.wav
 Commons_category: Gulf of Carpentaria
 native_label: Gulf of Carpentaria
+dv_is_:
+  same_as: "[[../../../../WikiData/WD~Gulf_of_Carpentaria,180844]]"
+dv_is_same_as: "[[../../../../WikiData/WD~Gulf_of_Carpentaria,180844]]"
 ---
 
 # [[Gulf_of_Carpentaria]] 
 
-#is_/same_as :: [[WD~Gulf_of_Carpentaria,180844]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -59,4 +62,21 @@ native_label: Gulf of Carpentaria
 > At its mouth, the Gulf is 590 km (370 mi) wide, and further south, 675 km (420 mi). The north–south length exceeds 700 km (430 mi). It covers a water area of about 300,000 km2 (120,000 sq mi). The general depth is between 55 and 66 metres (30 and 36 fathoms) with a maximum depth of 69 metres (38 fathoms). The tidal range in the Gulf of Carpentaria is between two and three metres (6.5 and 10 ft). The Gulf and adjacent Sahul Shelf were dry land at the peak of the last ice age 18,000 years ago when global sea level was around 120 m (390 ft) below its present position.  At that time a large, shallow lake occupied the centre of what is now the Gulf. The Gulf hosts a submerged coral reef province that was only recognised in 2004.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gulf%20of%20Carpentaria) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Australia/Gulf_of_Carpentaria|Gulf_of_Carpentaria]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Australia/Gulf_of_Carpentaria.public|Gulf_of_Carpentaria.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Australia/Gulf_of_Carpentaria.internal|Gulf_of_Carpentaria.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Australia/Gulf_of_Carpentaria.protect|Gulf_of_Carpentaria.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Australia/Gulf_of_Carpentaria.private|Gulf_of_Carpentaria.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Australia/Gulf_of_Carpentaria.personal|Gulf_of_Carpentaria.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Australia/Gulf_of_Carpentaria.secret|Gulf_of_Carpentaria.secret]] 
 

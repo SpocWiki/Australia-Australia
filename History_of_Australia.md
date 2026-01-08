@@ -28,11 +28,14 @@ image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Duyfken%20replica%2C%20Swan%20River.jpg
 subreddit: AustralianHistory
 Commons_category: History of Australia
+dv_is_:
+  same_as: "[[../../../../WikiData/WD~History_of_Australia,174825|WD~History_of_Australia,174825]]"
+dv_is_same_as: "[[../../../../WikiData/WD~History_of_Australia,174825|WD~History_of_Australia,174825]]"
 ---
 
 # [[History_of_Australia]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~History_of_Australia,174825|WD~History_of_Australia,174825]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -47,4 +50,21 @@ Commons_category: History of Australia
 > Gold rushes and agricultural industries brought prosperity. Transportation of British convicts to Australia was phased out from 1840 to 1868. Autonomous parliamentary democracies began to be established throughout the six British colonies from the mid-19th century. The colonies voted by referendum to unite in a federation in 1901, and modern Australia came into being. Australia fought as part of British Empire and later Commonwealth in the two world wars and was to become a long-standing ally of the United States through the Cold War to the present. Trade with Asia increased and a post-war immigration program received more than 7 million migrants from every continent. Supported by immigration of people from almost every country in the world since the end of World War II, the population increased to more than 25.5 million by 2021, with 30 per cent of the population born overseas.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Australia) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Australia/History_of_Australia|History_of_Australia]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Australia/History_of_Australia.public|History_of_Australia.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Australia/History_of_Australia.internal|History_of_Australia.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Australia/History_of_Australia.protect|History_of_Australia.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Australia/History_of_Australia.private|History_of_Australia.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Australia/History_of_Australia.personal|History_of_Australia.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Australia/History_of_Australia.secret|History_of_Australia.secret]] 
 

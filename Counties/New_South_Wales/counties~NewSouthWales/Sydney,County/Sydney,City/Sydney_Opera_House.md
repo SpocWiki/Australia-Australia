@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../../../WikiData/WD~Sydney_Opera_House,45178|WD~Sydney_Opera_House,45178]]"
+dv_is_same_as: "[[../../../../../../../../../WikiData/WD~Sydney_Opera_House,45178|WD~Sydney_Opera_House,45178]]"
+
 has_time_started: 1973-01-01 
 aliases:
   - Sydney_Opera
@@ -83,7 +87,7 @@ Google_Doodle: 35th-anniversary-of-the-opening-of-the-sydney-opera-house
 
 # [[Sydney_Opera_House]] 
 
-#is_/same_as :: [[../../../../../../../../../WikiData/WD~Sydney_Opera_House,45178|WD~Sydney_Opera_House,45178]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -102,3 +106,21 @@ Google_Doodle: 35th-anniversary-of-the-opening-of-the-sydney-opera-house
 > In 2007, the Sydney Opera House became a UNESCO World Heritage Site, having been listed on the (now defunct) Register of the National Estate since 1980, the National Trust of Australia register since 1983, the City of Sydney Heritage Inventory since 2000, the New South Wales State Heritage Register since 2003, and the Australian National Heritage List since 2005. The Opera House was also a finalist in the New 7 Wonders of the World campaign list.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sydney%20Opera%20House)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Australia/Counties/New_South_Wales/counties~NewSouthWales/Sydney,County/Sydney,City/Sydney_Opera_House|Sydney_Opera_House]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Australia/Counties/New_South_Wales/counties~NewSouthWales/Sydney,County/Sydney,City/Sydney_Opera_House.public|Sydney_Opera_House.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Australia/Counties/New_South_Wales/counties~NewSouthWales/Sydney,County/Sydney,City/Sydney_Opera_House.internal|Sydney_Opera_House.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Australia/Counties/New_South_Wales/counties~NewSouthWales/Sydney,County/Sydney,City/Sydney_Opera_House.protect|Sydney_Opera_House.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Australia/Counties/New_South_Wales/counties~NewSouthWales/Sydney,County/Sydney,City/Sydney_Opera_House.private|Sydney_Opera_House.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Australia/Counties/New_South_Wales/counties~NewSouthWales/Sydney,County/Sydney,City/Sydney_Opera_House.personal|Sydney_Opera_House.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Australia/Counties/New_South_Wales/counties~NewSouthWales/Sydney,County/Sydney,City/Sydney_Opera_House.secret|Sydney_Opera_House.secret]] 
+

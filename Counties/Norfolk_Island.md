@@ -41,17 +41,17 @@ markerFolder: ./Norfolk_Island/
 
 ## Confidential Links & Embeds: 
 
-### [Norfolk_Island](/_Standards/Earth/Continent/Australasia/Australia/Counties/Norfolk_Island.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Australia/Counties/Norfolk_Island|Norfolk_Island]] 
 
-### [Norfolk_Island.public](/_public/Earth/Continent/Australasia/Australia/Counties/Norfolk_Island.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Australia/Counties/Norfolk_Island.public|Norfolk_Island.public]] 
 
-### [Norfolk_Island.internal](/_internal/Earth/Continent/Australasia/Australia/Counties/Norfolk_Island.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Australia/Counties/Norfolk_Island.internal|Norfolk_Island.internal]] 
 
-### [Norfolk_Island.protect](/_protect/Earth/Continent/Australasia/Australia/Counties/Norfolk_Island.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Australia/Counties/Norfolk_Island.protect|Norfolk_Island.protect]] 
 
-### [Norfolk_Island.private](/_private/Earth/Continent/Australasia/Australia/Counties/Norfolk_Island.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Australia/Counties/Norfolk_Island.private|Norfolk_Island.private]] 
 
-### [Norfolk_Island.personal](/_personal/Earth/Continent/Australasia/Australia/Counties/Norfolk_Island.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Australia/Counties/Norfolk_Island.personal|Norfolk_Island.personal]] 
 
-### [Norfolk_Island.secret](/_secret/Earth/Continent/Australasia/Australia/Counties/Norfolk_Island.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Australia/Counties/Norfolk_Island.secret|Norfolk_Island.secret]] 
 

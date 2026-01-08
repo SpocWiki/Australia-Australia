@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 36735
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 96.83334
+dv_has_place_latitude: -12.18333
+dv_name: West Island
+dv_Country: "[[../../../Australasia/Australia/Cocos_Island]]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::96.83334] 
-[has_place_latitude::-12.18333] 
-[name::West Island] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country ::[[../../../Australasia/Australia/Cocos_Island]]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [West_Island](/_Standards/Earth/Continent/Australasia/Australia/Cocos_Island/City/West_Island.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Australia/Cocos_Island/City/West_Island|West_Island]] 
 
-### [West_Island.public](/_public/Earth/Continent/Australasia/Australia/Cocos_Island/City/West_Island.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Australia/Cocos_Island/City/West_Island.public|West_Island.public]] 
 
-### [West_Island.internal](/_internal/Earth/Continent/Australasia/Australia/Cocos_Island/City/West_Island.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Australia/Cocos_Island/City/West_Island.internal|West_Island.internal]] 
 
-### [West_Island.protect](/_protect/Earth/Continent/Australasia/Australia/Cocos_Island/City/West_Island.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Australia/Cocos_Island/City/West_Island.protect|West_Island.protect]] 
 
-### [West_Island.private](/_private/Earth/Continent/Australasia/Australia/Cocos_Island/City/West_Island.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Australia/Cocos_Island/City/West_Island.private|West_Island.private]] 
 
-### [West_Island.personal](/_personal/Earth/Continent/Australasia/Australia/Cocos_Island/City/West_Island.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Australia/Cocos_Island/City/West_Island.personal|West_Island.personal]] 
 
-### [West_Island.secret](/_secret/Earth/Continent/Australasia/Australia/Cocos_Island/City/West_Island.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Australia/Cocos_Island/City/West_Island.secret|West_Island.secret]] 
 

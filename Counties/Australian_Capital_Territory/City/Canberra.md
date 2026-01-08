@@ -1,4 +1,13 @@
-﻿---
+---
+dv_is_a_: "[[../../../../../../Geography/Place]]"
+dv_has_place_longitude: 149.1245
+dv_has_place_latitude: -35.30806
+dv_name: Canberra
+dv_Unknown: 32
+dv_is_:
+  same_as: "[[../../../../../../../WikiData/WD~Canberra,3114|WD~Canberra,3114]]"
+dv_is_same_as: "[[../../../../../../../WikiData/WD~Canberra,3114|WD~Canberra,3114]]"
+
 has_time_started: 1913-03-12 
 aliases:
   - Canberra
@@ -86,17 +95,17 @@ inception: 1913-03-12T00:00:00Z
 # [[Canberra]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::149.1245] 
-[has_place_latitude::-35.30806] 
-[name::Canberra] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
 Country :: [[Australia]]  
 [StateId::] 
 [Population::] 
-[Unknown::32] 
+Unknown = `=this.dv_Unknown` 
 
-#is_/same_as :: [[../../../../../../../WikiData/WD~Canberra,3114|WD~Canberra,3114]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -126,17 +135,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Canberra](/_Standards/Earth/Continent/Australasia/Australia/Counties/Australian_Capital_Territory/City/Canberra.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Australia/Counties/Australian_Capital_Territory/City/Canberra|Canberra]] 
 
-### [Canberra.public](/_public/Earth/Continent/Australasia/Australia/Counties/Australian_Capital_Territory/City/Canberra.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Australia/Counties/Australian_Capital_Territory/City/Canberra.public|Canberra.public]] 
 
-### [Canberra.internal](/_internal/Earth/Continent/Australasia/Australia/Counties/Australian_Capital_Territory/City/Canberra.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Australia/Counties/Australian_Capital_Territory/City/Canberra.internal|Canberra.internal]] 
 
-### [Canberra.protect](/_protect/Earth/Continent/Australasia/Australia/Counties/Australian_Capital_Territory/City/Canberra.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Australia/Counties/Australian_Capital_Territory/City/Canberra.protect|Canberra.protect]] 
 
-### [Canberra.private](/_private/Earth/Continent/Australasia/Australia/Counties/Australian_Capital_Territory/City/Canberra.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Australia/Counties/Australian_Capital_Territory/City/Canberra.private|Canberra.private]] 
 
-### [Canberra.personal](/_personal/Earth/Continent/Australasia/Australia/Counties/Australian_Capital_Territory/City/Canberra.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Australia/Counties/Australian_Capital_Territory/City/Canberra.personal|Canberra.personal]] 
 
-### [Canberra.secret](/_secret/Earth/Continent/Australasia/Australia/Counties/Australian_Capital_Territory/City/Canberra.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Australia/Counties/Australian_Capital_Territory/City/Canberra.secret|Canberra.secret]] 
 

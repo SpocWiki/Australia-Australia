@@ -45,17 +45,17 @@ markerFile: [[New_South_Wales]]
 
 ## Confidential Links & Embeds: 
 
-### [New_South_Wales](/_Standards/Earth/Continent/Australasia/Australia/Counties/New_South_Wales.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Australia/Counties/New_South_Wales|New_South_Wales]] 
 
-### [New_South_Wales.public](/_public/Earth/Continent/Australasia/Australia/Counties/New_South_Wales.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Australia/Counties/New_South_Wales.public|New_South_Wales.public]] 
 
-### [New_South_Wales.internal](/_internal/Earth/Continent/Australasia/Australia/Counties/New_South_Wales.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Australia/Counties/New_South_Wales.internal|New_South_Wales.internal]] 
 
-### [New_South_Wales.protect](/_protect/Earth/Continent/Australasia/Australia/Counties/New_South_Wales.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Australia/Counties/New_South_Wales.protect|New_South_Wales.protect]] 
 
-### [New_South_Wales.private](/_private/Earth/Continent/Australasia/Australia/Counties/New_South_Wales.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Australia/Counties/New_South_Wales.private|New_South_Wales.private]] 
 
-### [New_South_Wales.personal](/_personal/Earth/Continent/Australasia/Australia/Counties/New_South_Wales.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Australia/Counties/New_South_Wales.personal|New_South_Wales.personal]] 
 
-### [New_South_Wales.secret](/_secret/Earth/Continent/Australasia/Australia/Counties/New_South_Wales.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Australia/Counties/New_South_Wales.secret|New_South_Wales.secret]] 
 

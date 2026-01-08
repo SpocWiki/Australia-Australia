@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30960
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../Geography/Place]]"
+dv_has_place_longitude: 147.32
+dv_has_place_latitude: -42.88
+dv_name: Hobart
+dv_Country: "[[../../../../Australia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::147.32] 
-[has_place_latitude::-42.88] 
-[name::Hobart] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Australia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hobart](/_Standards/Earth/Continent/Australasia/Australia/Counties/Tasmania/City/Hobart.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Australia/Counties/Tasmania/City/Hobart|Hobart]] 
 
-### [Hobart.public](/_public/Earth/Continent/Australasia/Australia/Counties/Tasmania/City/Hobart.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Australia/Counties/Tasmania/City/Hobart.public|Hobart.public]] 
 
-### [Hobart.internal](/_internal/Earth/Continent/Australasia/Australia/Counties/Tasmania/City/Hobart.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Australia/Counties/Tasmania/City/Hobart.internal|Hobart.internal]] 
 
-### [Hobart.protect](/_protect/Earth/Continent/Australasia/Australia/Counties/Tasmania/City/Hobart.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Australia/Counties/Tasmania/City/Hobart.protect|Hobart.protect]] 
 
-### [Hobart.private](/_private/Earth/Continent/Australasia/Australia/Counties/Tasmania/City/Hobart.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Australia/Counties/Tasmania/City/Hobart.private|Hobart.private]] 
 
-### [Hobart.personal](/_personal/Earth/Continent/Australasia/Australia/Counties/Tasmania/City/Hobart.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Australia/Counties/Tasmania/City/Hobart.personal|Hobart.personal]] 
 
-### [Hobart.secret](/_secret/Earth/Continent/Australasia/Australia/Counties/Tasmania/City/Hobart.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Australia/Counties/Tasmania/City/Hobart.secret|Hobart.secret]] 
 

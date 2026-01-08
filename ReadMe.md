@@ -22,84 +22,149 @@ cssclasses:
   - Country
 publish: true
 title: Australia
-linkTitle: ''
-keywords: ''
-layout: ''
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate: ''
-expiryDate: ''
+publishDate: ""
+expiryDate: ""
 Languages:
   - en-AU
+dv_ISO4217-currency_alphabetic: AUD
+dv_ISO4217-currency_name: Australian Dollar
+dv_ISO4217-currency_numeric: 36
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: AUSTRALIA
+dv_Telephone: 61
+dv_Global: true
+dv_Global_Name: World
+dv_name: Australia
+dv_name-en:
+  - Australia
+  - Australia
+dv_name-es: Australia
+dv_name-fr: Australie
+dv_name-cn: 澳大利亚
+dv_name-ar: أستراليا
+dv_name-ru: Австралия
+dv_CLDR_display_name: Australia
+dv_UNTERM_English: Australia
+dv_UNTERM_English_Formal: Australia
+dv_UNTERM_Spanish_Formal: Australia
+dv_UNTERM_Spanish: Australia
+dv_UNTERM_French: Australie (l') [fém.]
+dv_UNTERM_Arabic: أستراليا
+dv_UNTERM_Arabic_Formal: أستراليا
+dv_UNTERM_Chinese: 澳大利亚
+dv_UNTERM_Chinese_Formal: 澳大利亚
+dv_UNTERM_French_Formal: l'Australie
+dv_UNTERM_Russian: Австралия
+dv_UNTERM_Russian_Formal: Австралия
+dv_Region_Name: "[[../../Oceania]]"
+dv_Intermediate_Region_Name: "[[ReadMe]]"
+dv_Sub-region_Name: "[[Australia and New Zealand]]"
+dv_Region: 9
+dv_Sub-region: 53
+dv_Geoname-ID: 2077456
+dv_FIPS: AS
+dv_FIFA: AUS
+dv_IOC: AUS
+dv_MARC: at
+dv_GAUL: 17
+dv_WMO: AU
+dv_ITU: AUS
+dv_DS: AUS
+dv_TLD: .au
+dv_EDGAR: C3
+dv_M49: 36
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developed
+dv_ISO3166-1-numeric: 36
+dv_ISO2: AU
+dv_ISO3: AUS
+dv_name-de: Australien
+dv_Area-Total: 7682300
+dv_Area-Land: 7644440
+dv_Continent: Australia
+dv_VehicleCode: AUS
+dv_Capital: "[[Counties/Australian_Capital_Territory/City/Canberra]]"
+dv_Alcohol-l: 10
+dv_Language-Id: 499
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 149.027
+dv_has_place_latitude: -35.4776
+dv_developed_developing_countries: Developed
 ---
 
 
-[	ISO4217-currency_alphabetic	 :: AUD ] 
-[	ISO4217-currency_name	 :: Australian Dollar ] 
-[	ISO4217-currency_numeric	 :: 036 ] 
-[	ISO4217-currency_minor_unit	 :: 2 ] 
-[	ISO4217-currency_country_name	 :: AUSTRALIA ] 
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric` 
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit` 
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name` 
 
-[	Telephone	 :: 61 ] 
+Telephone = `=this.dv_Telephone` 
 
-[	Global	 :: True ] 
-[	Global_Name	 :: World ] 
+Global = `=this.dv_Global` 
+Global_Name = `=this.dv_Global_Name` 
 
-[	name	 :: Australia ] 
+name = `=this.dv_name` 
 [	name-en	 :: Australia ] 
-[	name-es	 :: Australia ] 
-[	name-fr	 :: Australie ] 
-[	name-cn	 :: 澳大利亚 ] 
-[	name-ar	 :: أستراليا ] 
-[	name-ru	 :: Австралия ] 
+name-es = `=this.dv_name-es` 
+name-fr = `=this.dv_name-fr` 
+name-cn = `=this.dv_name-cn` 
+name-ar = `=this.dv_name-ar` 
+name-ru = `=this.dv_name-ru` 
 
-[	CLDR_display_name	 :: Australia ] 
+CLDR_display_name = `=this.dv_CLDR_display_name` 
 
-[	UNTERM_English	 :: Australia ] 
-[	UNTERM_English_Formal	 :: Australia ] 
-[	UNTERM_Spanish_Formal	 :: Australia ] 
-[	UNTERM_Spanish	 :: Australia ] 
-[	UNTERM_French	 :: Australie (l') [fém.] ] 
-[	UNTERM_Arabic	 :: أستراليا ] 
-[	UNTERM_Arabic_Formal	 :: أستراليا ] 
-[	UNTERM_Chinese	 :: 澳大利亚 ] 
-[	UNTERM_Chinese_Formal	 :: 澳大利亚 ] 
-[	UNTERM_French_Formal	 :: l'Australie ] 
-[	UNTERM_Russian	 :: Австралия ] 
-[	UNTERM_Russian_Formal	 :: Австралия ] 
+UNTERM_English = `=this.dv_UNTERM_English` 
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal` 
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal` 
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish` 
+UNTERM_French = `=this.dv_UNTERM_French` ] 
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic` 
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal` 
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese` 
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal` 
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal` 
+UNTERM_Russian = `=this.dv_UNTERM_Russian` 
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal` 
 
-Region_Name ::  [[Oceania]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Australia and New Zealand]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 9 ] 
-[	Intermediate_Region	 ::  ] 
-[	Sub-region	 :: 53 ] 
+Region = `=this.dv_Region` 
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region` 
 
-[	Geoname-ID	 :: 2077456 ] 
-[	FIPS	 :: AS ] 
-[	FIFA	 :: AUS ] 
-[	IOC	 :: AUS ] 
-[	MARC	 :: at ] 
-[	GAUL	 :: 17 ] 
-[	WMO	 :: AU ] 
-[	ITU	 :: AUS ] 
-[	DS	 :: AUS ] 
-[	TLD	 :: .au ] 
-[	EDGAR	 :: C3 ] 
-[	M49	 :: 36 ] 
+Geoname-ID = `=this.dv_Geoname-ID` 
+FIPS = `=this.dv_FIPS` 
+FIFA = `=this.dv_FIFA` 
+IOC = `=this.dv_IOC` 
+MARC = `=this.dv_MARC` 
+GAUL = `=this.dv_GAUL` 
+WMO = `=this.dv_WMO` 
+ITU = `=this.dv_ITU` 
+DS = `=this.dv_DS` 
+TLD = `=this.dv_TLD` 
+EDGAR = `=this.dv_EDGAR` 
+M49 = `=this.dv_M49` 
 
-[	is_independent	 :: Yes ] 
-[	Developed_/Developing_Countries	 :: Developed ] 
+is_independent = `=this.dv_is_independent` 
+developed_developing_countries = `=this.dv_developed_developing_countries` 
 [	Land_Locked_Developing_Countries	 ::  ] 
 [	Least_Developed_Countries	 ::  ] 
-[	Small_Island_Developing_States	 ::  ] 
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 036 ] 
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric` 
 
 
 
-[ISO2::AU] 
-[ISO3::AUS] 
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3` 
 ```leaflet
 id: Australia
 zoomFeatures: true 
@@ -110,12 +175,12 @@ markerFolder: ./
 ```
 
 [name-en::Australia] 
-[name-de::Australien] 
-[Area-Total::7682300] 
-[Area-Land::7644440] 
-Continent :: Australia
-[VehicleCode::AUS] 
-Capital :: [[Canberra]]  
+name-de = `=this.dv_name-de` 
+Area-Total = `=this.dv_Area-Total` 
+Area-Land = `=this.dv_Area-Land` 
+Continent = `=this.dv_Continent`
+VehicleCode = `=this.dv_VehicleCode` 
+Capital = `=this.dv_Capital`
 
 ![[Coat_of_arms_of_Australia.svg|550]] 
 
@@ -123,27 +188,27 @@ Capital :: [[Canberra]]
 ] 
 ![[Flag_of_Australia.svg|350]] 
 
-[Alcohol-l::10] 
-[Language-Id::499] 
+Alcohol-l = `=this.dv_Alcohol-l` 
+Language-Id = `=this.dv_Language-Id` 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::149.027] 
-[has_place_latitude::-35.4776] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe](/_Standards/Earth/Continent/Australasia/Australia/ReadMe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Australia/ReadMe|ReadMe]] 
 
-### [ReadMe.public](/_public/Earth/Continent/Australasia/Australia/ReadMe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Australia/ReadMe.public|ReadMe.public]] 
 
-### [ReadMe.internal](/_internal/Earth/Continent/Australasia/Australia/ReadMe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Australia/ReadMe.internal|ReadMe.internal]] 
 
-### [ReadMe.protect](/_protect/Earth/Continent/Australasia/Australia/ReadMe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Australia/ReadMe.protect|ReadMe.protect]] 
 
-### [ReadMe.private](/_private/Earth/Continent/Australasia/Australia/ReadMe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Australia/ReadMe.private|ReadMe.private]] 
 
-### [ReadMe.personal](/_personal/Earth/Continent/Australasia/Australia/ReadMe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Australia/ReadMe.personal|ReadMe.personal]] 
 
-### [ReadMe.secret](/_secret/Earth/Continent/Australasia/Australia/ReadMe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Australia/ReadMe.secret|ReadMe.secret]] 
 

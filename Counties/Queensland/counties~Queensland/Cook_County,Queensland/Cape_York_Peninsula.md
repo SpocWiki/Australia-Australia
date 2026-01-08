@@ -14,11 +14,14 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Cape%20York%20Pe
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cape%20York%20Peninsula%20Looking%20South%20001.jpg
 Commons_category: Cape York Peninsula
 coordinate_location: Point(143.0 -15.0)
+dv_is_:
+  same_as: "[[../../../../../../../../WikiData/WD~Cape_York_Peninsula,233770|WD~Cape_York_Peninsula,233770]]"
+dv_is_same_as: "[[../../../../../../../../WikiData/WD~Cape_York_Peninsula,233770|WD~Cape_York_Peninsula,233770]]"
 ---
 
 # [[Cape_York_Peninsula]] 
 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Cape_York_Peninsula,233770|WD~Cape_York_Peninsula,233770]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -41,4 +44,21 @@ coordinate_location: Point(143.0 -15.0)
 > was the first European to land in Australia, reaching the Cape York Peninsula.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cape%20York%20Peninsula) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Australia/Counties/Queensland/counties~Queensland/Cook_County,Queensland/Cape_York_Peninsula|Cape_York_Peninsula]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Australia/Counties/Queensland/counties~Queensland/Cook_County,Queensland/Cape_York_Peninsula.public|Cape_York_Peninsula.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Australia/Counties/Queensland/counties~Queensland/Cook_County,Queensland/Cape_York_Peninsula.internal|Cape_York_Peninsula.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Australia/Counties/Queensland/counties~Queensland/Cook_County,Queensland/Cape_York_Peninsula.protect|Cape_York_Peninsula.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Australia/Counties/Queensland/counties~Queensland/Cook_County,Queensland/Cape_York_Peninsula.private|Cape_York_Peninsula.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Australia/Counties/Queensland/counties~Queensland/Cook_County,Queensland/Cape_York_Peninsula.personal|Cape_York_Peninsula.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Australia/Counties/Queensland/counties~Queensland/Cook_County,Queensland/Cape_York_Peninsula.secret|Cape_York_Peninsula.secret]] 
 

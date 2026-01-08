@@ -20,16 +20,19 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~Tasmania,34366|WD~Tasmania,34366]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~Tasmania,34366|WD~Tasmania,34366]]"
 ---
 
 # [[Tasmania]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Tasmania,34366|WD~Tasmania,34366]] 
+is_same_as = `=this.dv_is_same_as`
 
 ```leaflet
 id: Tasmania
@@ -60,21 +63,19 @@ defaultZoom: 11
 > [Wikipedia](https://en.wikipedia.org/wiki/Tasmania)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Tasmania](/_Standards/Earth/Continent/Australasia/Australia/Counties/Tasmania.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Australia/Counties/Tasmania|Tasmania]] 
 
-### [Tasmania.public](/_public/Earth/Continent/Australasia/Australia/Counties/Tasmania.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Australia/Counties/Tasmania.public|Tasmania.public]] 
 
-### [Tasmania.internal](/_internal/Earth/Continent/Australasia/Australia/Counties/Tasmania.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Australia/Counties/Tasmania.internal|Tasmania.internal]] 
 
-### [Tasmania.protect](/_protect/Earth/Continent/Australasia/Australia/Counties/Tasmania.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Australia/Counties/Tasmania.protect|Tasmania.protect]] 
 
-### [Tasmania.private](/_private/Earth/Continent/Australasia/Australia/Counties/Tasmania.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Australia/Counties/Tasmania.private|Tasmania.private]] 
 
-### [Tasmania.personal](/_personal/Earth/Continent/Australasia/Australia/Counties/Tasmania.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Australia/Counties/Tasmania.personal|Tasmania.personal]] 
 
-### [Tasmania.secret](/_secret/Earth/Continent/Australasia/Australia/Counties/Tasmania.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Australia/Counties/Tasmania.secret|Tasmania.secret]] 
 

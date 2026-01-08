@@ -113,17 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License](/_Standards/Earth/Continent/Australasia/Australia/License.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Australia/License|License]] 
 
-### [License.public](/_public/Earth/Continent/Australasia/Australia/License.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Australia/License.public|License.public]] 
 
-### [License.internal](/_internal/Earth/Continent/Australasia/Australia/License.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Australia/License.internal|License.internal]] 
 
-### [License.protect](/_protect/Earth/Continent/Australasia/Australia/License.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Australia/License.protect|License.protect]] 
 
-### [License.private](/_private/Earth/Continent/Australasia/Australia/License.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Australia/License.private|License.private]] 
 
-### [License.personal](/_personal/Earth/Continent/Australasia/Australia/License.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Australia/License.personal|License.personal]] 
 
-### [License.secret](/_secret/Earth/Continent/Australasia/Australia/License.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Australia/License.secret|License.secret]] 
 

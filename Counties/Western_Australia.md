@@ -61,20 +61,19 @@ defaultZoom: 11
 > [Wikipedia](https://en.wikipedia.org/wiki/Western%20Australia) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Western_Australia](/_Standards/Earth/Continent/Australasia/Australia/Counties/Western_Australia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Australia/Counties/Western_Australia|Western_Australia]] 
 
-### [Western_Australia.public](/_public/Earth/Continent/Australasia/Australia/Counties/Western_Australia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Australia/Counties/Western_Australia.public|Western_Australia.public]] 
 
-### [Western_Australia.internal](/_internal/Earth/Continent/Australasia/Australia/Counties/Western_Australia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Australia/Counties/Western_Australia.internal|Western_Australia.internal]] 
 
-### [Western_Australia.protect](/_protect/Earth/Continent/Australasia/Australia/Counties/Western_Australia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Australia/Counties/Western_Australia.protect|Western_Australia.protect]] 
 
-### [Western_Australia.private](/_private/Earth/Continent/Australasia/Australia/Counties/Western_Australia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Australia/Counties/Western_Australia.private|Western_Australia.private]] 
 
-### [Western_Australia.personal](/_personal/Earth/Continent/Australasia/Australia/Counties/Western_Australia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Australia/Counties/Western_Australia.personal|Western_Australia.personal]] 
 
-### [Western_Australia.secret](/_secret/Earth/Continent/Australasia/Australia/Counties/Western_Australia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Australia/Counties/Western_Australia.secret|Western_Australia.secret]] 
 

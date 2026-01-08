@@ -40,17 +40,17 @@ markerFolder: ./Victoria/
 
 ## Confidential Links & Embeds: 
 
-### [Victoria](/_Standards/Earth/Continent/Australasia/Australia/Counties/Victoria.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Australia/Counties/Victoria|Victoria]] 
 
-### [Victoria.public](/_public/Earth/Continent/Australasia/Australia/Counties/Victoria.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Australia/Counties/Victoria.public|Victoria.public]] 
 
-### [Victoria.internal](/_internal/Earth/Continent/Australasia/Australia/Counties/Victoria.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Australia/Counties/Victoria.internal|Victoria.internal]] 
 
-### [Victoria.protect](/_protect/Earth/Continent/Australasia/Australia/Counties/Victoria.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Australia/Counties/Victoria.protect|Victoria.protect]] 
 
-### [Victoria.private](/_private/Earth/Continent/Australasia/Australia/Counties/Victoria.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Australia/Counties/Victoria.private|Victoria.private]] 
 
-### [Victoria.personal](/_personal/Earth/Continent/Australasia/Australia/Counties/Victoria.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Australia/Counties/Victoria.personal|Victoria.personal]] 
 
-### [Victoria.secret](/_secret/Earth/Continent/Australasia/Australia/Counties/Victoria.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Australia/Counties/Victoria.secret|Victoria.secret]] 
 

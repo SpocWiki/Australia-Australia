@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../WikiData/WD~Perth,3183|WD~Perth,3183]]"
+dv_is_same_as: "[[../../../../../../../WikiData/WD~Perth,3183|WD~Perth,3183]]"
+
 has_time_started: 1829-01-01 
 aliases:
   - Boorloo
@@ -136,7 +140,7 @@ YouTube_handle: cityofperthwa
 
 # [[Perth]] 
 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Perth,3183|WD~Perth,3183]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -173,4 +177,21 @@ maxZoom: 18
 > Perth is home to many parkland areas and nature reserves, the most-visited being Kings Park and Botanic Garden, one of the world's largest inner-city parks. Other popular natural features include Cottesloe Beach and Rottnest Island. Notable heritage buildings and cultural sites include Perth Mint, WA Museum Boola Bardip and the World Heritage-listed Fremantle Prison. All five of Western Australia's universities are based in Perth. The city is served by Fremantle Harbour and Perth Airport.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Perth) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Australia/Counties/Western_Australia/counties~WesternAustralia/Perth|Perth]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Australia/Counties/Western_Australia/counties~WesternAustralia/Perth.public|Perth.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Australia/Counties/Western_Australia/counties~WesternAustralia/Perth.internal|Perth.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Australia/Counties/Western_Australia/counties~WesternAustralia/Perth.protect|Perth.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Australia/Counties/Western_Australia/counties~WesternAustralia/Perth.private|Perth.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Australia/Counties/Western_Australia/counties~WesternAustralia/Perth.personal|Perth.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Australia/Counties/Western_Australia/counties~WesternAustralia/Perth.secret|Perth.secret]] 
 

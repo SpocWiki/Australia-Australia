@@ -41,17 +41,17 @@ markerFolder: ./Northern_Territory/
 
 ## Confidential Links & Embeds: 
 
-### [Northern_Territory](/_Standards/Earth/Continent/Australasia/Australia/Counties/Northern_Territory.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Australia/Counties/Northern_Territory|Northern_Territory]] 
 
-### [Northern_Territory.public](/_public/Earth/Continent/Australasia/Australia/Counties/Northern_Territory.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Australia/Counties/Northern_Territory.public|Northern_Territory.public]] 
 
-### [Northern_Territory.internal](/_internal/Earth/Continent/Australasia/Australia/Counties/Northern_Territory.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Australia/Counties/Northern_Territory.internal|Northern_Territory.internal]] 
 
-### [Northern_Territory.protect](/_protect/Earth/Continent/Australasia/Australia/Counties/Northern_Territory.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Australia/Counties/Northern_Territory.protect|Northern_Territory.protect]] 
 
-### [Northern_Territory.private](/_private/Earth/Continent/Australasia/Australia/Counties/Northern_Territory.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Australia/Counties/Northern_Territory.private|Northern_Territory.private]] 
 
-### [Northern_Territory.personal](/_personal/Earth/Continent/Australasia/Australia/Counties/Northern_Territory.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Australia/Counties/Northern_Territory.personal|Northern_Territory.personal]] 
 
-### [Northern_Territory.secret](/_secret/Earth/Continent/Australasia/Australia/Counties/Northern_Territory.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Australia/Counties/Northern_Territory.secret|Northern_Territory.secret]] 
 

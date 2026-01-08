@@ -41,17 +41,17 @@ markerFolder: ./Australian_Capital_Territory/
 
 ## Confidential Links & Embeds: 
 
-### [Australian_Capital_Territory](/_Standards/Earth/Continent/Australasia/Australia/Counties/Australian_Capital_Territory.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Australia/Counties/Australian_Capital_Territory|Australian_Capital_Territory]] 
 
-### [Australian_Capital_Territory.public](/_public/Earth/Continent/Australasia/Australia/Counties/Australian_Capital_Territory.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Australia/Counties/Australian_Capital_Territory.public|Australian_Capital_Territory.public]] 
 
-### [Australian_Capital_Territory.internal](/_internal/Earth/Continent/Australasia/Australia/Counties/Australian_Capital_Territory.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Australia/Counties/Australian_Capital_Territory.internal|Australian_Capital_Territory.internal]] 
 
-### [Australian_Capital_Territory.protect](/_protect/Earth/Continent/Australasia/Australia/Counties/Australian_Capital_Territory.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Australia/Counties/Australian_Capital_Territory.protect|Australian_Capital_Territory.protect]] 
 
-### [Australian_Capital_Territory.private](/_private/Earth/Continent/Australasia/Australia/Counties/Australian_Capital_Territory.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Australia/Counties/Australian_Capital_Territory.private|Australian_Capital_Territory.private]] 
 
-### [Australian_Capital_Territory.personal](/_personal/Earth/Continent/Australasia/Australia/Counties/Australian_Capital_Territory.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Australia/Counties/Australian_Capital_Territory.personal|Australian_Capital_Territory.personal]] 
 
-### [Australian_Capital_Territory.secret](/_secret/Earth/Continent/Australasia/Australia/Counties/Australian_Capital_Territory.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Australia/Counties/Australian_Capital_Territory.secret|Australian_Capital_Territory.secret]] 
 

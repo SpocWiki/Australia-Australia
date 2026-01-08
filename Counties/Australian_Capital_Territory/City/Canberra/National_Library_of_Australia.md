@@ -1,4 +1,10 @@
-﻿---
+---
+dv_"Building", "NationalLibraryOfAustralia: 6n72v"
+dv_is_:
+  same_as: "[[../../../../../../../../WikiData/WD~National_Library_of_Australia,623578]]"
+dv_building-nationallibraryofaustralia: 6n72v"
+dv_is_same_as: "[[../../../../../../../../WikiData/WD~National_Library_of_Australia,623578]]"
+
 has_time_started: 1961-03-23 
 aliases:
   - National Library of Australia
@@ -57,12 +63,12 @@ ISNI:
   - 0000000121646618
   - 0000000403856840
 Australian_Business_Number: 28346858075
-Wolfram_Language_entity_code: Entity["Building", "NationalLibraryOfAustralia::6n72v"]
+Wolfram_Language_entity_code: Entity"Building", "NationalLibraryOfAustralia = `=this.dv_"Building", "NationalLibraryOfAustralia`
 ---
 
 # [[National_Library_of_Australia]] 
 
-#is_/same_as :: [[WD~National_Library_of_Australia,623578]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -84,4 +90,21 @@ Wolfram_Language_entity_code: Entity["Building", "NationalLibraryOfAustralia::6n
 > as well as born-digital material.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/National%20Library%20of%20Australia) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Australia/Counties/Australian_Capital_Territory/City/Canberra/National_Library_of_Australia|National_Library_of_Australia]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Australia/Counties/Australian_Capital_Territory/City/Canberra/National_Library_of_Australia.public|National_Library_of_Australia.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Australia/Counties/Australian_Capital_Territory/City/Canberra/National_Library_of_Australia.internal|National_Library_of_Australia.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Australia/Counties/Australian_Capital_Territory/City/Canberra/National_Library_of_Australia.protect|National_Library_of_Australia.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Australia/Counties/Australian_Capital_Territory/City/Canberra/National_Library_of_Australia.private|National_Library_of_Australia.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Australia/Counties/Australian_Capital_Territory/City/Canberra/National_Library_of_Australia.personal|National_Library_of_Australia.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Australia/Counties/Australian_Capital_Territory/City/Canberra/National_Library_of_Australia.secret|National_Library_of_Australia.secret]] 
 

@@ -3,28 +3,28 @@ aliases:
   - Great Barrier Reef
   - Great_Barrier_Reef
 has_id_wikidata: Q7343
-located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Coral_Sea,82931]]'
-locations: '[[_Standards/WikiData/WD~Townsville,190021]]'
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Coral_Sea,82931]]"
+locations: "[[_Standards/WikiData/WD~Townsville,190021]]"
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Atlas_of_Vanishing_Places,113243983]]'
-located_in_protected_area: '[[_Standards/WikiData/WD~Great_Barrier_Reef_Marine_Park,938159]]'
-investigated_by: '[[_Standards/WikiData/WD~Australian_Institute_of_Marine_Science,4824311]]'
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Atlas_of_Vanishing_Places,113243983]]"
+located_in_protected_area: "[[_Standards/WikiData/WD~Great_Barrier_Reef_Marine_Park,938159]]"
+investigated_by: "[[_Standards/WikiData/WD~Australian_Institute_of_Marine_Science,4824311]]"
 heritage_designation:
-  - '[[_Standards/WikiData/WD~listed_on_the_Australian_National_Heritage_List,20747146]]'
-  - '[[_Standards/WikiData/WD~World_Heritage_Site,9259]]'
+  - "[[_Standards/WikiData/WD~listed_on_the_Australian_National_Heritage_List,20747146]]"
+  - "[[_Standards/WikiData/WD~World_Heritage_Site,9259]]"
 World_Heritage_criteria:
-  - '[[_Standards/WikiData/WD~(viii),23038983]]'
-  - '[[_Standards/WikiData/WD~(vii),23038981]]'
-  - '[[_Standards/WikiData/WD~(ix),23038985]]'
+  - "[[_Standards/WikiData/WD~(viii),23038983]]"
+  - "[[_Standards/WikiData/WD~(vii),23038981]]"
+  - "[[_Standards/WikiData/WD~(ix),23038985]]"
 area: 34893402.8830109
 coordinate_location: Point(145.8 -16.4)
-country: '[[_Standards/WikiData/WD~Australia,408]]'
-instance_of: '[[_Standards/WikiData/WD~coral_reef,11292]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Queensland,36074]]'
+country: "[[_Standards/WikiData/WD~Australia,408]]"
+instance_of: "[[_Standards/WikiData/WD~coral_reef,11292]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Queensland,36074]]"
 official_website: http://www.gbrmpa.gov.au/
 native_label: Great Barrier Reef
 image: http://commons.wikimedia.org/wiki/Special:FilePath/GreatBarrierReef-EO.JPG
@@ -32,12 +32,17 @@ Commons_gallery: Great Barrier Reef
 Commons_category: Great Barrier Reef
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Flynn%20Reef%20banner.jpg
 aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Great%20Barrier%20Reef%20on%20February%2012%2C%202018.jpg
-Wolfram_Language_entity_code: Entity["Reef", "GreatBarrierReef::czs9j"]
+Wolfram_Language_entity_code: Entity"Reef", "GreatBarrierReef = `=this.dv_"Reef", "GreatBarrierReef`
+dv_"Reef", "GreatBarrierReef: czs9j"
+dv_is_:
+  same_as: "[[../../../../WikiData/WD~Great_Barrier_Reef,7343|WD~Great_Barrier_Reef,7343]]"
+dv_reef-greatbarrierreef: czs9j"
+dv_is_same_as: "[[../../../../WikiData/WD~Great_Barrier_Reef,7343|WD~Great_Barrier_Reef,7343]]"
 ---
 
 # [[Great_Barrier_Reef]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Great_Barrier_Reef,7343|WD~Great_Barrier_Reef,7343]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -58,17 +63,17 @@ Wolfram_Language_entity_code: Entity["Reef", "GreatBarrierReef::czs9j"]
 
 ## Confidential Links & Embeds: 
 
-### [Great_Barrier_Reef](/_Standards/Earth/Continent/Australasia/Australia/Great_Barrier_Reef.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Australia/Great_Barrier_Reef|Great_Barrier_Reef]] 
 
-### [Great_Barrier_Reef.public](/_public/Earth/Continent/Australasia/Australia/Great_Barrier_Reef.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Australia/Great_Barrier_Reef.public|Great_Barrier_Reef.public]] 
 
-### [Great_Barrier_Reef.internal](/_internal/Earth/Continent/Australasia/Australia/Great_Barrier_Reef.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Australia/Great_Barrier_Reef.internal|Great_Barrier_Reef.internal]] 
 
-### [Great_Barrier_Reef.protect](/_protect/Earth/Continent/Australasia/Australia/Great_Barrier_Reef.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Australia/Great_Barrier_Reef.protect|Great_Barrier_Reef.protect]] 
 
-### [Great_Barrier_Reef.private](/_private/Earth/Continent/Australasia/Australia/Great_Barrier_Reef.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Australia/Great_Barrier_Reef.private|Great_Barrier_Reef.private]] 
 
-### [Great_Barrier_Reef.personal](/_personal/Earth/Continent/Australasia/Australia/Great_Barrier_Reef.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Australia/Great_Barrier_Reef.personal|Great_Barrier_Reef.personal]] 
 
-### [Great_Barrier_Reef.secret](/_secret/Earth/Continent/Australasia/Australia/Great_Barrier_Reef.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Australia/Great_Barrier_Reef.secret|Great_Barrier_Reef.secret]] 
 

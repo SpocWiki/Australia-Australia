@@ -45,6 +45,25 @@ Iconclass_notation: 32B351
 MeSH_tree_code:
   - M01.270.968.600
   - M01.686.493.500.500
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Indigenous_Australians,170355|WD~Indigenous_Australians,170355]]"
+    - "[Indigenous_Australian](/_Standards/Indigenous_Australian.md)"
+    - "[Indigenous_Australian.public](/_public/Indigenous_Australian.public.md)"
+    - "[Indigenous_Australian.internal](/_internal/Indigenous_Australian.internal.md)"
+    - "[Indigenous_Australian.protect](/_protect/Indigenous_Australian.protect.md)"
+    - "[Indigenous_Australian.private](/_private/Indigenous_Australian.private.md)"
+    - "[Indigenous_Australian.personal](/_personal/Indigenous_Australian.personal.md)"
+    - "[Indigenous_Australian.secret](/_secret/Indigenous_Australian.secret.md)"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Indigenous_Australians,170355|WD~Indigenous_Australians,170355]]"
+  - "[Indigenous_Australian](/_Standards/Indigenous_Australian.md)"
+  - "[Indigenous_Australian.public](/_public/Indigenous_Australian.public.md)"
+  - "[Indigenous_Australian.internal](/_internal/Indigenous_Australian.internal.md)"
+  - "[Indigenous_Australian.protect](/_protect/Indigenous_Australian.protect.md)"
+  - "[Indigenous_Australian.private](/_private/Indigenous_Australian.private.md)"
+  - "[Indigenous_Australian.personal](/_personal/Indigenous_Australian.personal.md)"
+  - "[Indigenous_Australian.secret](/_secret/Indigenous_Australian.secret.md)"
 ---
 
 # [[Indigenous_Australian]] 
@@ -77,17 +96,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Indigenous_Australian](/_Standards/Indigenous_Australian.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Australia/Indigenous_Australian|Indigenous_Australian]] 
 
-### #is_/same_as :: [Indigenous_Australian.public](/_public/Indigenous_Australian.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Australia/Indigenous_Australian.public|Indigenous_Australian.public]] 
 
-### #is_/same_as :: [Indigenous_Australian.internal](/_internal/Indigenous_Australian.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Australia/Indigenous_Australian.internal|Indigenous_Australian.internal]] 
 
-### #is_/same_as :: [Indigenous_Australian.protect](/_protect/Indigenous_Australian.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Australia/Indigenous_Australian.protect|Indigenous_Australian.protect]] 
 
-### #is_/same_as :: [Indigenous_Australian.private](/_private/Indigenous_Australian.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Australia/Indigenous_Australian.private|Indigenous_Australian.private]] 
 
-### #is_/same_as :: [Indigenous_Australian.personal](/_personal/Indigenous_Australian.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Australia/Indigenous_Australian.personal|Indigenous_Australian.personal]] 
 
-### #is_/same_as :: [Indigenous_Australian.secret](/_secret/Indigenous_Australian.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Australia/Indigenous_Australian.secret|Indigenous_Australian.secret]] 
 

@@ -11,9 +11,20 @@ tags:
 SpocWebEntityId: 26861
 isDeleted: false
 confidential: public
+dv_ISO2: CC
+dv_ISO3: CCK
+dv_name-en: Cocos Island
+dv_name-de: Cocosinseln
+dv_Area-Total: 0
+dv_Area-Land: 0
+dv_Continent: "[[../../Oceania]]"
+dv_Capital: "[[Cocos_Island/City/West_Island]]"
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 96.8333
+dv_has_place_latitude: -12.1833
 ---
-[ISO2::CC] 
-[ISO3::CCK] 
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3` 
 ```leaflet
 id: Cocos Island
 zoomFeatures: true 
@@ -23,34 +34,34 @@ geojsonFolder: ./Cocos_Island/
 markerFolder: ./Cocos_Island/
 ```
 
-[name-en::Cocos Island] 
-[name-de::Cocosinseln] 
-[Area-Total::0] 
-[Area-Land::0] 
-Continent :: [[Oceania]]  
+name-en = `=this.dv_name-en` 
+name-de = `=this.dv_name-de` 
+Area-Total = `=this.dv_Area-Total` 
+Area-Land = `=this.dv_Area-Land` 
+Continent = `=this.dv_Continent`
 [VehicleCode::] 
-Capital :: [[West_Island]]  
+Capital = `=this.dv_Capital`
 [Alcohol-l::] 
 [Language-Id::] 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::96.8333] 
-[has_place_latitude::-12.1833] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 
 
 ## Confidential Links & Embeds: 
 
-### [Cocos_Island](/_Standards/Earth/Continent/Australasia/Australia/Cocos_Island.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Australia/Cocos_Island|Cocos_Island]] 
 
-### [Cocos_Island.public](/_public/Earth/Continent/Australasia/Australia/Cocos_Island.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Australia/Cocos_Island.public|Cocos_Island.public]] 
 
-### [Cocos_Island.internal](/_internal/Earth/Continent/Australasia/Australia/Cocos_Island.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Australia/Cocos_Island.internal|Cocos_Island.internal]] 
 
-### [Cocos_Island.protect](/_protect/Earth/Continent/Australasia/Australia/Cocos_Island.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Australia/Cocos_Island.protect|Cocos_Island.protect]] 
 
-### [Cocos_Island.private](/_private/Earth/Continent/Australasia/Australia/Cocos_Island.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Australia/Cocos_Island.private|Cocos_Island.private]] 
 
-### [Cocos_Island.personal](/_personal/Earth/Continent/Australasia/Australia/Cocos_Island.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Australia/Cocos_Island.personal|Cocos_Island.personal]] 
 
-### [Cocos_Island.secret](/_secret/Earth/Continent/Australasia/Australia/Cocos_Island.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Australia/Cocos_Island.secret|Cocos_Island.secret]] 
 
