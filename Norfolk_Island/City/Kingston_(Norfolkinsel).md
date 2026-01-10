@@ -18,14 +18,14 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 167.9667
 dv_has_place_latitude: -29.06667
-dv_has_name_: Kingston (Norfolkinsel)
+dv_has_name: Kingston (Norfolkinsel)
 dv_Country: "[[../../../Australasia/Australia/Norfolk_Island]]]"
 ---
 #is_a_/Place  
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country = `=this.dv_Country`
 [StateId::] 

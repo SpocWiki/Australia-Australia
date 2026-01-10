@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: 149.1245
 dv_has_place_latitude: -35.30806
-dv_has_name_: Canberra
+dv_has_name: Canberra
 dv_Unknown: 32
 dv_is_:
   same_as: "[[../../../../../../../WikiData/WD~Canberra,3114|WD~Canberra,3114]]"
@@ -98,7 +98,7 @@ inception: 1913-03-12T00:00:00Z
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country :: [[Australia]]  
 [StateId::] 

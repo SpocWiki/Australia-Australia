@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 151.22
 dv_has_place_latitude: -33.87
-dv_has_name_: Sydney
+dv_has_name: Sydney
 
 has_time_started: 1788-01-26 
 aliases:
@@ -148,7 +148,7 @@ Dewey_Decimal_Classification: 2--9441
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country :: [[Australia]]  
 [StateId::] 

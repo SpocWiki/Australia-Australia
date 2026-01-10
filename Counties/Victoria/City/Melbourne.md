@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: 144.97
 dv_has_place_latitude: -37.83
-dv_has_name_: Melbourne
+dv_has_name: Melbourne
 dv_is_:
   same_as: "[[../../../../../../../WikiData/WD~Melbourne,3141|WD~Melbourne,3141]]"
 dv_is_same_as: "[[../../../../../../../WikiData/WD~Melbourne,3141|WD~Melbourne,3141]]"
@@ -208,7 +208,7 @@ IMDb_keyword: melbourne-australia
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country :: [[Australia]]  
 [StateId::] 
