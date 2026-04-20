@@ -1,2 +1,2 @@
-{"type":"Feature","properties":{"ISO3166-1-Alpha-3":"ATC","country":"Ashmore and Cartier Islands","id":null,"name":"Ashmore and Cartier Islands"},
-"geometry":{"type": "Polygon","coordinates": [[[123.59702,-12.42832,0.0],[123.57504,-12.42661,0.0],[123.57561,-12.43678,0.0],[123.59775,-12.43857,0.0],[123.59702,-12.42832,0.0]]]}}
+{"type": "Feature","bbox": [123.57504,-12.43857,123.59775,-12.42661],"geometry": {"type": "Polygon","coordinates": [[[123.59702,-12.42832,0.0],[123.57504,-12.42661,0.0],[123.57561,-12.43678,0.0],[123.59775,-12.43857,0.0],[123.59702,-12.42832,0.0]]]}
+,"properties": {"ISO3166-1-Alpha-3": "ATC","country": "Ashmore and Cartier Islands","name": "Ashmore and Cartier Islands","area_km2": 2.795178,"hist_schema_id": "Elevation0-9000","hist_area_km2": {"0": 2.795178}}}
