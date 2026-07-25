@@ -438,7 +438,7 @@ diplomatic_relation:
   - "[[/_Standards/WikiData/WD~Fiji,712|WD~Fiji,712]]"
 discoverer_or_inventor: "[[/_Standards/WikiData/WD~Willem_Janszoon,174085|WD~Willem_Janszoon,174085]]"
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[/_Standards/WikiData/WD~Pax_Leksikon,3351707|WD~Pax_Leksikon,3351707]]"
   - "[[/_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]"
@@ -1521,7 +1521,7 @@ dv_UNTERM_Chinese_Formal: 澳大利亚
 dv_UNTERM_French_Formal: l'Australie
 dv_UNTERM_Russian: Австралия
 dv_UNTERM_Russian_Formal: Австралия
-dv_Region_Name: "[[../Oceania|Oceania]]"
+dv_Region_Name: "[[../../Oceania|Oceania]]"
 dv_Intermediate_Region_Name: "[[Australia]]"
 dv_Sub-region_Name: "[[Australia and New Zealand]]"
 dv_Region: 9
@@ -1546,7 +1546,7 @@ dv_ISO2: AU
 dv_ISO3: AUS
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Australia,408|WD~Australia,408]]"
+    - "[[../../../../WikiData/WD~Australia,408|WD~Australia,408]]"
     - "[[/_Standards/Earth/Continent/Australasia/Australia|Australia]]"
     - "[[/_public/Earth/Continent/Australasia/Australia.public|Australia.public]]"
     - "[[/_internal/Earth/Continent/Australasia/Australia.internal|Australia.internal]]"
@@ -1561,7 +1561,7 @@ dv_has_place_continent: Australia
 dv_VehicleCode: AUS
 dv_Alcohol-l: 10
 dv_Language-Id: 499
-dv_is_a_: "[[../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 149.027
 dv_has_place_latitude: -35.4776
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Australia-Australia
@@ -1569,7 +1569,7 @@ dv_has_telephone_prefix_international: 11
 dv_has_telephone_prefix_country: 61
 dv_developed_developing_countries: Developed
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Australia,408|WD~Australia,408]]"
+  - "[[../../../../WikiData/WD~Australia,408|WD~Australia,408]]"
   - "[[/_Standards/Earth/Continent/Australasia/Australia|Australia]]"
   - "[[/_public/Earth/Continent/Australasia/Australia.public|Australia.public]]"
   - "[[/_internal/Earth/Continent/Australasia/Australia.internal|Australia.internal]]"
@@ -1585,7 +1585,7 @@ dv_is_same_as:
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Australia/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/properties 
 
@@ -1682,7 +1682,7 @@ Capital :: [[Canberra]]
 
 ![[Coat_of_arms_of_Australia.svg|550]]
 
-![[../../../xLarge/National-Anthem/Anthem-Australia.mp3|Anthem-Australia.mp3]]
+![[../../../../xLarge/National-Anthem/Anthem-Australia.mp3|Anthem-Australia.mp3]]
 ]
 ![[Flag_of_Australia.svg|350]]
 
