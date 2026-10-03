@@ -11,9 +11,12 @@ aliases:
 location:
   - -29.0667
   - 167.967
+  - -31.56
+  - 159.09
 type: Country
 tags:
   - geo/Country
+  - geo/Country/Region
 SpocWebEntityId: 26980
 isDeleted: false
 confidential: public
@@ -22,6 +25,7 @@ isReadOnly: false
 source: https://datahub.io/core/country-codes
 cssclasses:
   - Country
+  - geo-Region
 publish: true
 title: Norfolk Island
 linkTitle: ""
@@ -32,6 +36,7 @@ publishDate: ""
 expiryDate: ""
 Languages:
   - en-NF
+  - de
 dv_ISO4217-currency_alphabetic: AUD
 dv_ISO4217-currency_name: Australian Dollar
 dv_ISO4217-currency_numeric: 36
@@ -198,3 +203,16 @@ has_place_latitude = `=this.dv_has_place_latitude`
 
 ### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Australia/Norfolk_Island.secret|Norfolk_Island.secret]] 
 
+
+## Merged from `_Standards/Earth/Continent/Australasia/Australia/Counties/Norfolk_Island.md`
+
+# Norfolk_Island
+
+```leaflet
+id: Norfolk_Island
+zoomFeatures: true
+minZoom: 4
+maxZoom: 18
+geojsonFolder: ./Norfolk_Island/
+markerFolder: ./Norfolk_Island/
+```
